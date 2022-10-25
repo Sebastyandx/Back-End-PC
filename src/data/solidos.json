@@ -1,0 +1,376 @@
+{
+  "solido": [
+    {
+      "id": 11,
+      "name": "Hikvision C100 120 GB",
+      "brand": "Hikvision",
+      "img": [
+        "https://media.solotodo.com/media/cache/79/cd/79cd6edbe3260a0316b12a81b5e566bb.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "120 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "550 MB/s",
+        "escritura": "435 MB/s"
+      },
+      "cost": 4230
+    },
+    {
+      "id": 12,
+      "name": "Gigabyte 120 GB",
+      "brand": "Gigabyte",
+      "img": [
+        "https://media.solotodo.com/media/cache/77/a7/77a7dfde6c449c3f29e2dd08d598e039.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "120 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "350 MB/s",
+        "escritura": "280 MB/s"
+      },
+      "cost": 4159
+    },
+    {
+      "id": 13,
+      "name": "Crucial BX500 240 GB",
+      "brand": "Crucial",
+      "image": [
+        "https://media.solotodo.com/media/cache/44/d4/44d4c941f8c84ae78c0a1fa3efa61880.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "240 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "540 MB/s",
+        "escritura": "500 MB/s"
+      },
+      "cost": 5249
+    },
+    {
+      "id": 14,
+      "name": "Western Digital Green 240 GB",
+      "brand": "Western Digital",
+      "img": [
+        "https://media.solotodo.com/media/cache/77/a2/77a29c96b7398712f10329ac59290c89.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "240 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "545 MB/s",
+        "escritura": "N/A"
+      },
+      "cost": 5639
+    },
+    {
+      "id": 15,
+      "name": "Crucial BX500 500 GB",
+      "brand": "Crucial",
+      "img": [
+        "https://media.solotodo.com/media/cache/44/d4/44d4c941f8c84ae78c0a1fa3efa61880.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "500 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "550 MB/s",
+        "escritura": "500 MB/s"
+      },
+      "cost": 8480
+    },
+    {
+      "id": 16,
+      "name": "Patriot P210 512 GB",
+      "brand": "Patriot",
+      "img": [
+        "https://media.solotodo.com/media/cache/cb/39/cb39a1c4237a1d7cda4aef5301e53370.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "512 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "520 MB/s",
+        "escritura": "430 MB/s"
+      },
+      "cost": 8799
+    },
+    {
+      "id": 17,
+      "name": "Hikvision E100 512 GB",
+      "brand": "Hikvision",
+      "img": [
+        "https://media.solotodo.com/media/cache/22/fd/22fd42447c39419cff4a31801a17b40f.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "512 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "560 MB/s",
+        "escritura": "510 MB/s"
+      },
+      "cost": 10400
+    },
+    {
+      "id": 18,
+      "name": "Western Digital Green 1 TB",
+      "brand": "Western Digital",
+      "img": [
+        "https://media.solotodo.com/media/cache/b9/75/b975334dc7cc872063fb6e7bf5086dac.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "1 TB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "545 MB/s",
+        "escritura": "N/A"
+      },
+      "cost": 18399
+    },
+    {
+      "id": 19,
+      "name": "Lexar NS100 1 TB",
+      "brand": "Lexar",
+      "img": "https://media.solotodo.com/media/cache/61/58/6158d248ffcc594e29f270952595e428.png",
+      "detail": {
+        "type": "SSD",
+        "capacity": "1 TB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "550 MB/s",
+        "escritura": "N/A"
+      },
+      "cost": 18399
+    },
+    {
+      "id": 20,
+      "name": "Samsung 860 EVO 2 TB",
+      "brand": "Samsung",
+      "img": [
+        "https://media.solotodo.com/media/cache/4f/80/4f808bc26b68fc69c083f4a037840f50.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "2 TB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "550 MB/s",
+        "escritura": "520 MB/s"
+      },
+      "cost": 120109
+    },
+    {
+      "id": 21,
+      "name": "Samsung 870 QVO 8 TB",
+      "brand": "Samsung",
+      "img": [
+        "https://media.solotodo.com/media/cache/8e/58/8e58942ed10b3f42cbd88124558ebf8c.png"
+      ],
+      "detail": {
+        "type": "SSD",
+        "capacity": "8 TB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "560 MB/s",
+        "escritura": "530 MB/s"
+      },
+      "cost": 364309
+    },
+    {
+      "id": 22,
+      "name": "Patriot P300 128 GB",
+      "brand": "Patriot",
+      "img": [
+        "https://media.solotodo.com/media/cache/b5/4b/b54bc33b1bccf3d3ae9b702334ab1c7a.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "128 GB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "1600 MB/s",
+        "escritura": "600 MB/s"
+      },
+      "cost": 5292
+    },
+    {
+      "id": 23,
+      "name": "Western Digital Green 240 GB",
+      "brand": "Western Digital",
+      "img": [
+        "https://media.solotodo.com/media/cache/6a/67/6a6721295082f2239f982cffa8e1d9a7.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "240 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "545 MB/s",
+        "escritura": "N/A"
+      },
+      "cost": 7257
+    },
+    {
+      "id": 24,
+      "name": "Lexar NM100 256 GB",
+      "brand": "Lexar",
+      "img": [
+        "https://media.solotodo.com/media/cache/0e/0b/0e0bfa881e7590049316098446a57a8f.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "256 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "550 MB/s",
+        "escritura": "N/A"
+      },
+      "cost": 7459
+    },
+    {
+      "id": 25,
+      "name": "Western Digital Green 480 GB",
+      "brand": "Western Digital",
+      "img": [
+        "https://media.solotodo.com/media/cache/6f/96/6f96485bc6a8e2b405e262f1bc5c02d7.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "480 GB",
+        "bus": "SATA 3 (6.0 Gb/s)",
+        "size": 2.5,
+        "lectura": "545 MB/s",
+        "escritura": "N/A"
+      },
+      "cost": 14999
+    },
+    {
+      "id": 26,
+      "name": "Gigabyte 512 GB",
+      "brand": "Gigabyte",
+      "img": [
+        "https://media.solotodo.com/media/cache/64/f6/64f6443ccb379a1ff0819e8626a981a4.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "512 GB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "1700 MB/s",
+        "escritura": "1550 MB/s"
+      },
+      "cost": 13986
+    },
+    {
+      "id": 27,
+      "name": "Kingston NV1 500 GB",
+      "brand": "Kingston",
+      "img": [
+        "https://media.solotodo.com/media/cache/15/1d/151d5e9968b85c4908d7a1595ce35416.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "500 GB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "2100 MB/s",
+        "escritura": "1700 MB/s"
+      },
+      "cost": 13929
+    },
+    {
+      "id": 28,
+      "name": "Crucial P2 1 TB",
+      "brand": "Crucial",
+      "img": [
+        "https://media.solotodo.com/media/cache/81/94/81942fa49b3012a99c8e5ec94939222a.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "1 TB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "2400 MB/s",
+        "escritura": "1800 MB/s"
+      },
+      "cost": 18999
+    },
+    {
+      "id": 29,
+      "name": "Western Digital Green SN350 960 GB",
+      "brand": "Western Digital",
+      "img": [
+        "https://media.solotodo.com/media/cache/89/78/8978adbff865d86c349a30e7f62923ea.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "960 GB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "2400 MB/s",
+        "escritura": "1900 MB/s"
+      },
+      "cost": 17999
+    },
+    {
+      "id": 30,
+      "name": "Crucial P3 1 TB ",
+      "brand": "Crucial",
+      "img": [
+        "https://media.solotodo.com/media/cache/42/4e/424ea005899bbc2e187d179cdf000ff7.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "1 TB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "3500 MB/s",
+        "escritura": "3000 MB/s"
+      },
+      "cost": 25050
+    },
+    {
+      "id": 31,
+      "name": "Western Digital Blue SN550 2 TB",
+      "brand": "Western Digital",
+      "img": [
+        "https://media.solotodo.com/media/cache/85/df/85df773dc35e446396635416c2d524d5.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "2 TB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "2400 MB/s",
+        "escritura": "1950 MB/s"
+      },
+      "cost": 97700
+    },
+    {
+      "id": 32,
+      "name": "Samsung 970 Evo Plus 2 TB",
+      "brand": "Samsung",
+      "img": [
+        "https://media.solotodo.com/media/cache/bf/ca/bfca54b65b86504a2351ea2e321a43df.png"
+      ],
+      "detail": {
+        "type": "M.2",
+        "capacity": "2 TB",
+        "bus": "PCIe 3.0",
+        "size": 2.5,
+        "lectura": "3500 MB/s",
+        "escritura": "3000 MB/s"
+      },
+      "cost": 86886
+    }
+  ]
+}

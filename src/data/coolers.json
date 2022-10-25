@@ -1,0 +1,595 @@
+{
+  "coolers": [
+    {
+      "id": 1,
+      "name": "Cooler CPU Deepcool ICE EDGE Mini FS V2",
+      "brand": "Deepcool",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33262_Cooler_CPU_Deepcool_ICE_EDGE_Mini_FS_V2_739bfbdf-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33263_Cooler_CPU_Deepcool_ICE_EDGE_Mini_FS_V2_076b1c5d-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33264_Cooler_CPU_Deepcool_ICE_EDGE_Mini_FS_V2_155499a5-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": false,
+        "nivel de ruido": "25 dba",
+        "consumo": "5W",
+        "tdp": "105W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "112 mm",
+          "tamaño_coolers": "80 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "Ryzen 1th Gen,AM4 APU",
+          "5000,AM4 APU 3th"
+        ]
+      },
+      "cost": "2.750"
+    },
+    {
+      "id": 2,
+      "name": "Cooler CPU Cooler Master Hyper T20",
+      "brand": "Cooler Master",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31579_Cooler_CPU_Cooler_Master_Hyper_T20__f36357ee-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31580_Cooler_CPU_Cooler_Master_Hyper_T20__33300465-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31581_Cooler_CPU_Cooler_Master_Hyper_T20__21817d86-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": false,
+        "nivel de ruido": "30 dba",
+        "consumo": "5W",
+        "tdp": "105W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "117 mm",
+          "tamaño_coolers": "95 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "Ryzen 1th Gen,AM4 APU",
+          "5000,AM4 APU 3th"
+        ]
+      },
+      "cost": "3.199"
+    },
+    {
+      "id": 3,
+      "name": "Cooler CPU ID-Cooling SE-903-XT",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30070_Cooler_CPU_ID-Cooling_SE-903-XT_b98046f6-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30071_Cooler_CPU_ID-Cooling_SE-903-XT_a3a168c0-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30072_Cooler_CPU_ID-Cooling_SE-903-XT_60021773-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "26 dba",
+        "consumo": "5W",
+        "tdp": "125W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "123 mm",
+          "tamaño_coolers": "92 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "Ryzen 1th Gen,AM4 APU",
+          "Ryzen 4th Gen,AM4 Ryzen"
+        ]
+      },
+      "cost": "3.589"
+    },
+    {
+      "id": 4,
+      "name": "Cooler CPU Thermaltake UX100 ARGB",
+      "brand": "Thermaltake",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33637_Cooler_CPU_Thermaltake_UX100_ARGB_12a77695-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33638_Cooler_CPU_Thermaltake_UX100_ARGB_35a62ac3-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33639_Cooler_CPU_Thermaltake_UX100_ARGB_83be16e4-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "27 dba",
+        "consumo": "5W",
+        "tdp": "65W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "66 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,1151,1151",
+          "Coffe Lake,1151 Kaby",
+          "Lake,1155,1156,115X,1200,1200",
+          "Rocket Lake",
+          "S,FM2+,FM2,FM1,AM4",
+          "Ryzen 4th Gen,AM4 Ryzen"
+        ]
+      },
+      "cost": "3.949"
+    },
+    {
+      "id": 5,
+      "name": "Cooler CPU Deepcool UD551 ARGB",
+      "brand": "Deepcool",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33183_Cooler_CPU_Deepcool_UD551_ARGB_812ed2d9-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33184_Cooler_CPU_Deepcool_UD551_ARGB_5328bc86-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33185_Cooler_CPU_Deepcool_UD551_ARGB_908c2f3a-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "27 dba",
+        "consumo": "5W",
+        "tdp": "65W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "62 mm",
+          "tamaño_coolers": "136 mm"
+        },
+        "compatibilidad": [
+          "AM4 Ryzen 4th",
+          "Gen,AM4 Ryzen",
+          "3th Gen,AM4",
+          "Ryzen 2th",
+          "Gen,AM4 Ryzen",
+          "1th Gen,AM4 APU"
+        ]
+      },
+      "cost": "4.000"
+    },
+    {
+      "id": 6,
+      "name": "Cooler CPU DeepCool Gammaxx 400 V2 BLUE",
+      "brand": "Deepcool",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20794_Cooler_CPU_DeepCool_Gammaxx_400_V2_BLUE_6a3a0a60-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20798_Cooler_CPU_DeepCool_Gammaxx_400_V2_BLUE_5ae9d007-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20795_Cooler_CPU_DeepCool_Gammaxx_400_V2_BLUE_3d9860ff-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "27 dba",
+        "consumo": "5W",
+        "tdp": "130W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "155 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "Ryzen 1th Gen,AM4",
+          "APU 5000,AM4 APU"
+        ]
+      },
+      "cost": "4.190"
+    },
+    {
+      "id": 7,
+      "name": "Cooler CPU DeepCool Gammaxx 400 V2 RED",
+      "brand": "Deepcool",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20799_Cooler_CPU_DeepCool_Gammaxx_400_V2_RED_ef2ae6b7-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20800_Cooler_CPU_DeepCool_Gammaxx_400_V2_RED_f5a12024-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20801_Cooler_CPU_DeepCool_Gammaxx_400_V2_RED_a6fb6dce-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "28 dba",
+        "consumo": "5W",
+        "tdp": "130W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "155 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "Ryzen 1th Gen,AM4",
+          "APU 5000,AM4 APU"
+        ]
+      },
+      "cost": "4.190"
+    },
+    {
+      "id": 8,
+      "name": "Cooler CPU Cooler Master Hyper T200",
+      "brand": "Cooler Master",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32670_Cooler_CPU_Cooler_Master_Hyper_T200__e7c7a046-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32671_Cooler_CPU_Cooler_Master_Hyper_T200__7aee27c3-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32672_Cooler_CPU_Cooler_Master_Hyper_T200__26f58e1f-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": false,
+        "nivel de ruido": "28 dba",
+        "consumo": "5W",
+        "tdp": "125W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "137 mm",
+          "tamaño_coolers": "112 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "5000,AM4 APU 3th",
+          "Ryzen 1th Gen,AM4 APU"
+        ]
+      },
+      "cost": "4.600"
+    },
+    {
+      "id": 9,
+      "name": "Cooler CPU ID-Cooling SE-214-XT",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30049_Cooler_CPU_ID-Cooling_SE-214-XT_d61e760a-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30050_Cooler_CPU_ID-Cooling_SE-214-XT_5ff9a8c3-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30051_Cooler_CPU_ID-Cooling_SE-214-XT_69b64f8f-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "27 dba",
+        "consumo": "3W",
+        "tdp": "140W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "150 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "5000,AM4 APU 3th",
+          "APU 5000,AM4 APU"
+        ]
+      },
+      "cost": "4.650"
+    },
+    {
+      "id": 10,
+      "name": "Cooler CPU ID-Cooling SE-214-XT ARGB",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31505_Cooler_CPU_ID-Cooling_SE-214-XT_ARGB_5445a5ce-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31506_Cooler_CPU_ID-Cooling_SE-214-XT_ARGB_4b1c8352-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31507_Cooler_CPU_ID-Cooling_SE-214-XT_ARGB_e89986ba-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "31 dba",
+        "consumo": "5W",
+        "tdp": "140W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "150 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "5000,AM4 APU 3th",
+          "APU 5000,AM4 APU"
+        ]
+      },
+      "cost": "5.050"
+    },
+    {
+      "id": 11,
+      "name": "Cooler CPU ID-Cooling SE-214-XT ARGB White",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33148_Cooler_CPU_ID-Cooling_SE-214-XT_ARGB_White_509e1021-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33149_Cooler_CPU_ID-Cooling_SE-214-XT_ARGB_White_f0cdb70e-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33150_Cooler_CPU_ID-Cooling_SE-214-XT_ARGB_White_0705484c-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "31 dba",
+        "consumo": "5W",
+        "tdp": "140W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "150 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4",
+          "Ryzen 4th Gen,AM4",
+          "Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4",
+          "5000,AM4 APU 3th",
+          "APU 5000,AM4 APU"
+        ]
+      },
+      "cost": "5.100"
+    },
+    {
+      "id": 12,
+      "name": "Cooler CPU ID-Cooling SE-914-XT Basic",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21868_Cooler_CPU_ID-Cooling_SE-914-XT_Basic_203acee2-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21867_Cooler_CPU_ID-Cooling_SE-914-XT_Basic_4bb3e583-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21869_Cooler_CPU_ID-Cooling_SE-914-XT_Basic_12a999f7-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": false,
+        "nivel de ruido": "29 dba",
+        "consumo": "5W",
+        "tdp": "150W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "126 mm",
+          "tamaño_coolers": "92 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4 Ryzen 4th",
+          "Gen,AM4 Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4 Ryzen 1th",
+          "Gen,AM4 APU 5000,AM4 APU",
+          "3th Gen,AM4 APU 2th Gen,AM4",
+          "APU 1th Gen,AM4 A"
+        ]
+      },
+      "cost": "5.550"
+    },
+    {
+      "id": 13,
+      "name": "Cooler CPU Deepcool GAMMAXX GTE V2 RGB3",
+      "brand": "Deepcool",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31369_Cooler_CPU_Deepcool_GAMMAXX_GTE_V2_RGB3_55375420-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31370_Cooler_CPU_Deepcool_GAMMAXX_GTE_V2_RGB3_7c6574c2-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30196_Cooler_CPU_Deepcool_GAMMAXX_GTE_V2_RGB3_d7e785ef-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "27.8 dba",
+        "consumo": "4W",
+        "tdp": "140W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "158 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet",
+          "Lake,1150,1155,1156,1151,1200",
+          "Series,AM4 APU 1th",
+          "Gen,AM4 APU 2th",
+          "3th Gen,AM4 APU 2th Gen,AM4",
+          "Ryzen 1th Gen,AM4 Ryzen"
+        ]
+      },
+      "cost": "5.810"
+    },
+
+    {
+      "id": 14,
+      "name": "Cooler CPU ID-Cooling SE-224-XT Basic",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21864_Cooler_CPU_ID-Cooling_SE-224-XT_Basic_127bb4ba-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21865_Cooler_CPU_ID-Cooling_SE-224-XT_Basic_78557082-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21866_Cooler_CPU_ID-Cooling_SE-224-XT_Basic_3652a846-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": false,
+        "nivel de ruido": "32 dba",
+        "consumo": "5W",
+        "tdp": "180W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "154 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4 Ryzen 4th",
+          "Gen,AM4 Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4 Ryzen 1th",
+          "Gen,AM4 APU 5000,AM4 APU",
+          "3th Gen,AM4 APU 2th Gen,AM4",
+          "Series,AM4,2066,2011_v3,2011,1200"
+        ]
+      },
+      "cost": "5.850"
+    },
+
+    {
+      "id": 15,
+      "name": "Cooler CPU ID-Cooling SE-224-XT White",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24654_Cooler_CPU_ID-Cooling_SE-224-XT_White_be74afc5-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24655_Cooler_CPU_ID-Cooling_SE-224-XT_White_32f9a2c9-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24656_Cooler_CPU_ID-Cooling_SE-224-XT_White_5f856a30-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "32 dba",
+        "consumo": "5W",
+        "tdp": "180W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "154 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4 Ryzen 4th",
+          "Gen,AM4 Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4 Ryzen 1th",
+          "Gen,AM4 APU 5000,AM4 APU",
+          "3th Gen,AM4 APU 2th Gen,AM4",
+          "Series,AM4,2066,2011_v3,2011,1200"
+        ]
+      },
+      "cost": "5.950"
+    },
+    {
+      "id": 16,
+      "name": "Cooler CPU ID-Cooling SE-224-XT Black V2",
+      "brand": "ID-Cooling",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24654_Cooler_CPU_ID-Cooling_SE-224-XT_White_be74afc5-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24655_Cooler_CPU_ID-Cooling_SE-224-XT_White_32f9a2c9-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24656_Cooler_CPU_ID-Cooling_SE-224-XT_White_5f856a30-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "35.2 dba",
+        "consumo": "5W",
+        "tdp": "180W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "153 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1151,1151 Coffe Lake,1151",
+          "Kaby",
+          "Lake,1155,1156,115X,1200,1200",
+          "Comet Lake,1200 Rocket",
+          "Ryzen 4th Gen,AM4 Ryzen",
+          "Gen,AM4 APU 5000,AM4"
+        ]
+      },
+      "cost": "6.040"
+    },
+    {
+      "id": 17,
+      "name": "Cooler CPU Deepcool GAMMAXX GTE V2 White",
+      "brand": "Deepcool",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30286_Cooler_CPU_Deepcool_GAMMAXX_GTE_V2_White_3b6f24ca-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30287_Cooler_CPU_Deepcool_GAMMAXX_GTE_V2_White_ad6d46e8-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30288_Cooler_CPU_Deepcool_GAMMAXX_GTE_V2_White_d4776cac-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "27.8 dba",
+        "consumo": "4W",
+        "tdp": "140W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "157 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet",
+          "Kaby",
+          "Lake,1150,1151 Coffe",
+          "Series,AM4 APU",
+          "1th Gen,AM4 APU",
+          "2th Gen,AM4 APU"
+        ]
+      },
+      "cost": "6.100"
+    },
+    {
+      "id": 18,
+      "name": "Cooler CPU Deepcool GAMMAXX 400XT FRGB",
+      "brand": "Deepcool",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30228_Cooler_CPU_Deepcool_GAMMAXX_400XT_FRGB_5915c43b-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30229_Cooler_CPU_Deepcool_GAMMAXX_400XT_FRGB_3cb3ebd7-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30230_Cooler_CPU_Deepcool_GAMMAXX_400XT_FRGB_c5f51bb0-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "27 dba",
+        "consumo": "3W",
+        "tdp": "140W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "157 mm",
+          "tamaño_coolers": "120 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,1150,1151",
+          "Coffe Lake,1151 Kaby",
+          "Lake,1155,1200 Rocket",
+          "Lake-S,AM4 A-Series,AM4",
+          "APU 1th Gen,AM4 APU",
+          "2th Gen,AM4 APU 3th"
+        ]
+      },
+      "cost": "6.930"
+    },
+    {
+      "id": 19,
+      "name": "Cooler CPU Cooler Master Hyper H410R RGB",
+      "brand": "Cooler Master",
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33155_Cooler_CPU_Cooler_Master_Hyper_H410R_RGB__3f5379a2-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33156_Cooler_CPU_Cooler_Master_Hyper_H410R_RGB__e6afa5fd-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33157_Cooler_CPU_Cooler_Master_Hyper_H410R_RGB__e13af29e-grn.jpg"
+      ],
+      "detail": {
+        "fans": 1,
+        "RGB": true,
+        "nivel de ruido": "29 dba",
+        "consumo": "5W",
+        "tdp": "150W",
+        "disipasión": "Aire",
+        "dimensions": {
+          "altura": "136 mm",
+          "tamaño_coolers": "92 mm"
+        },
+        "compatibilidad": [
+          "1200 Comet Lake,AM4 Ryzen 4th",
+          "Gen,AM4 Ryzen 3th Gen,AM4",
+          "Ryzen 2th Gen,AM4 Ryzen 1th",
+          "Gen,AM4 APU 5000,AM4 APU",
+          "3th Gen,AM4 APU 2th Gen,AM4",
+          "Series,AM4,2066,2011_v3,2011,1200"
+        ]
+      },
+      "cost": "7.560"
+    }
+  ]
+}
