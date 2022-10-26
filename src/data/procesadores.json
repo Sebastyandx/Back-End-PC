@@ -12,7 +12,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4300 mhz"
       },
-      "cost": 30600,
+      "cost": "30600",
       "img": ["asd", "asd"]
     },
     {
@@ -28,7 +28,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": 33500,
+      "cost": "33500",
       "img": []
     },
     {
@@ -44,7 +44,7 @@
         "Hilos": 8,
         "Frecuencia_Turbo": "4300 mhz"
       },
-      "cost": 34650,
+      "cost": "34650",
       "img": []
     },
     {
@@ -60,7 +60,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": 40150,
+      "cost": "40150",
       "img": []
     },
     {
@@ -76,7 +76,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": 40550,
+      "cost": "40550",
       "img": []
     },
     {
@@ -92,7 +92,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": 48550,
+      "cost": "48550",
       "img": []
     },
     {
@@ -108,7 +108,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4800 mhz"
       },
-      "cost": 48800,
+      "cost": "48800",
       "img": []
     },
     {
@@ -124,7 +124,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": 54100,
+      "cost": "54100",
       "img": []
     },
     {
@@ -140,7 +140,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4800 mhz"
       },
-      "cost": 57600,
+      "cost": "57600",
       "img": []
     },
     {
@@ -156,7 +156,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": 61200,
+      "cost": "61200",
       "img": []
     },
     {
@@ -172,7 +172,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": 67100,
+      "cost": "67100",
       "img": []
     },
     {
@@ -188,7 +188,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4800 mhz"
       },
-      "cost": 72050,
+      "cost": "72050",
       "img": []
     },
     {
@@ -204,7 +204,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "5000 mhz"
       },
-      "cost": 73350,
+      "cost": "73350",
       "img": []
     },
     {
@@ -220,7 +220,7 @@
         "Hilos": 20,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": 92500,
+      "cost": "92500",
       "img": []
     },
     {
@@ -236,7 +236,7 @@
         "Hilos": 20,
         "Frecuencia_Turbo": "5000 mhz"
       },
-      "cost": 104400,
+      "cost": "104400",
       "img": []
     },
     {
@@ -252,7 +252,7 @@
         "Hilos": 20,
         "Frecuencia_Turbo": "5000 mhz"
       },
-      "cost": 111500,
+      "cost": "111500",
       "img": []
     },
     {
@@ -268,7 +268,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4200 mhz"
       },
-      "cost": 29900,
+      "cost": "29900",
       "img": []
     },
     {
@@ -284,7 +284,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4100 mhz"
       },
-      "cost": 30450,
+      "cost": "30450",
       "img": []
     },
     {
@@ -300,7 +300,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4200 mhz"
       },
-      "cost": 33250,
+      "cost": "33250",
       "img": []
     },
     {
@@ -316,7 +316,7 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "3600 mhz"
       },
-      "cost": 31500,
+      "cost": "31500",
       "img": []
     },
     {
@@ -332,7 +332,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4600 mhz"
       },
-      "cost": 61500,
+      "cost": "61500",
       "img": []
     },
     {
@@ -348,7 +348,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": 65400,
+      "cost": "65400",
       "img": []
     },
     {
@@ -364,7 +364,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4600 mhz"
       },
-      "cost": 65450,
+      "cost": "65450",
       "img": []
     }
   ]
