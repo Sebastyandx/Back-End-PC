@@ -9,10 +9,10 @@
         "Socket": "1200 Comet Lake",
         "Núcleos": 6,
         "Frecuencia": "2900.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "4300 mhz"
+        "Frecuencia_Turbo": "4300 mhz"
       },
       "cost": 30600,
       "img": []
@@ -26,10 +26,10 @@
         "Socket": "1200 Rocket Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2600.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "4400 mhz"
+        "Frecuencia_Turbo": "4400 mhz"
       },
       "cost": 33500,
       "img": []
@@ -43,10 +43,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 4,
         "Frecuencia": "3300.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "UHD Graphics 730",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 730",
         "Hilos": 8,
-        "Frecuencia Turbo": "4300 mhz"
+        "Frecuencia_Turbo": "4300 mhz"
       },
       "cost": 34650,
       "img": []
@@ -60,10 +60,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2500.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "4400 mhz"
+        "Frecuencia_Turbo": "4400 mhz"
       },
       "cost": 40150,
       "img": []
@@ -77,10 +77,10 @@
         "Socket": "1200 Rocket Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2600.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "UHD Graphics 730",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "UHD Graphics 730",
         "Hilos": 12,
-        "Frecuencia Turbo": "4400 mhz"
+        "Frecuencia_Turbo": "4400 mhz"
       },
       "cost": 40550,
       "img": []
@@ -94,10 +94,10 @@
         "Socket": "1200 Rocket Lake-S",
         "Núcleos": 6,
         "Frecuencia": "3900.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "4900 mhz"
+        "Frecuencia_Turbo": "4900 mhz"
       },
       "cost": 48550,
       "img": []
@@ -111,10 +111,10 @@
         "Socket": "1200 Comet Lake",
         "Núcleos": 6,
         "Frecuencia": "4100.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "Intel HD Graphics 630",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "Intel HD Graphics 630",
         "Hilos": 12,
-        "Frecuencia Turbo": "4800 mhz"
+        "Frecuencia_Turbo": "4800 mhz"
       },
       "cost": 48800,
       "img": []
@@ -128,10 +128,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2500.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "UHD Graphics 730",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 730",
         "Hilos": 12,
-        "Frecuencia Turbo": "4400 mhz"
+        "Frecuencia_Turbo": "4400 mhz"
       },
       "cost": 54100,
       "img": []
@@ -145,10 +145,10 @@
         "Socket": "1200 Comet Lake",
         "Núcleos": 8,
         "Frecuencia": "2900.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 16,
-        "Frecuencia Turbo": "4800 mhz"
+        "Frecuencia_Turbo": "4800 mhz"
       },
       "cost": 57600,
       "img": []
@@ -162,10 +162,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 10,
         "Frecuencia": "2800.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 16,
-        "Frecuencia Turbo": "4900 mhz"
+        "Frecuencia_Turbo": "4900 mhz"
       },
       "cost": 61200,
       "img": []
@@ -179,10 +179,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 10,
         "Frecuencia": "2800.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 16,
-        "Frecuencia Turbo": "4900 mhz"
+        "Frecuencia_Turbo": "4900 mhz"
       },
       "cost": 67100,
       "img": []
@@ -196,10 +196,10 @@
         "Socket": "1200 Comet Lake",
         "Núcleos": 8,
         "Frecuencia": "2900.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "Intel HD Graphics 630",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "Intel HD Graphics 630",
         "Hilos": 16,
-        "Frecuencia Turbo": "4800 mhz"
+        "Frecuencia_Turbo": "4800 mhz"
       },
       "cost": 72050,
       "img": []
@@ -213,10 +213,10 @@
         "Socket": "1200 Comet Lake",
         "Núcleos": 8,
         "Frecuencia": "3800.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "Intel HD Graphics 630",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "Intel HD Graphics 630",
         "Hilos": 16,
-        "Frecuencia Turbo": "5000 mhz"
+        "Frecuencia_Turbo": "5000 mhz"
       },
       "cost": 73350,
       "img": []
@@ -230,10 +230,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 12,
         "Frecuencia": "2100.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "UHD Graphics 770",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 770",
         "Hilos": 20,
-        "Frecuencia Turbo": "4900 mhz"
+        "Frecuencia_Turbo": "4900 mhz"
       },
       "cost": 92500,
       "img": []
@@ -247,10 +247,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 12,
         "Frecuencia": "2700.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "UHD Graphics 770",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 770",
         "Hilos": 20,
-        "Frecuencia Turbo": "5000 mhz"
+        "Frecuencia_Turbo": "5000 mhz"
       },
       "cost": 104400,
       "img": []
@@ -264,10 +264,10 @@
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 12,
         "Frecuencia": "2700.00 mhz",
-        "Proceso De Fabricación": "10 nm",
-        "Chipset Gpu": "UHD Graphics 770",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 770",
         "Hilos": 20,
-        "Frecuencia Turbo": "5000 mhz"
+        "Frecuencia_Turbo": "5000 mhz"
       },
       "cost": 111500,
       "img": []
@@ -281,10 +281,10 @@
         "Socket": "AM4 APU 3th Gen",
         "Núcleos": 6,
         "Frecuencia": "3700.00 mhz",
-        "Proceso De Fabricación": "7 nm",
-        "Chipset Gpu": "Radeon Vega 7",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "Radeon Vega 7",
         "Hilos": 12,
-        "Frecuencia Turbo": "4200 mhz"
+        "Frecuencia_Turbo": "4200 mhz"
       },
       "cost": 29900,
       "img": []
@@ -298,10 +298,10 @@
         "Socket": "AM4 APU 3th Gen",
         "Núcleos": 6,
         "Frecuencia": "3600.00 mhz",
-        "Proceso De Fabricación": "7 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "4100 mhz"
+        "Frecuencia_Turbo": "4100 mhz"
       },
       "cost": 30450,
       "img": []
@@ -315,10 +315,10 @@
         "Socket": "AM4 Ryzen 4th Gen",
         "Núcleos": 6,
         "Frecuencia": "3600.00 mhz",
-        "Proceso De Fabricación": "7 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "4200 mhz"
+        "Frecuencia_Turbo": "4200 mhz"
       },
       "cost": 33250,
       "img": []
@@ -332,10 +332,10 @@
         "Socket": "AM4 Ryzen 2th Gen",
         "Núcleos": 6,
         "Frecuencia": "3200.00 mhz",
-        "Proceso De Fabricación": "12 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "12 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "3600 mhz"
+        "Frecuencia_Turbo": "3600 mhz"
       },
       "cost": 31500,
       "img": []
@@ -349,10 +349,10 @@
         "Socket": "AM4 Ryzen 4th Gen",
         "Núcleos": 8,
         "Frecuencia": "3400.00 mhz",
-        "Proceso De Fabricación": "7 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 16,
-        "Frecuencia Turbo": "4600 mhz"
+        "Frecuencia_Turbo": "4600 mhz"
       },
       "cost": 61500,
       "img": []
@@ -366,10 +366,10 @@
         "Socket": "AM4 APU 3th Gen",
         "Núcleos": 8,
         "Frecuencia": "3600.00 mhz",
-        "Proceso De Fabricación": "7 nm",
-        "Chipset Gpu": "Radeon Vega 7",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "Radeon Vega 7",
         "Hilos": 16,
-        "Frecuencia Turbo": "4400 mhz"
+        "Frecuencia_Turbo": "4400 mhz"
       },
       "cost": 65400,
       "img": []
@@ -383,10 +383,10 @@
         "Socket": "AM4 APU 5000",
         "Núcleos": 8,
         "Frecuencia": "3800.00 mhz",
-        "Proceso De Fabricación": "7 nm",
-        "Chipset Gpu": "Radeon Vega 8",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "Radeon Vega 8",
         "Hilos": 16,
-        "Frecuencia Turbo": "4600 mhz"
+        "Frecuencia_Turbo": "4600 mhz"
       },
       "cost": 65450,
       "img": []
