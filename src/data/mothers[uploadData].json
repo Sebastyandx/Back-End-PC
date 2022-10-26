@@ -385,7 +385,7 @@
       "name": "Mother ASUS TUF X570-PLUS GAMING WiFi AM4 PCIe 4.0 Dual M.2",
       "cost": 55600,
       "img": ["https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"],
-      "detials": {
+      "details": {
         "generation": "X570-PLUS",
         "connectivity": {
           "Cantidad De Slot Pci-e 16X": 2,
@@ -598,7 +598,7 @@
       "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
       "cost": 50300,
       "img": ["https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"],
-      "detials":{
+      "details":{
         "generation": "B550",
         "connectivity": {
           "Cantidad De Slot Pci-e 16X": 1,
@@ -858,7 +858,7 @@
       "name": "Mother Asrock B550M Steel Legend AM4",
       "cost": 32030,
       "img": ["https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"],
-      "detials" :{
+      "details" :{
         "generation": "B550M",
         "connectivity": {
           "Cantidad De Slot Pci-e 16X": 2,
