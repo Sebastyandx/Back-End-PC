@@ -4,13 +4,12 @@ const { Router } = require("express");
 const pokemonRoute = require("./pokemons");
 const typeRoute = require("./type");
 const motherBoard = require('./motherBoard.js');
+const RuterProcesador = require("../routes/Controllers/ProcesadoresController");
 const router = Router();
 
 // Configurar los routers
 // Ejemplo: router.use('/auth', authRouter);
-router.use("/motherBoard", motherBoard)
-router.use("/mothers", pokemonRoute);
-router.use("/procesador", typeRoute);
-
+router.use("/motherBoard", motherBoard
+router.use("/procesadores", RuterProcesador);
 
 module.exports = router;
