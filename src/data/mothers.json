@@ -1,5 +1,4 @@
-{
-  "mother": [
+ [
     {
       "id": 1,
       "brand": "AMD",
@@ -1635,4 +1634,3 @@
       "Dimensions": "ATX"
     }
   ]
-}
