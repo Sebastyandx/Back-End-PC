@@ -24,7 +24,7 @@ module.exports = (sequelize) => {
         type: DataTypes.JSON,
       },
       cost: {
-        type: DataTypes.INTEGER,
+        type: DataTypes.STRING,
         allowNull: false,
       },
     },
