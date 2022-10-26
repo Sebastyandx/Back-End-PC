@@ -1,5 +1,5 @@
-const mothersData = require('../../../data/mothers[uploadData].json');
-const {Producto} = require('../../../db.js')
+const mothersData = require('../data/mothers[uploadData].json');
+const {Producto} = require('../db.js')
 
 function createMotherBoard(){
     Producto.bulkCreate(mothersData)

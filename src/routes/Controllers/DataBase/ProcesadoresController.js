@@ -2,7 +2,7 @@ const axios = require("axios");
 const e = require("express");
 const { Router } = require('express');
 const router = Router();
-const {Procesador} = require('../../db')
+const {Procesador} = require('../../../db')
 
 const getDBproces = async (id) =>{
   try{
@@ -19,10 +19,6 @@ const getDBproces = async (id) =>{
     return err
   }
 }
-
-router.get(`/`, async (req, res)=>{
-  res.send('Soy una ruta falsa')
-})
 
 router.get(`/procesadores`, async (req,res)=>{
   const {id} = req.query;
