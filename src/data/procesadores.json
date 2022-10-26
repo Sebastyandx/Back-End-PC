@@ -9,10 +9,10 @@
         "Socket": "1200 Comet Lake",
         "Núcleos": 6,
         "Frecuencia": "2900.00 mhz",
-        "Proceso De Fabricación": "14 nm",
-        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Proceso_De_Fabricación": "14 nm",
+        "Chipset_Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 12,
-        "Frecuencia Turbo": "4300 mhz"
+        "Frecuencia_Turbo": "4300 mhz"
       },
       "cost": 30600,
       "img": []
