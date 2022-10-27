@@ -1,0 +1,382 @@
+[
+ 
+ {
+    "id":1,
+    "name":"Monitor LG LED 19'' 19M38A-B VGA",
+    "brand":"LG",
+    "cost": 35.820,
+    "detalles":{
+        "tiempoDeRespuesta": "5ms",
+        "tipoDePanel": "TN",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"21 w",
+        "connectivity":"HDMI",
+        "RGB":"No",
+        "peso":"1.9 kg",
+        "frequency":"60 hz",
+        "pulgadas": 19
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8685_Monitor_LG_LED_19___19M38A-B_VGA_7cb9fb0f-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8684_Monitor_LG_LED_19___19M38A-B_VGA_2d36dd47-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_5166_Monitor_LG_LED_19___19M38A-B_VGA_cfc62b71-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_5167_Monitor_LG_LED_19___19M38A-B_VGA_1a419514-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":2,
+    "name":"Monitor ASUS 21.5'' Full HD 1ms HDMI VGA VP228HE-J",
+    "brand":"ASUS",
+    "cost": 46.050,
+    "detalles":{
+        "tiempoDeRespuesta": "1ms",
+        "tipoDePanel": "TN",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"21 w",
+        "connectivity":"HDMI, VGA, Mini Display Port",
+        "RGB":"No",
+        "peso":"5.3 kg",
+        "frequency":"60 hz",
+        "pulgadas":21.5
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27035_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_ab08befc-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27034_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_a797ab9e-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27036_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_29ad25c0-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27037_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_313cf0e0-grn.jpg"
+        
+
+    ]
+ },
+ {  
+    "id":3,
+    "name":"Monitor Samsung 24'' T350 75Hz IPS FHD FreeSync",
+    "brand":"Samsung",
+    "cost": 50.000,
+    "detalles":{
+        "tiempoDeRespuesta": "5ms",
+        "tipoDePanel": "IPS",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"15 w",
+        "connectivity":"HDMI, VGA",
+        "RGB":"No",
+        "peso":"2.4 kg",
+        "frequency":"240 hz",
+        "pulgadas": 24
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32686_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_2e3dbb7f-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32685_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_f34162c0-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32688_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_b782429b-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32689_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_5da604ef-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":4,
+    "name":"Monitor ASUS 24'' VA24EHE-J Full HD",
+    "brand":"ASUS",
+    "cost": 52.100,
+    "detalles":{
+        "tiempoDeRespuesta": "5ms",
+        "tipoDePanel": "IPS",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"14 w",
+        "connectivity":"HDMI, VGA",
+        "RGB":"No",
+        "peso":"3.18 kg",
+        "frequency":"240 hz",
+        "pulgadas": 24
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33878_Monitor_ASUS_24__VA24EHE-J_Full_HD_ac877e59-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33879_Monitor_ASUS_24__VA24EHE-J_Full_HD_e5e827ed-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33880_Monitor_ASUS_24__VA24EHE-J_Full_HD_8f385479-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33881_Monitor_ASUS_24__VA24EHE-J_Full_HD_699389e6-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":5,
+    "name":"Monitor Samsung 27'' T350H FHD IPS 75Hz",
+    "brand":"Samsung",
+    "cost": 60.200,
+    "detalles":{
+        "tiempoDeRespuesta": "5ms",
+        "tipoDePanel": "IPS",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"40 w",
+        "connectivity":"HDMI",
+        "RGB":"No",
+        "peso":"1.8 kg",
+        "frequency":"75 hz",
+        "pulgadas": 27
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32573_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_ead62411-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32574_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_409030ef-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32575_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_5fec6ce8-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32576_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_20ef46eb-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":6,
+    "name":"Monitor Gamer Samsung 24'' G50 Curvo 144Hz Full HD",
+    "brand":"Samsung",
+    "cost": 67.400,
+    "detalles":{
+        "tiempoDeRespuesta": "4ms",
+        "tipoDePanel": "VA",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"40 w",
+        "connectivity":"Conector Auriculares, HDMI X 3, Display Port",
+        "RGB":"No",
+        "peso":"3.8 kg",
+        "frequency":"144 hz",
+        "pulgadas": 24
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13395_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_c45d63c2-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13396_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_4baf4931-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13397_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_bb5350b0-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13398_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_6d455461-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":7,
+    "name":"Monitor LG 26'' 26WQ500-B UltraWide 21:9",
+    "brand":"LG",
+    "cost": 68.650,
+    "detalles":{
+        "tiempoDeRespuesta": "5ms",
+        "tipoDePanel": "IPS",
+        "resolution":"2560x1080",
+        "iluminacion":"LED",
+        "consumo":"24 w",
+        "connectivity":"Conector Auriculares, HDMI X 2",
+        "RGB":"No",
+        "peso":"3 kg",
+        "frequency":"75 hz",
+        "pulgadas":26
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33354_Monitor_LG_26__26WQ500-B_UltraWide_21_9_161a12c9-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33356_Monitor_LG_26__26WQ500-B_UltraWide_21_9_c487a794-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33358_Monitor_LG_26__26WQ500-B_UltraWide_21_9_3db347aa-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33357_Monitor_LG_26__26WQ500-B_UltraWide_21_9_e40ff04d-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":8,
+    "name":"Monitor Gamer Samsung 24'' G3 Odyssey Full HD 144Hz",
+    "brand":"Samsung",
+    "cost": 72750,
+    "detalles":{
+        "tiempoDeRespuesta": "1ms",
+        "tipoDePanel": "VA",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"40 w",
+        "connectivity":"Conector Auriculares, HDMI, Display Port",
+        "RGB":"No",
+        "peso":"2.8 kg",
+        "frequency":"144 hz",
+        "pulgadas":24
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34392_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_6c06c378-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34394_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_99694638-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34395_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_f4d54fe2-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34396_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_2582f085-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":9,
+    "name":"Monitor Gamer Cooler Master 27'' 165hz Curvo 1500R GM27-CF",
+    "brand":"Cooler Master",
+    "cost": 83.400,
+    "detalles":{
+        "tiempoDeRespuesta": "3ms",
+        "tipoDePanel": "VA",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"40 w",
+        "connectivity":"Conector Auriculares, HDMI X 2, Display Port",
+        "RGB":"No",
+        "peso":"5 kg",
+        "frequency":"165 hz",
+        "pulgadas":27
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30806_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_a60f830a-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26370_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_0334d98e-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26371_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_ccf3fe09-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26373_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_f8c14957-grn.jpg"
+
+    ]
+ },
+ {  
+    "id":10,
+    "name":"Monitor Gamer LG 23.8'' UltraGear 24GN600-B 144Hz IPS FHD 1ms DP HDMI",
+    "brand":"LG",
+    "cost": 84.520,
+    "detalles":{
+        "tiempoDeRespuesta": "1ms",
+        "tipoDePanel": "IPS",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"40 w",
+        "connectivity":"Conector Auriculares, HDMI X 2, Display Port",
+        "RGB":"No",
+        "peso":"3.5 kg",
+        "frequency":"144 hz",
+        "pulgadas":24
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32493_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_7f5f187f-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32492_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_84d0b07e-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27444_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_2db4667b-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27445_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_cd2fc7e9-grn.jpg"
+
+    ]    
+    
+ },
+ {  
+    "id":11,
+    "name":"Monitor LG 29'' UltraWide Full HD IPS",
+    "brand":"LG",
+    "cost": 87.500,
+    "detalles":{
+        "tiempoDeRespuesta": "5ms",
+        "tipoDePanel": "IPS",
+        "resolution":"2560x1080",
+        "iluminacion":"WLED",
+        "consumo":"40 w",
+        "connectivity":"Conector Auriculares, HDMI X 2",
+        "RGB":"No",
+        "peso":"4 kg",
+        "frequency":"75 hz",
+        "pulgadas":29
+    },
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30745_Monitor_LG_29__UltraWide_Full_HD_IPS_422fdb4e-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30746_Monitor_LG_29__UltraWide_Full_HD_IPS_f24b4142-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30747_Monitor_LG_29__UltraWide_Full_HD_IPS_50979b52-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30748_Monitor_LG_29__UltraWide_Full_HD_IPS_351f639e-grn.jpg"
+
+    ]
+        
+ },
+ {  
+    "id":12,
+    "name":"Monitor Gamer Viewsonic 24'' XG2431 240Hz 1Ms",
+    "brand":"Viewsonic",
+    "cost":111.550,
+    "detalles":{
+        "tiempoDeRespuesta": "1ms",
+        "tipoDePanel": "IPS",
+        "resolution":"1920x1080",
+        "iluminacion":"LED",
+        "consumo":"40 w",
+        "connectivity":"Conector Auriculares, HDMI X 2, Display Port, Puerto USB 2.0 x 2",
+        "RGB":"No",
+        "peso":"3.5 kg",
+        "frequency":"240 hz",
+        "pulgadas":24},
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29477_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_f5c805bd-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29476_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_ccd78dd2-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29478_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_00d0b3a7-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29479_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_9c027f06-grn.jpg"
+
+    ]
+        
+ },
+ {  
+    "id":13,
+    "name":"Monitor Gamer LG 27'' 27UL500-W UHD 4K HDR10 IPS",
+    "brand":"LG",
+    "cost": 138.650,
+    "detalles":{
+        "tiempoDeRespuesta": "1ms",
+        "tipoDePanel": "IPS",
+        "resolution":"3840x2160",
+        "iluminacion":"LCD",
+        "consumo":"41 w",
+        "connectivity":"Conector Auriculares, HDMI, Display Port",
+        "RGB":"No",
+        "peso":"4.6 kg",
+        "frequency":"60 hz",
+        "pulgadas": 27},
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_15108_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_d7cfcca9-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_15110_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_ddb63df2-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_15111_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_549105a6-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_15112_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_cc3e817c-grn.jpg"
+
+    ]
+        
+ },
+ {  
+    "id":14,
+    "name":"Monitor Gamer LG 34'' UltraGear 34GL750 Ultra Wide Curvo 144Hz 1ms",
+    "brand":"LG",
+    "cost": 195.550,
+    "detalles":{
+        "tiempoDeRespuesta": "10ms",
+        "tipoDePanel": "IPS",
+        "resolution":"2560x1080",
+        "iluminacion":"LED",
+        "consumo":"58 w",
+        "connectivity":"HDMI X 2, Display Port",
+        "RGB":"No",
+        "peso":"6.1 kg",
+        "frequency":"144 hz",
+        "pulgadas": 34},
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17179_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_2859a4b1-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17181_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_a07c0235-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17182_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_661508ae-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17183_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_6ae5a9a9-grn.jpg"
+
+    ]
+        
+ },
+ {  
+    "id":15,
+    "name":"Monitor LG 28'' Dual Ergo 28MQ780-B SDQHD Nano IPS",
+    "brand":"LG",
+    "cost": 289.200,
+    "detalles":{
+        "tiempoDeRespuesta": "5ms",
+        "tipoDePanel": "NANO IPS",
+        "resolution":"2560x2880",
+        "iluminacion":"LED",
+        "consumo":"90 w",
+        "connectivity":"HDMI X 2, Display Port. Puerto USB 3.0 x 2, Puerto USB 3.1",
+        "RGB":"No",
+        "peso":"4.35 kg",
+        "frequency":"60 hz",
+        "pulgadas": 28},
+    "IMG":[
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33979_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_c6884770-med.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33981_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_37035697-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33980_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_e57a5d4c-med.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33982_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_5fe933c1-med.jpg"
+
+    ]
+        
+ }
+
+]
