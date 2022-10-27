@@ -5144,7 +5144,7 @@
         "cost": "24.500"
       },
       {
-        "Type": "ram",
+        "type": "ram",
         "name": "Kingston KVR26N19S6/4",
         "brand": "Kingston",
         "img": [
@@ -5168,7 +5168,7 @@
         "cost": 5039
       },
       {
-        "Type": "ram",
+        "type": "ram",
         "name": "A-DATA AD4U2400W4G17-S",
         "brand": "A-DATA",
         "img": [
@@ -5192,7 +5192,7 @@
         "cost": 5406
       },
       {
-        "id": 3,
+        "type": "ram",
         "name": "Crucial CB8GU2666",
         "brand": "Crucial",
         "img": [
@@ -5216,7 +5216,7 @@
         "cost": 8867
       },
       {
-        "id": 4,
+        "type": "ram",
         "name": "Crucial CT8G4DFRA32A",
         "brand": "Crucial",
         "img": [
@@ -5240,7 +5240,7 @@
         "cost": 13394
       },
       {
-        "id": 5,
+        "type": "ram",
         "name": "Kingston Fury Beast KF426C16BB/4",
         "brand": "Kingston",
         "img": [
@@ -5264,7 +5264,7 @@
         "cost": 7305
       },
       {
-        "id": 6,
+        "type": "ram",
         "name": "Hikvision Urien U10 HKED4081CBA2D1ZA2/8G",
         "brand": "Hikvision",
         "img": [
@@ -5288,7 +5288,7 @@
         "cost": 11100
       },
       {
-        "id": 7,
+        "type": "ram",
         "name": "Kingston Fury Beast KF426C16BB/8",
         "brand": "Kingston",
         "img": [
@@ -5312,7 +5312,7 @@
         "cost": 9369
       },
       {
-        "id": 8,
+        "type": "ram",
         "name": "Kingston Fury Beast KF432C16BB/8",
         "brand": "Kingston",
         "img": [
@@ -5336,7 +5336,7 @@
         "cost": 9669
       },
       {
-        "id": 9,
+        "type": "ram",
         "name": "PNY XLR8 Epic-X RGB MD8GD4320016XRGB",
         "brand": "PNY",
         "img": [
@@ -5360,7 +5360,7 @@
         "cost": 12799
       },
       {
-        "id": 10,
+        "type": "ram",
         "name": "Kingston Fury Beast KF426C16BBA/8",
         "brand": "Kingston",
         "img": [
@@ -5384,7 +5384,7 @@
         "cost": 13219
       },
       {
-        "id": 11,
+        "type": "ram",
         "name": "Patriot Viper Steel RGB PVSR48G320C8",
         "brand": "Patriot",
         "img": [
@@ -5408,7 +5408,7 @@
         "cost": 12990
       },
       {
-        "id": 12,
+        "type": "ram",
         "name": "Kingston Fury Renegade RGB KF432C16RBA/8",
         "brand": "Kingston",
         "img": [
@@ -5432,7 +5432,7 @@
         "cost": 15990
       },
       {
-        "id": 13,
+        "type": "ram",
         "name": "Crucial Ballistix CT8G48C40U5",
         "brand": "Crucial",
         "img": [
@@ -5456,7 +5456,7 @@
         "cost": 20631
       },
       {
-        "id": 14,
+        "type": "ram",
         "name": "Kingston Fury Beast KF552C40BB-8",
         "brand": "Kingston",
         "img": [
@@ -5480,7 +5480,7 @@
         "cost": 22990
       },
       {
-        "id": 15,
+        "type": "ram",
         "name": "Kingston Fury Beast KF560C40BB-8",
         "brand": "Kingston",
         "img": [
@@ -5504,7 +5504,7 @@
         "cost": 22990
       },
       {
-        "id": 16,
+        "type": "ram",
         "name": "Kingston Fury Beast RGB KF556C40BBA-8",
         "brand": "Kingston",
         "img": [
@@ -5528,7 +5528,7 @@
         "cost": 41532
       },
       {
-        "id": 17,
+        "type": "ram",
         "name": "Kingston Fury Beast KF556C40BB-16",
         "brand": "Kingston",
         "img": [
@@ -5552,7 +5552,7 @@
         "cost": 34900
       },
       {
-        "id": 18,
+        "type": "ram",
         "name": "Kingston Fury Beast RGB KF556C40BBA-8",
         "brand": "Kingston",
         "img": [
@@ -5576,7 +5576,7 @@
         "cost": 19796
       },
       {
-        "id": 19,
+        "type": "ram",
         "name": "Corsair Vengeance RGB Pro CMW32GX4M2D3200C18",
         "brand": "Corsair",
         "img": [
