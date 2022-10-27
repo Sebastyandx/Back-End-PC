@@ -34,9 +34,7 @@ module.exports = {
   },
 
   changeProces: async (name, brand, img, details, cost, id) => {
-    // const proces = await Procesador.findByPk(id);
-    // console.log(proces, "aaa");
-    await Procesador.update({ name, brand, cost }, { where: { id } });
+    await Procesador.update({ name, brand, img, details,  cost }, { where: { id } });
     return "s";
   },
 };

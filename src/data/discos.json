@@ -1,7 +1,6 @@
-{
-  "discos": [
+[
     {
-      "id": 1,
+      "type": "disco",
       "name": "Western Digital Blue 500 GB",
       "brand": "Western Digital",
       "img": [
@@ -18,7 +17,7 @@
       "cost": 9099
     },
     {
-      "id": 2,
+      "type": "disco",
       "name": "Seagate Barracuda Compute 500 GB",
       "brand": "Seagate",
       "img": [
@@ -35,7 +34,7 @@
       "cost": 6799
     },
     {
-      "id": 3,
+      "type": "disco",
       "name": "Western Digital Purple 1 TB",
       "brand": "Western Digital",
       "img": [
@@ -52,7 +51,7 @@
       "cost": 11054
     },
     {
-      "id": 4,
+      "type": "disco",
       "name": "Toshiba P300 1 TB",
       "brand": "Toshiba",
       "img": [
@@ -69,7 +68,7 @@
       "cost": 11699
     },
     {
-      "id": 5,
+      "type": "disco",
       "name": "Western Digital Blue 1 TB",
       "brand": "Western Digital",
       "image": [
@@ -86,7 +85,7 @@
       "cost": 8739
     },
     {
-      "id": 6,
+      "type": "disco",
       "name": "Seagate Barracuda Compute 1 TB",
       "brand": "Seagate",
       "img": [
@@ -103,7 +102,7 @@
       "cost": 10039
     },
     {
-      "id": 7,
+      "type": "disco",
       "name": "Seagate Savvio 300 GB",
       "brand": "Seagate",
       "img": [
@@ -120,7 +119,7 @@
       "cost": 15990
     },
     {
-      "id": 8,
+      "type": "disco",
       "name": "Lenovo 1200 GB",
       "brand": "Lenovo",
       "img": [
@@ -137,7 +136,7 @@
       "cost": 72394
     },
     {
-      "id": 9,
+      "type": "disco",
       "name": "Seagate Cheetah 450 GB",
       "brand": "Seagate",
       "img": [
@@ -154,7 +153,7 @@
       "cost": 90000
     },
     {
-      "id": 10,
+      "type": "disco",
       "name": "Dell 600 GB",
       "brand": "Dell",
       "img": [
@@ -171,4 +170,4 @@
       "cost": 89464
     }
   ]
-}
+

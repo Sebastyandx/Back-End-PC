@@ -1,7 +1,7 @@
 {
   "fuentes": [
     {
-      "id": 1,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 500W Thermaltake TR2",
       "model": "TR2-500NL2NC",
@@ -23,7 +23,7 @@
     },
 
     {
-      "id": 2,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 600W Thermaltake TR2",
       "model": "TR2-600NL2NC",
@@ -44,7 +44,7 @@
     },
 
     {
-      "id": 3,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 600W Thermaltake Smart RGB 80 PLUS",
       "model": "SPR-600AH2NK-1",
@@ -66,7 +66,7 @@
     },
 
     {
-      "id": 4,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 700W Thermaltake Smart RGB 80 PLUS",
       "model": "SPR-700AH2NK-1",
@@ -89,7 +89,7 @@
     },
 
     {
-      "id": 5,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 750W Thermaltake Smart BX1 80 PLUS Bronze",
       "model": "SPR-750AH3FSB-R",
@@ -113,7 +113,7 @@
     },
 
     {
-      "id": 6,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 650W Thermaltake Smart BX1 RGB 80 PLUS Bronze",
       "model": "SP-650AH2NKB",
@@ -137,7 +137,7 @@
     },
 
     {
-      "id": 7,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 850W Thermaltake Thoughpower GF1 80 PLUS Gold Modular",
       "model": "TTP-850AH3FCG",
@@ -159,7 +159,7 @@
     },
 
     {
-      "id": 8,
+      "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 750W Thermaltake Thoughpower GF1 80 PLUS Gold Modular",
       "model": "TTP-750AH3FCG",
@@ -181,7 +181,7 @@
     },
 
     {
-      "id": 9,
+      "type": "fuente",
       "brand": "Asus",
       "name": "Fuente ASUS TUF 550W 80 Plus Bronze 550B",
       "model": "TUF-550B-GAMING",
@@ -203,7 +203,7 @@
     },
 
     {
-      "id": 10,
+      "type": "fuente",
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 750W 80 Plus Gold Full Modular 750G",
       "model": "RSSS04-750G1",
@@ -222,7 +222,7 @@
     },
 
     {
-      "id": 11,
+      "type": "fuente",
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 650W 80 Plus Gold Full Modular 650G",
       "model": "ROG-STRIX-650G",
@@ -242,7 +242,7 @@
     },
 
     {
-      "id": 12,
+      "type": "fuente",
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 550W 80 Plus Gold Full Modular 550G",
       "model": "ROG-STRIX-550G",
@@ -263,7 +263,7 @@
     },
 
     {
-      "id": 13,
+      "type": "fuente",
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 1000W 80 Plus Gold Full Modular 1000G",
       "model": "ROG-STRIX-1000G",
@@ -284,7 +284,7 @@
     },
 
     {
-      "id": 14,
+      "type": "fuente",
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular White 850G",
       "model": "ROG-STRIX-850G-WHITE",
@@ -305,7 +305,7 @@
     },
 
     {
-      "id": 15,
+      "type": "fuente",
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 650W 80 Plus Bronze P650B",
       "model": "GP-P650B",
@@ -326,7 +326,7 @@
     },
 
     {
-      "id": 16,
+      "type": "fuente",
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 750W 80 Plus Gold Modular GP-P750GM",
       "model": "GP-P750GM",
@@ -348,7 +348,7 @@
     },
 
     {
-      "id": 17,
+      "type": "fuente",
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 850W 80 Plus Gold P850GM Full Modular",
       "model": "GP-P850GM",
@@ -369,7 +369,7 @@
     },
 
     {
-      "id": 18,
+      "type": "fuente",
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 1000W 80 Plus P1000GM Gold Modular",
       "model": "GP-P1000GM",
