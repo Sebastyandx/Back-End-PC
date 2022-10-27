@@ -52,8 +52,8 @@ router.delete("/", async (req, res) => {
 
 
 router.put("/", async (req, res) => {
-  const { name, brand, img, details, cost, id } = req.body;
-  // const { id } = req.params;
+  const { name, brand, img, details, cost} = req.body;
+  const { id } = req.query;
 
   console.log(name, brand, img, details, cost, id)
   try {
@@ -67,6 +67,8 @@ router.put("/", async (req, res) => {
   } catch (error) {
     res.status(404).send(error);
   }
+
+
 });
 
 

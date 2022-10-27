@@ -24,6 +24,9 @@ module.exports = (sequelize) => {
     cost: {
       type: DataTypes.INTEGER,
     },
+    type:{
+      type: DataTypes.ENUM(["mother","procesador","disco","ram","solido","tarjeta","mouse","pantalla","fuente","teclado","auricular","gabinete","cooler"])
+    }
   },{
     timestamps: false
   });

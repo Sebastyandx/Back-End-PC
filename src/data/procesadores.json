@@ -1,5 +1,6 @@
 [
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake",
       "details": {
@@ -12,10 +13,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4300 mhz"
       },
-      "cost": "30600",
+      "cost":30600,
       "img": ["asd", "asd"]
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5",
       "details": {
@@ -28,10 +30,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": "33500",
+      "cost":33500,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i3",
       "details": {
@@ -44,10 +47,11 @@
         "Hilos": 8,
         "Frecuencia_Turbo": "4300 mhz"
       },
-      "cost": "34650",
+      "cost":34650,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5",
       "details": {
@@ -60,10 +64,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": "40150",
+      "cost":40150,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5",
       "details": {
@@ -76,10 +81,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": "40550",
+      "cost":40550,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5",
       "details": {
@@ -92,10 +98,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": "48550",
+      "cost":48550,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5",
       "details": {
@@ -108,10 +115,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4800 mhz"
       },
-      "cost": "48800",
+      "cost":48800,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5",
       "details": {
@@ -124,10 +132,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": "54100",
+      "cost":54100,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i7 10700F 4.8GHz Turbo Socket 1200 Comet Lake",
       "details": {
@@ -140,10 +149,11 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4800 mhz"
       },
-      "cost": "57600",
+      "cost":57600,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5 12600KF 4.90GHz Turbo Socket 1700",
       "details": {
@@ -156,10 +166,11 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": "61200",
+      "cost":61200,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i7 10700KF 5.1GHz Turbo 1200 Comet Lake",
       "details": {
@@ -172,10 +183,11 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": "67100",
+      "cost":67100,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i7 10700 4.8GHz Turbo Socket 1200 Comet Lake",
       "details": {
@@ -188,10 +200,11 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4800 mhz"
       },
-      "cost": "72050",
+      "cost":72050,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i7 10700K 5.1GHz Turbo 1200 Comet Lake",
       "details": {
@@ -204,10 +217,11 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "5000 mhz"
       },
-      "cost": "73350",
+      "cost":73350,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i7 12700 S1700 12th Gen",
       "details": {
@@ -220,10 +234,11 @@
         "Hilos": 20,
         "Frecuencia_Turbo": "4900 mhz"
       },
-      "cost": "92500",
+      "cost":92500,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i7 12700KF 5.0GHz Turbo Socket 1700",
       "details": {
@@ -236,10 +251,11 @@
         "Hilos": 20,
         "Frecuencia_Turbo": "5000 mhz"
       },
-      "cost": "104400",
+      "cost":104400,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i7 12700K 5.0GHz Turbo Socket 1700",
       "details": {
@@ -252,10 +268,11 @@
         "Hilos": 20,
         "Frecuencia_Turbo": "5000 mhz"
       },
-      "cost": "111500",
+      "cost":111500,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "AMD",
       "name": "Procesador AMD Ryzen 5 4600G 3.7GHz + Wraith Stealth Cooler AM4",
       "details": {
@@ -268,10 +285,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4200 mhz"
       },
-      "cost": "29900",
+      "cost":29900,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "AMD",
       "name": "Procesador AMD Ryzen 5 4500 + Wraith Stealth Cooler AM4",
       "details": {
@@ -284,10 +302,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4100 mhz"
       },
-      "cost": "30450",
+      "cost":30450,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "AMD",
       "name": "Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler",
       "details": {
@@ -300,10 +319,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "4200 mhz"
       },
-      "cost": "33250",
+      "cost":33250,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "AMD",
       "name": "Procesador AMD Ryzen 5 1600 AF Zen+ 12nm AM4 Wraith Stealth Cooler",
       "details": {
@@ -316,10 +336,11 @@
         "Hilos": 12,
         "Frecuencia_Turbo": "3600 mhz"
       },
-      "cost": "31500",
+      "cost":31500,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "AMD",
       "name": "Procesador AMD Ryzen 7 5700X 4.6GHz Turbo AM4 - No incluye Cooler",
       "details": {
@@ -332,10 +353,11 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4600 mhz"
       },
-      "cost": "61500",
+      "cost":61500,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "AMD",
       "name": "Procesador AMD Ryzen 7 PRO 4750G + Wraith Stealth Cooler OEM",
       "details": {
@@ -348,10 +370,11 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4400 mhz"
       },
-      "cost": "65400",
+      "cost":65400,
       "img": []
     },
     {
+      "type": "procesador",
       "brand": "AMD",
       "name": "Procesador AMD Ryzen 7 5700G 4.6GHz Turbo + Wraith Stealth Cooler",
       "details": {
@@ -364,7 +387,7 @@
         "Hilos": 16,
         "Frecuencia_Turbo": "4600 mhz"
       },
-      "cost": "65450",
+      "cost":65450,
       "img": []
     }
   ]
