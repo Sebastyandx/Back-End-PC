@@ -1,6 +1,6 @@
 [
  {
-    "id":1,
+    "type":"pantalla",
     "name":"Monitor LG LED 19'' 19M38A-B VGA",
     "brand":"LG",
     "cost": 35.820,
@@ -25,7 +25,7 @@
     ]
  },
  {  
-    "id":2,
+    "type":"pantalla",
     "name":"Monitor ASUS 21.5'' Full HD 1ms HDMI VGA VP228HE-J",
     "brand":"ASUS",
     "cost": 46.050,
@@ -51,7 +51,7 @@
     ]
  },
  {  
-    "id":3,
+    "type":"pantalla",
     "name":"Monitor Samsung 24'' T350 75Hz IPS FHD FreeSync",
     "brand":"Samsung",
     "cost": 50.000,
@@ -76,7 +76,7 @@
     ]
  },
  {  
-    "id":4,
+    "type":"pantalla",
     "name":"Monitor ASUS 24'' VA24EHE-J Full HD",
     "brand":"ASUS",
     "cost": 52.100,
@@ -101,7 +101,7 @@
     ]
  },
  {  
-    "id":5,
+    "type":"pantalla",
     "name":"Monitor Samsung 27'' T350H FHD IPS 75Hz",
     "brand":"Samsung",
     "cost": 60.200,
@@ -126,7 +126,7 @@
     ]
  },
  {  
-    "id":6,
+    "type":"pantalla",
     "name":"Monitor Gamer Samsung 24'' G50 Curvo 144Hz Full HD",
     "brand":"Samsung",
     "cost": 67.400,
@@ -151,7 +151,7 @@
     ]
  },
  {  
-    "id":7,
+    "type":"pantalla",
     "name":"Monitor LG 26'' 26WQ500-B UltraWide 21:9",
     "brand":"LG",
     "cost": 68.650,
@@ -176,7 +176,7 @@
     ]
  },
  {  
-    "id":8,
+    "type":"pantalla",
     "name":"Monitor Gamer Samsung 24'' G3 Odyssey Full HD 144Hz",
     "brand":"Samsung",
     "cost": 72750,
@@ -201,7 +201,7 @@
     ]
  },
  {  
-    "id":9,
+    "type":"pantalla",
     "name":"Monitor Gamer Cooler Master 27'' 165hz Curvo 1500R GM27-CF",
     "brand":"Cooler Master",
     "cost": 83.400,
@@ -226,7 +226,7 @@
     ]
  },
  {  
-    "id":10,
+    "type":"pantalla",
     "name":"Monitor Gamer LG 23.8'' UltraGear 24GN600-B 144Hz IPS FHD 1ms DP HDMI",
     "brand":"LG",
     "cost": 84.520,
@@ -252,7 +252,7 @@
     
  },
  {  
-    "id":11,
+    "type":"pantalla",
     "name":"Monitor LG 29'' UltraWide Full HD IPS",
     "brand":"LG",
     "cost": 87.500,
@@ -278,7 +278,7 @@
         
  },
  {  
-    "id":12,
+    "type":"pantalla",
     "name":"Monitor Gamer Viewsonic 24'' XG2431 240Hz 1Ms",
     "brand":"Viewsonic",
     "cost":111.550,
@@ -303,7 +303,7 @@
         
  },
  {  
-    "id":13,
+    "type":"pantalla",
     "name":"Monitor Gamer LG 27'' 27UL500-W UHD 4K HDR10 IPS",
     "brand":"LG",
     "cost": 138.650,
@@ -328,7 +328,7 @@
         
  },
  {  
-    "id":14,
+    "type":"pantalla",
     "name":"Monitor Gamer LG 34'' UltraGear 34GL750 Ultra Wide Curvo 144Hz 1ms",
     "brand":"LG",
     "cost": 195.550,
@@ -353,7 +353,7 @@
         
  },
  {  
-    "id":15,
+    "type":"pantalla",
     "name":"Monitor LG 28'' Dual Ergo 28MQ780-B SDQHD Nano IPS",
     "brand":"LG",
     "cost": 289.200,
