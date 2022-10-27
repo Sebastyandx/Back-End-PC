@@ -1,7 +1,7 @@
 {
   "discos": [
     {
-      "id": 1,
+      "Type": "disco",
       "name": "Western Digital Blue 500 GB",
       "brand": "Western Digital",
       "img": [
@@ -18,7 +18,7 @@
       "cost": 9099
     },
     {
-      "id": 2,
+      "Type": "disco",
       "name": "Seagate Barracuda Compute 500 GB",
       "brand": "Seagate",
       "img": [
