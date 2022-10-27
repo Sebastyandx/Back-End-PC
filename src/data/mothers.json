@@ -1,1638 +1,1117 @@
-{
-  "mother": [
-    {
-      "id": 1,
-      "brand": "AMD",
-      "name": "Mother ASUS PRIME",
-      "generation": "A520M-K AM4",
-      "cost": 17350,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": 0,
-        "Puertos Sata": 4,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 1,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 4,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 2,
-      "brand": "AMD",
-      "name": "Mother ASUS PRIME",
-      "generation": "A320M-K",
-      "cost": 10900,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": 0,
-        "Puertos Sata": 4,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 1,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 4,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": [
-        "AM4 A-Series",
-        "AM4 APU 1th Gen",
-        "AM4 APU 2th Gen",
-        "AM4 Ryzen 1th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 Ryzen 3th Gen",
-        "AM4 Ryzen 4th Gen"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 140,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 0,
-        "Conector 24Pines": 1,
-        "Consumo": "45w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 3,
-      "brand": "AMD",
-      "name": "Mother Asrock A320M-HDV R4.0 Ryzen M-ATX",
-      "generation": "A320M-HDV",
-      "cost": 10500,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 1,
-        "Tecnologia Multi Gpu": 0,
-        "Puertos Sata": 4,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 1,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 1,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 4,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": [
-        "AM4 A-Series",
-        "AM4 APU 1th Gen",
-        "AM4 APU 2th Gen",
-        "AM4 Ryzen 1th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 Ryzen 3th Gen",
-        "AM4 Ryzen 4th Gen"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 0,
-        "Conector 24Pines": 1,
-        "Consumo": "50w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 CH HD Audio (Realtek ALC887 Audio Codec)"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 4,
-      "brand": "AMD",
-      "name": "Mother Asrock B450 Steel Legend AM4 RGB Dual M.2 Dual USB 3.",
-      "generation": "B450",
-      "cost": 29900,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 4,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 2,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 APU 1th Gen",
-        "AM4 APU 2th Gen",
-        "AM4 Ryzen 1th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 892"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
-    },
-    {
-      "id": 5,
-      "brand": "AMD",
-      "name": "Mother ASUS PRIME X570-P AM4 PCIe Gen4 Dual M.2",
-      "generation": "X570-P",
-      "cost": 38200,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 3,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 6,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 2,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 APU 2th Gen",
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 315,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 892"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
-    },
+ [
     {
       "id": 6,
       "brand": "AMD",
       "name": "Mother Asrock X570 Phantom Gaming 4 AM4 PCIe Gen4",
-      "generation": "X570",
       "cost": 36800,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 8,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 2,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 APU 2th Gen",
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 APU 5000"
+      "image": [
+        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
       ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1200"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 8,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 2,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 APU 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 7,
       "brand": "AMD",
       "name": "Mother Asrock X570 Steel Legend AM4 PCIe Gen4 ",
-      "generation": "X570",
       "cost": 43200,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 3,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 8,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 2,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 APU 2th Gen",
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1200"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 3,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 8,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 2,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 APU 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 8,
       "brand": "AMD",
       "name": "Mother ASUS TUF X570-PLUS GAMING WiFi AM4 PCIe 4.0 Dual M.2",
-      "generation": "X570-PLUS",
       "cost": 55600,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 8,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 0,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 6,
-        "Puertos Usb Type-c": 1,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 2,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 2th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 8,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 2th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 9,
       "brand": "AMD",
       "name": "Mother Gigabyte GA-A320M-H AM4",
-      "generation": "GA-A320M-H",
       "cost": 13100,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 1,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 1,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 4,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": [
-        "AM4 A-Series",
-        "AM4 APU 2th Gen",
-        "AM4 APU 1th Gen",
-        "AM4 Ryzen 1th Gen",
-        "AM4 Ryzen 2th Gen",
-        "AM4 Ryzen 3th Gen",
-        "AM4 Ryzen 4th Gen"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 4,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 A-Series",
+          "AM4 APU 2th Gen",
+          "AM4 APU 1th Gen",
+          "AM4 Ryzen 1th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 10,
       "brand": "AMD",
       "name": "Mother ASUS ROG STRIX B550-F GAMING AM4 PCI-E 4.0",
-      "generation": "B550-F",
       "cost": 54150,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 3,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 4,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 3,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 11,
       "brand": "AMD",
       "name": "Mother Asrock B550 Phantom Gaming 4",
-      "generation": "B550",
       "cost": 25150,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 0,
-        "Puertos Usb 3.0 Traseros": 6,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1200"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 6,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 12,
       "brand": "AMD",
       "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
-      "generation": "B550",
       "cost": 50300,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 0,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 0,
-        "Puertos Usb 3.0 Traseros": 4,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "ITX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "ITX"
+      }
     },
     {
       "id": 12,
       "brand": "AMD",
       "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
-      "generation": "B550",
       "cost": 50300,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 0,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 0,
-        "Puertos Usb 3.0 Traseros": 4,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "ITX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "ITX"
+      }
     },
     {
       "id": 13,
       "brand": "AMD",
       "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
-      "generation": "B550",
       "cost": 50300,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 0,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 0,
-        "Puertos Usb 3.0 Traseros": 4,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "ITX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "ITX"
+      }
     },
     {
       "id": 14,
       "brand": "AMD",
       "name": "Mother Gigabyte A520M H AM4",
-      "generation": "A520M",
       "cost": 20500,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 1,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 1,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 4,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 4,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 15,
       "brand": "AMD",
       "name": "Mother ASUS PRIME B550M-K AM4",
-      "generation": "B550M-K",
       "cost": 24150,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 1,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 1,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 4,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 4,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 16,
       "brand": "AMD",
       "name": "Mother Asrock B550M Steel Legend AM4",
-      "generation": "B550M",
       "cost": 32030,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 1,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 5,
-        "Puertos Usb Type-c": 1,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1200"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "M-ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 5,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 17,
       "brand": "AMD",
       "name": "Mother ASUS TUF B550M-PLUS AM4",
-      "generation": "B550M-PLUS",
       "cost": 38390,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 1,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 4,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1200"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "M-ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 18,
       "brand": "AMD",
       "name": "Mother ASUS ROG STRIX B450-F GAMING II AM4",
-      "generation": "B450-F",
       "cost": 41350,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 3,
-        "Cantidad De Slot Pci-e 1X": 3,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 5,
-        "Puertos Usb Type-c": 1,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 2,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": [
-        "AM4 Ryzen 3th Gen",
-        "AM4 APU 3th Gen",
-        "AM4 Ryzen 4th Gen",
-        "AM4 APU 5000"
-      ],
-      "energy": {
-        "Watts Máximos Para Cpu": 105,
-        "Conectos Cpu 4Pines": 2,
-        "Conector Cpu 4Pines Plus": 0,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 3,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 5,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 2,
+          "Conector Cpu 4Pines Plus": 0,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 19,
       "brand": "Intel",
       "name": "Mother ASUS PRIME H610M-E D4 S1700",
-      "generation": "H610M-E",
       "cost": 21850,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 1,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 2,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": ["1700 Alder Lake-S"],
-      "energy": {
-        "Watts Máximos Para Cpu": 235,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "10w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "Realtek 7.1 CODEC"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 20,
-      "brand": "Intel",
-      "name": "Mother MSI H310M PRO-VDH",
-      "generation": "H310M",
-      "cost": 10650,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 1,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 0,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 0
-      },
-      "Socket": ["1151 Coffe Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 150,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "30w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 21,
-      "brand": "Intel",
-      "name": "Mother ASUS PRIME H310M-R R2.0 1151 OEM",
-      "generation": "H310M-R",
-      "cost": 11500,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 1,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 1,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 0,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 0
-      },
-      "Socket": ["1151 Coffe Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 155,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 0,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 22,
-      "brand": "Intel",
-      "name": "Mother ASUS PRIME H410M-E Socket 1200 10th Gen",
-      "generation": "H410M-E",
-      "cost": 15850,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 4,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 1,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 2,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 1
-      },
-      "Socket": ["1200 Comet Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 125,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 2
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 23,
-      "brand": "Intel",
-      "name": "Mother Gigabyte H470M DS3H Socket 1200",
-      "generation": "H470M",
-      "cost": 25700,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 1,
-        "Salida Vga": 1,
-        "Salida HDMI": 1,
-        "Salida Dvi": 1,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 3,
-        "Puertos Usb Type-c": 1,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
-      "energy": {
-        "Watts Máximos Para Cpu": 235,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 887"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "M-ATX"
-    },
-    {
-      "id": 24,
-      "brand": "Intel",
-      "name": "Mother ASUS ROG STRIX Z590-E GAMING Wifi Socket 1200 10th/11th Gen",
-      "generation": "Z590-E",
-      "cost": 64650,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 3,
-        "Cantidad De Slot Pci-e 1X": 0,
-        "Tecnologia Multi Gpu": "SLI , Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 4,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 4,
-        "Puertos Usb 3.1 Traseros": 4,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 1,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 4
-      },
-      "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
-      "energy": {
-        "Watts Máximos Para Cpu": 315,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 4080 + Savitech SV3H712"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
-    },
-    {
-      "id": 25,
-      "brand": "Intel",
-      "name": "Mother ASUS PRIME Z590-A ATX S1200 10th/11th Gen",
-      "generation": "Z590-A",
-      "cost": 57850,
-      "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 3,
-        "Cantidad De Slot Pci-e 1X": 0,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 3,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 4,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 3,
-        "Puertos Usb Type-c": 2,
-        "Cantidad De Slot Pci-e 4X": 1,
-        "Cantidad De Slot M.2 Sata": 2,
-        "Cantidad De Slot M.2 Nvme": 3
-      },
-      "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
-      "energy": {
-        "Watts Máximos Para Cpu": 315,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 2,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1700 Alder Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "10w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "Realtek 7.1 CODEC"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 26,
       "brand": "Intel",
       "name": "Mother MSI MEG Z590 ACE Socket 1200",
-      "generation": "Z590",
       "cost": 101650,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 3,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "SLI, Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 0,
-        "Cantidad de Slot M.2 Totales": 4,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 6,
-        "Puertos Usb Type-c": 2,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 2,
-        "Cantidad De Slot M.2 Nvme": 4
-      },
-      "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
-      "energy": {
-        "Watts Máximos Para Cpu": 395,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "50w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 DAC Sabre Hi-Fi + ALC 4082"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "SLI, Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 4,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 2,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 395,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "50w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 DAC Sabre Hi-Fi + ALC 4082"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 27,
       "brand": "Intel",
       "name": "Mother Gigabyte B560 AORUS PRO AX S1200",
-      "generation": "B560",
       "cost": 54400,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 0,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 3,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 5,
-        "Puertos Usb Type-c": 1,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 3
-      },
-      "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 235,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 1220"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 3,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 5,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 3
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 28,
       "brand": "Intel",
       "name": "Mother Gigabyte B560M-DS3H AC Socket 1200 10th Gen",
-      "generation": "B560M-DS3H",
       "cost": 25800,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 1,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "1 Gb/s",
-        "Puerto Ps/2": "No",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 3,
-        "Puertos Usb Type-c": 1,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
-      "energy": {
-        "Watts Máximos Para Cpu": 235,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 892"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "M-ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "1 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 3,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 892"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 29,
       "brand": "Intel",
       "name": "Mother Gigabyte Z590 Vision G Socket 1200 10th Gen",
-      "generation": "Z590",
       "cost": 63900,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 3,
-        "Cantidad De Slot Pci-e 1X": 0,
-        "Tecnologia Multi Gpu": "Crossfire",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 3,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 6,
-        "Puertos Usb Type-c": 2,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 4
-      },
-      "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 235,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "40w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 4080"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 3,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 2,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "40w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 4080"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 30,
       "brand": "Intel",
       "name": "Mother Gigabyte B560M AORUS ELITE S1200",
-      "generation": "B560M",
       "cost": 34200,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 1,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 1,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 6,
-        "Puertos Usb 3.0 Traseros": 2,
-        "Puertos Usb 3.1 Traseros": 2,
-        "Puertos Usb 3.2 Traseros": 0,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 235,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "35w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 892"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "M-ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 6,
+          "Puertos Usb 3.0 Traseros": 2,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 892"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
     },
     {
       "id": 31,
       "brand": "Intel",
       "name": "Mother Gigabyte Z590 UD AC ATX S1200",
-      "generation": "Z590 UD AC",
       "cost": 34850,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 2,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 5,
-        "Salida Vga": 0,
-        "Salida HDMI": 0,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 3,
-        "Placa Wifi Integrada": "Si",
-        "Placa de Red": "2.5 Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 2,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 6,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 0,
-        "Cantidad De Slot M.2 Nvme": 3
-      },
-      "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 315,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "40w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 892"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 5,
+          "Salida Vga": 0,
+          "Salida HDMI": 0,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 3,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 3
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 315,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "40w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 892"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     },
     {
       "id": 32,
       "brand": "Intel",
       "name": "Mother Gigabyte Z590 D Rev 1.0 S1200",
-      "generation": "Z590 D Rev",
       "cost": 43950,
       "image": "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg",
-      "connectivity": {
-        "Cantidad De Slot Pci-e 16X": 3,
-        "Cantidad De Slot Pci-e 1X": 2,
-        "Tecnologia Multi Gpu": "null",
-        "Puertos Sata": 6,
-        "Salida Vga": 0,
-        "Salida HDMI": 0,
-        "Salida Dvi": 0,
-        "Salidas Display Ports": 1,
-        "Cantidad de Slot M.2 Totales": 2,
-        "Placa Wifi Integrada": "No",
-        "Placa de Red": "1 Gb/s",
-        "Puerto Ps/2": "Si",
-        "Puertos Usb 2.0 Traseros": 0,
-        "Puertos Usb 3.0 Traseros": 0,
-        "Puertos Usb 3.1 Traseros": 0,
-        "Puertos Usb 3.2 Traseros": 6,
-        "Puertos Usb Type-c": 0,
-        "Cantidad De Slot Pci-e 4X": 0,
-        "Cantidad De Slot M.2 Sata": 1,
-        "Cantidad De Slot M.2 Nvme": 2
-      },
-      "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
-      "energy": {
-        "Watts Máximos Para Cpu": 315,
-        "Conectos Cpu 4Pines": 1,
-        "Conector Cpu 4Pines Plus": 1,
-        "Conector 24Pines": 1,
-        "Consumo": "40w",
-        "Procesador Integrado": "No"
-      },
-      "Sound": {
-        "Placa De Sonido": "7.1 Realtek ALC 897"
-      },
-      "Memory": {
-        "Ddr4": 4
-      },
-      "Dimensions": "ATX"
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 0,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 315,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "40w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 897"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
     }
   ]
-}

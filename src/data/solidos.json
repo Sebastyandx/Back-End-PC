@@ -1,7 +1,7 @@
 {
   "solido": [
     {
-      "id": 11,
+      "id": 1,
       "name": "Hikvision C100 120 GB",
       "brand": "Hikvision",
       "img": [
@@ -18,7 +18,7 @@
       "cost": 4230
     },
     {
-      "id": 12,
+      "id": 2,
       "name": "Gigabyte 120 GB",
       "brand": "Gigabyte",
       "img": [
@@ -35,7 +35,7 @@
       "cost": 4159
     },
     {
-      "id": 13,
+      "id": 3,
       "name": "Crucial BX500 240 GB",
       "brand": "Crucial",
       "image": [
@@ -52,7 +52,7 @@
       "cost": 5249
     },
     {
-      "id": 14,
+      "id": 4,
       "name": "Western Digital Green 240 GB",
       "brand": "Western Digital",
       "img": [
@@ -69,7 +69,7 @@
       "cost": 5639
     },
     {
-      "id": 15,
+      "id": 5,
       "name": "Crucial BX500 500 GB",
       "brand": "Crucial",
       "img": [
@@ -86,7 +86,7 @@
       "cost": 8480
     },
     {
-      "id": 16,
+      "id": 6,
       "name": "Patriot P210 512 GB",
       "brand": "Patriot",
       "img": [
@@ -103,7 +103,7 @@
       "cost": 8799
     },
     {
-      "id": 17,
+      "id": 7,
       "name": "Hikvision E100 512 GB",
       "brand": "Hikvision",
       "img": [
@@ -120,7 +120,7 @@
       "cost": 10400
     },
     {
-      "id": 18,
+      "id": 8,
       "name": "Western Digital Green 1 TB",
       "brand": "Western Digital",
       "img": [
@@ -137,7 +137,7 @@
       "cost": 18399
     },
     {
-      "id": 19,
+      "id": 9,
       "name": "Lexar NS100 1 TB",
       "brand": "Lexar",
       "img": "https://media.solotodo.com/media/cache/61/58/6158d248ffcc594e29f270952595e428.png",
@@ -152,7 +152,7 @@
       "cost": 18399
     },
     {
-      "id": 20,
+      "id": 10,
       "name": "Samsung 860 EVO 2 TB",
       "brand": "Samsung",
       "img": [
@@ -169,7 +169,7 @@
       "cost": 120109
     },
     {
-      "id": 21,
+      "id": 11,
       "name": "Samsung 870 QVO 8 TB",
       "brand": "Samsung",
       "img": [
@@ -186,7 +186,7 @@
       "cost": 364309
     },
     {
-      "id": 22,
+      "id": 12,
       "name": "Patriot P300 128 GB",
       "brand": "Patriot",
       "img": [
@@ -203,7 +203,7 @@
       "cost": 5292
     },
     {
-      "id": 23,
+      "id": 13,
       "name": "Western Digital Green 240 GB",
       "brand": "Western Digital",
       "img": [
@@ -220,7 +220,7 @@
       "cost": 7257
     },
     {
-      "id": 24,
+      "id": 14,
       "name": "Lexar NM100 256 GB",
       "brand": "Lexar",
       "img": [
@@ -237,7 +237,7 @@
       "cost": 7459
     },
     {
-      "id": 25,
+      "id": 15,
       "name": "Western Digital Green 480 GB",
       "brand": "Western Digital",
       "img": [
@@ -254,7 +254,7 @@
       "cost": 14999
     },
     {
-      "id": 26,
+      "id": 16,
       "name": "Gigabyte 512 GB",
       "brand": "Gigabyte",
       "img": [
@@ -271,7 +271,7 @@
       "cost": 13986
     },
     {
-      "id": 27,
+      "id": 17,
       "name": "Kingston NV1 500 GB",
       "brand": "Kingston",
       "img": [
@@ -288,7 +288,7 @@
       "cost": 13929
     },
     {
-      "id": 28,
+      "id": 18,
       "name": "Crucial P2 1 TB",
       "brand": "Crucial",
       "img": [
@@ -305,7 +305,7 @@
       "cost": 18999
     },
     {
-      "id": 29,
+      "id": 19,
       "name": "Western Digital Green SN350 960 GB",
       "brand": "Western Digital",
       "img": [
@@ -322,7 +322,7 @@
       "cost": 17999
     },
     {
-      "id": 30,
+      "id": 20,
       "name": "Crucial P3 1 TB ",
       "brand": "Crucial",
       "img": [
@@ -339,7 +339,7 @@
       "cost": 25050
     },
     {
-      "id": 31,
+      "id": 21,
       "name": "Western Digital Blue SN550 2 TB",
       "brand": "Western Digital",
       "img": [
@@ -356,7 +356,7 @@
       "cost": 97700
     },
     {
-      "id": 32,
+      "id": 22,
       "name": "Samsung 970 Evo Plus 2 TB",
       "brand": "Samsung",
       "img": [
