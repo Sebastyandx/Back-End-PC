@@ -1,9 +1,9 @@
 [
     {
-        "id": 1,
+        "type": "gabinete",
         "brand": "CORSAIR",
         "name": "Gabinete Corsair Icue 5000D Rgb Mid-Tow C Temp Atx Bco CC-9011209-WW",
-        "detail": {
+        "details": {
             "dimensions": "52 cm x 24.5 cm x 52 cm",
             "weight": "13.8 kg",
             "cooling": {
@@ -38,11 +38,11 @@
         ]
     },
     {
-        "id": 2,
+        "type": "gabinete",
         "brand": "ACTECK",
         "name": "Gabinete Gamer Balam Rush Blanco +3 Ventilador Rgb Dragonfly",
         
-        "detail": {
+        "details": {
             "dimensions": "42.5 cm x 18.2 cm x 45 cm",
             "weight": "5.46 kg",
             "cooling": {
@@ -76,10 +76,10 @@
         ]
     },
     {
-        "id": 3,
+        "type": "gabinete",
         "brand": "VETROO",
         "name": "Gabinete Vetroo M01 con Venatana, USB 2.0/3.0, sin Fuente",
-        "detail": {
+        "details": {
             "dimensions": "39.1 cm x 22.8 cm x 40.8 cm",
             "weight": "5,3 kg",
             "cooling": {
@@ -112,10 +112,10 @@
 
     },
     {
-        "id": 4,
+        "type": "gabinete",
         "brand": "CORSAIR",
         "name": "Gabinete Corsair 470T Hydro X Rgb Semitorre Atx Cc 9011215 Ww",
-        "detail": {
+        "details": {
             "dimensions": "49.5 cm x 21.3 cm x 47.7 cm",
             "weight": "6,89 kg",
             "cooling": {
@@ -149,10 +149,10 @@
 
     },
     {
-        "id": 5,
+        "type": "gabinete",
         "brand": "ACTECK",
         "name": "Gabinete Acteck Performance Media Torre Atx 500w Negro",
-        "detail": {
+        "details": {
             "dimensions": "40 cm x 40 cm x 20 cm",
             "weight": "6,89 kg",
             "cooling": {
@@ -187,10 +187,10 @@
 
     },
     {
-        "id": 6,
+        "type": "gabinete",
         "brand": "COUGAR",
         "name": "Gabinete Cougar Gemini M con Ventana, USB 2.0/3.0, sin Fuente, Gris",
-        "detail": {
+        "details": {
             "dimensions": "42.3 cm x 21 cm x 40 cm",
             "weight": "5,54 kg",
             "cooling": {
@@ -226,10 +226,10 @@
 
     },
     {
-        "id": 7,
+        "type": "gabinete",
         "brand": "BALAM RUSH",
         "name": "Gabinete Gamer Balam Rush Kraken Rgb Cristal",
-        "detail": {
+        "details": {
             "dimensions": "44.7 cm x 21 cm x 36.5 cm",
             "weight": "6,0 kg",
             "cooling": {
@@ -264,10 +264,10 @@
         ]
     },
     {
-        "id": 8,
+        "type": "gabinete",
         "brand": "COOLER MASTER",
         "name": "Gabinete Cooler Master Mastercase H500 Argb Atx Mcm-H500-Ignn-S01",
-        "detail": {
+        "details": {
             "dimensions": "50.2 cm x 22.8 cm x 52.5 cm",
             "weight": "9,22 kg",
             "cooling": {
@@ -302,10 +302,10 @@
         ]
     },
     {
-        "id": 9,
+        "type": "gabinete",
         "brand": "ACTECK",
         "name": "Gabinete Gamer Acteck Ultron X600 Rgb Fuente 500w Ac-929547",
-        "detail": {
+        "details": {
             "dimensions": "37 cm x 17 cm x 35.5 cm",
             "weight": "2,1 kg",
             "cooling": {
@@ -339,10 +339,10 @@
         ]
     },
     {
-        "id": 10,
+        "type": "gabinete",
         "brand": "CORSAIR",
         "name": "Gabinete Corsair Icue 4000D Airflow White Tg Atx Cc-9011201-Ww",
-        "detail": {
+        "details": {
             "dimensions": "46.6 cm x 23 cm x 45.5 cm",
             "weight": "7,8 kg",
             "cooling": {
@@ -378,10 +378,10 @@
         ]
     },
     {
-        "id": 11,
+        "type": "gabinete",
         "brand": "THERMALTAKE",
         "name": "Gabinete Thermaltake Core X71 Tempered Glass Edition Fulltower Chassis",
-        "detail": {
+        "details": {
             "dimensions": "67.6 cm x 25 cm x 51.1 cm",
             "weight": "12,7 kg",
             "cooling": {
@@ -417,10 +417,10 @@
         ]
     },
     {
-        "id": 12,
+        "type": "gabinete",
         "brand": "EVOTEC",
         "name": "Gabinete Evotec Ev-1007 Torre Gabinete Atx Negro 600 W",
-        "detail": {
+        "details": {
             "dimensions": "41 cm x 18 cm x 36 cm",
             "weight": "7,6 kg",
             "cooling": {
@@ -455,10 +455,10 @@
         ]
     },
     {
-        "id": 13,
+        "type": "gabinete",
         "brand": "BALAM RUSH",
         "name": "Gabinete Balam Rush Torre E-atx/atx/micro Atx/mini Itx/argb 3*usb",
-        "detail": {
+        "details": {
             "dimensions": "43.2 cm x 21 cm x 48.5 cm",
             "weight": "6.25 kg",
             "cooling": {
@@ -493,10 +493,10 @@
         ]
     },
     {
-        "id": 14,
+        "type": "gabinete",
         "brand": "GAME FACTOR",
         "name": "Gabinete Pc Gamer Game Factor Csg500 Sin Fuente",
-        "detail": {
+        "details": {
             "dimensions": "38 cm x 18.8 cm x 35 cm",
             "weight": "3,8 kg",
             "cooling": {
@@ -531,10 +531,10 @@
         ]
     },
     {
-        "id": 15,
+        "type": "gabinete",
         "brand": "ASUS",
         "name": "Gabinete ASUS TUF Gaming GT301 con Ventana, Mid-Tower, ATX/Micro-ATX/Mini-ATX, USB 3.2, sin Fuente, Negro",
-        "detail": {
+        "details": {
             "dimensions": "42.6 cm x 21.4 cm x 48.2 cm",
             "weight": "7,2 Kg",
             "cooling": {
@@ -567,10 +567,10 @@
         ]
     },
     {
-        "id": 16,
+        "type": "gabinete",
         "brand": "ASUS",
         "name": "Gabinete ASUS ROG Strix Helios con Ventana RGB, Midi-Tower, ATX/EATX/Micro-ATX/Mini-ATX, USB 3.1, sin Fuente, Negro",
-        "detail": {
+        "details": {
             "dimensions": "59.1 cm x 56.5 cm x 25 cm",
             "weight": "18 Kg",
             "cooling": {
@@ -603,10 +603,10 @@
         ]
     },
     {
-        "id": 17,
+        "type": "gabinete",
         "brand": "INWIN",
         "name": "Gabinete In Win 101 TUF GAMING con Ventana RGB, Midi-Tower, ATX/Micro-ATX/Mini-ATX, USB 3.0, sin Fuente, Negro",
-        "detail": {
+        "details": {
             "dimensions": "42.5 cm x 21 cm x 47.3 cm",
             "weight": "9,6 Kg",
             "cooling": {
@@ -639,10 +639,10 @@
         ]
     },
     {
-        "id": 18,
+        "type": "gabinete",
         "brand": "MSI",
         "name": "Gabinete MSI MPG GUNGNIR 100D con Ventana, Midi-Tower, ATX/Micro-ATX/Mini-ATX, USB 3.2, sin Fuente, Negro",
-        "detail": {
+        "details": {
             "dimensions": "52.5 cm x 22.7 cm x 51 cm",
             "weight": "9,25 Kg",
             "cooling": {
@@ -677,10 +677,10 @@
         ]
     },
     {
-        "id": 19,
+        "type": "gabinete",
         "brand": "HYUNDAI",
         "name": "Gabinete Hyundai Inferno con Ventana, Midi-Tower, ATX, incluye Fuente de 650W, Negro",
-        "detail": {
+        "details": {
             "dimensions": "48 cm x 20.5 cm x 48 cm",
             "weight": "6,7 Kg",
             "cooling": {
@@ -709,10 +709,10 @@
         "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666731143/pc/HYUNDAI/hyundai1_mti0st.png"]
     },
     {
-        "id": 20,
+        "type": "gabinete",
         "brand": "ACTECK",
         "name": "Gabinete Gamer Calipso Balam Rush Atx / Micro Atx/ Mini Itx",
-        "detail": {
+        "details": {
             "dimensions": "44.7 cm x 21 cm x 36.5 cm",
             "weight": "4.82 kg",
             "cooling": {
