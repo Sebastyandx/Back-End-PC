@@ -1,6 +1,6 @@
 [
     {
-        "id":1,
+        "type":"tarjeta",
         "name":"Placa de Video GeForce MSI G210 1GB DDR3 Low Profile",
         "brand": "GeForce",
         "cost": 8.400,
@@ -35,7 +35,7 @@
        },   
        
        {
-        "id":2,
+        "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce GTX 1630 4GB GDDR6",
         "brand": "GeForce",
         "cost": 46.370,
@@ -70,7 +70,7 @@
        },
        
        {
-        "id":3,
+        "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce GTX 1650 4GB GDDR6 AMP CORE ",
         "brand": "GeForce",
         "cost": 60.000,
@@ -105,7 +105,7 @@
        },
        
        {
-        "id":4,
+        "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan",
         "brand": "GeForce",
         "cost": 87.650,
@@ -137,7 +137,7 @@
         ]
        },
        {
-        "id":5,
+        "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce RTX 3050 8GB GDDR6 Twin Edge OC",
         "brand": "GeForce",
         "cost": 99.950,
@@ -171,7 +171,7 @@
         ]
        },
        {
-        "id":6,
+        "type":"tarjeta",
         "name":"Placa de Video GALAX GeForce RTX 3070 8GB GDDR6 LHR (1-Click OC)",
         "brand": "GeForce",
         "cost": 151.000,
@@ -205,7 +205,7 @@
         ]
        },
        {
-        "id":7,
+        "type":"tarjeta",
         "name":"Placa de Video ASUS GeForce RTX 3070 Ti 8GB GDDR6X TUF OC",
         "brand": "GeForce",
         "cost": 193.500,
@@ -238,7 +238,7 @@
         ]
        },
        {
-        "id":8,
+        "type":"tarjeta",
         "name":"Placa de Video GALAX GeForce RTX 3080 12GB GDDR6X SG LHR",
         "brand": "GeForce",
         "cost": 221.900,
@@ -271,7 +271,7 @@
         ]
        },
        {
-        "id":9,
+        "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce RTX 3080 Ti 12GB GDDR6X Trinity",
         "brand": "GeForce",
         "cost": 260.000,
@@ -305,7 +305,7 @@
         ]
        },
        {
-        "id":10,
+        "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity",
         "brand": "GeForce",
         "cost": 285.000,
@@ -342,7 +342,7 @@
        
        
        {
-        "id":11,
+        "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 570 8GB DDR5 RS XXX Edition",
         "brand": "Radeon AMD",
         "cost": 55.560,
@@ -376,7 +376,7 @@
         ]
        },
        {
-        "id":12,
+        "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 6500 XT Black 4GB GDDR6 Speedster QICK210",
         "brand": "Radeon AMD",
         "cost": 57.900,
@@ -410,7 +410,7 @@
         ]
        },
        {
-        "id":13,
+        "type":"tarjeta",
         "name":"Placa de Video PowerColor Radeon RX 6600 8GB GDDR6 FIGHTER",
         "brand": "Radeon AMD",
         "cost": 85.890,
@@ -444,7 +444,7 @@
         ]
        },
        {
-        "id":14,
+        "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 6650 XT 8GB GDDR6 Speedster SWFT 210",
         "brand": "Radeon AMD",
         "cost": 92.500,
@@ -478,7 +478,7 @@
         ]
        },
        {
-        "id":15,
+        "type":"tarjeta",
         "name":"Placa de Video Asrock Radeon RX 6700 XT 12GB GDDR6 Challenger OC",
         "brand": "Radeon AMD",
         "cost": 115.000,
@@ -512,7 +512,7 @@
         ]
        },
        {
-        "id":16,
+        "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 6750 XT ULTRA 12GB GDDR6 Speedster",
         "brand": "Radeon AMD",
         "cost": 126.000,
@@ -546,7 +546,7 @@
         ]
        },
        {
-        "id":17,
+        "type":"tarjeta",
         "name":"Placa de Video Asrock Radeon RX 6800 16GB GDDR6 Phantom Gaming D OC",
         "brand": "Radeon AMD",
         "cost": 152.000,
@@ -580,7 +580,7 @@
         ]
        },
        {
-        "id":18,
+        "type":"tarjeta",
         "name":"Placa de Video Asrock Radeon RX 6800 XT 16GB GDDR6 Phantom Gaming D OC",
         "brand": "Radeon AMD",
         "cost": 178.000,
@@ -615,7 +615,8 @@
        },
        
        {
-        "id":19,
+        
+        "type":"tarjeta",
         "name":"Placa de Video GIGABYTE AMD Radeon RX 6900 XT AORUS MASTER (rev. 1.0) 16GB",
         "brand": "Radeon AMD",
         "cost": 314.000,

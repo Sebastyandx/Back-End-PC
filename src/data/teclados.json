@@ -1,7 +1,8 @@
 {
   "teclados": [
     {
-      "id": 1,
+      
+      "type":"teclado",
       "name": "Teclado Nisuta NSKBG35 35 Teclas Macro RGB",
       "brand": "Nisuta",
       "img": [
@@ -24,7 +25,7 @@
       "cost": "3.130"
     },
     {
-      "id": 2,
+      "type":"teclado",
       "name": "Teclado Redragon K509 Dyaus Español Retroiluminado 7 Colores",
       "brand": "Redragon",
       "img": [
@@ -48,7 +49,7 @@
     },
 
     {
-      "id": 3,
+      "type":"teclado",
       "name": "Teclado Redragon Harpe PRO K503 RGB ESP",
       "brand": "Redragon",
       "img": [
@@ -72,7 +73,7 @@
     },
 
     {
-      "id": 4,
+      "type":"teclado",
       "name": "Teclado Redragon Shiva K512 RGB Español",
       "brand": "Redragon",
       "img": [
@@ -96,7 +97,7 @@
     },
 
     {
-      "id": 5,
+      "type":"teclado",
       "name": "Teclado XPG Infarex K10 RGB Lighting Mem-chanical",
       "brand": "XPG",
       "img": [
@@ -120,7 +121,7 @@
     },
 
     {
-      "id": 6,
+      "type":"teclado",
       "name": "Teclado Redragon Shiva K512 White RGB ESP",
       "brand": "Redragon",
       "img": [
@@ -143,7 +144,7 @@
       "cost": "5.800"
     },
     {
-      "id": 7,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon K585 RGB Diti Switch Brown",
       "brand": "Redragon",
       "img": [
@@ -166,7 +167,7 @@
       "cost": "6.000"
     },
     {
-      "id": 8,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon Kumara K552-KR White Rainbow Outemu RED ESP",
       "brand": "Redragon",
       "img": [
@@ -189,7 +190,7 @@
       "cost": "7.050"
     },
     {
-      "id": 9,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon Kumara K552-KR Rainbow Outemu RED ESP",
       "brand": "Redragon",
       "img": [
@@ -212,7 +213,7 @@
       "cost": "7.110"
     },
     {
-      "id": 10,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon Dragonborn K630 RGB 60% Outemu Brown",
       "brand": "Redragon",
       "img": [
@@ -235,7 +236,7 @@
       "cost": "7.500"
     },
     {
-      "id": 11,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon Dragonborn K630 White RGB 60% Outemu Brown",
       "brand": "Redragon",
       "img": [
@@ -258,7 +259,7 @@
       "cost": "7.500"
     },
     {
-      "id": 12,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon Dark Avenger K568 RGB Switch Red",
       "brand": "Redragon",
       "img": [
@@ -281,7 +282,7 @@
       "cost": "7.650"
     },
     {
-      "id": 13,
+      "type":"teclado",
       "name": "Teclado HP HyperX Alloy CORE RGB LA",
       "brand": "HyperX",
       "img": [
@@ -304,7 +305,7 @@
       "cost": "7.900"
     },
     {
-      "id": 14,
+      "type":"teclado",
       "name": "Teclado Mech-Brane ASUS RGB TUF GAMING K5 US Aura Sync RGB",
       "brand": "ASUS",
       "img": [
@@ -327,7 +328,7 @@
       "cost": "8.040"
     },
     {
-      "id": 15,
+      "type":"teclado",
       "name": "Teclado Redragon Mitra K551 Mechanical Retroiluminado RGB Español",
       "brand": "Redragon",
       "img": [
@@ -350,7 +351,7 @@
       "cost": "9.000"
     },
     {
-      "id": 16,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon Kumara K552 RGB Outemu Red ESP",
       "brand": "Redragon",
       "img": [
@@ -374,7 +375,7 @@
     },
 
     {
-      "id": 17,
+      "type":"teclado",
       "name": "Teclado Mecanico Redragon K550 YAMA White Retroiluminado RGB Español",
       "brand": "Redragon",
       "img": [
@@ -397,7 +398,7 @@
       "cost": "12.000"
     },
     {
-      "id": 18,
+      "type":"teclado",
       "name": "Teclado Mecanico Marvo KG965G RGB Switch Blue",
       "brand": "Marvo",
       "img": [
@@ -420,7 +421,7 @@
       "cost": "12.400"
     },
     {
-      "id": 19,
+      "type":"teclado",
       "name": "Teclado Mecanico HP HyperX Alloy MKW100 RED US",
       "brand": "HyperX",
       "img": [
@@ -443,7 +444,7 @@
       "cost": "12.410"
     },
     {
-      "id": 20,
+      "type":"teclado",
       "name": "Teclado Mecanico HP HyperX Alloy Elite 2 RGB Switch Red LA",
       "brand": "HyperX",
       "img": [
