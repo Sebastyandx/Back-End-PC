@@ -57,11 +57,12 @@ router.post("", async(req, res) => {
 })
 
 router.put("", async (req, res) => {
-    const {name, brand, img, details, cost} = req.body;
+    
+    const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
     try {
         const productSelected = await Producto.findByPk(id)
-        await productSelected.update({name, brand, img, details, cost})
+        await productSelected.update({name, brand, img, details, cost, type})
         res.status(200).json(`${productSelected} actualiizado`)
     } catch (error) {
         res.status(400).json(error)
