@@ -1,0 +1,890 @@
+[
+  {
+    "id": 1,
+    "type": "mouse",
+    "name": "Razer Basilisk V3 Pro - White",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/44O6McFXZ2BebT0jtPdPWaiyLec=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhee%2Fh4b%2F9446067077150%2F221015-basilisk-v3-pro-white-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/KxHkBDMKOYjGh-L6w9Xggz47OmA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh48%2Fh49%2F9446067109918%2F221015-basilisk-v3-pro-white-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/J9B7ilNcVk0sCfcXyXnvDlSlHT8=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh59%2Fh97%2F9446066946078%2F221015-basilisk-v3-pro-white-1500x1000-4.jpg",
+      "https://assets3.razerzone.com/HF1HzPEp_mGFkERMZRsSgPZ68rs=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh02%2Fh97%2F9446066978846%2F221015-basilisk-v3-pro-white-1500x1000-3.jpg"
+    ],
+    "detail": {
+      "description": "Customizable Wireless Gaming Mouse with Razer HyperScroll Tilt Wheel",
+      "connectivity": [
+        "Razer™ HyperSpeed Wireless",
+        "Bluetooth",
+        "Wired – Speedflex Cable USB Type C"
+      ],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 30000,
+      "buttons": 11,
+      "clicks": "90-million",
+      "sizes": [
+        "Length: 130 mm / 5.11 in",
+        "Width: 75.4 mm / 2.96 in",
+        "Height: 42.5 mm / 1.67 in"
+      ],
+      "weight": "112 g / 3.95 oz (Excluding cable)"
+    },
+    "cost": 160
+  },
+  {
+    "id": 2,
+    "type": "mouse",
+    "name": "Razer Basilisk V3 Pro - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/CBPjFkeMie1z_s3eiouSXbqNZCA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fheb%2Fh05%2F9434919862302%2F220823-basilisk-v3-pro-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/HdtP_HRV6xK-I2mlkkNMUZb8OTc=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh03%2Fh61%2F9434918912030%2F220823-basilisk-v3-pro-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/bVlOhPiKr9hbqwz8X28c4r57Pho=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbe%2Fh63%2F9434918879262%2F220823-basilisk-v3-pro-1500x1000-4.jpg",
+      "https://assets3.razerzone.com/u1ToLSKD-llAedkWIc1qPGRXkKw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh15%2Fh64%2F9434918846494%2F220823-basilisk-v3-pro-1500x1000-5.jpg"
+    ],
+    "detail": {
+      "description": "Customizable Wireless Gaming Mouse with Razer HyperScroll Tilt Wheel",
+      "connectivity": [
+        "Razer™ HyperSpeed Wireless",
+        "Bluetooth",
+        "Wired – Speedflex Cable USB Type C"
+      ],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 30000,
+      "buttons": 11,
+      "clicks": "90-million",
+      "sizes": [
+        "Length: 130 mm / 5.11 in",
+        "Width: 75.4 mm / 2.96 in",
+        "Height: 42.5 mm / 1.67 in"
+      ],
+      "weight": "112 g / 3.95 oz (Excluding cable)"
+    },
+    "cost": 160
+  },
+  {
+    "id": 3,
+    "type": "mouse",
+    "name": "Razer Orochi V2 - Quartz",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/STlaIPIUbVM5iQhUvzR0HBp4zLE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh28%2Fha1%2F9446066683934%2F221015-orochi-v2-quartz-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/tDroc8SHgngcdVYWgHfAFnze2K0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh18%2Fh9b%2F9446066815006%2F221015-orochi-v2-quartz-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/bHxJ8nC54z_Xz1RuMTHbzog6cX8=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbf%2Fh9d%2F9446066782238%2F221015-orochi-v2-quartz-1500x1000-4.jpg",
+      "https://assets3.razerzone.com/-QA_TK_oZdHPb6Oc3bt8smFLuu8=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhc2%2Fh9a%2F9446066847774%2F221015-orochi-v2-quartz-1500x1000-5.jpg"
+    ],
+    "detail": {
+      "description": "Mobile Wireless Gaming Mouse with up to 950 Hours of Battery Life",
+      "connectivity": ["Razer™ HyperSpeed 2.4GHz wireless + Bluetooth®"],
+      "rgb": "none",
+      "sensitivity": 18000,
+      "buttons": 6,
+      "clicks": "60-million",
+      "sizes": [
+        "Length: 108.0 mm / 4.25 in",
+        "Width: 62.6 mm / 2.46 in",
+        "Height: 38.5 mm / 1.50 in"
+      ],
+      "weight": "< 60 g / < 2.2 oz (Mass centralized)"
+    },
+    "cost": 70
+  },
+  {
+    "id": 4,
+    "type": "mouse",
+    "name": "Razer Orochi V2 - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/XfMF5bystMdwY3ouage-UD11lQI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh18%2Fh3e%2F9171072286750%2FOrochi-V2-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/z1whUj-zOoTM9h_IF8OTBaibFp0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh27%2Fh44%2F9171072417822%2FOrochi-V2-1500x1000-4.jpg",
+      "https://assets3.razerzone.com/5n8ki_uk8a7skriPUR9sZWiOTcQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhe8%2Fh44%2F9171072483358%2FOrochi-V2-1500x1000-5.jpg"
+    ],
+    "detail": {
+      "description": "Mobile Wireless Gaming Mouse with up to 950 Hours of Battery Life",
+      "connectivity": ["Razer™ HyperSpeed 2.4GHz wireless + Bluetooth®"],
+      "rgb": "none",
+      "sensitivity": 18000,
+      "buttons": 6,
+      "clicks": "60-million",
+      "sizes": [
+        "Length: 108.0 mm / 4.25 in",
+        "Width: 62.6 mm / 2.46 in",
+        "Height: 38.5 mm / 1.50 in"
+      ],
+      "weight": "< 60 g / < 2.2 oz (Mass centralized)"
+    },
+    "cost": 70
+  },
+  {
+    "id": 5,
+    "type": "mouse",
+    "name": "Razer Orochi V2 - White",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/e3XrWnLvVPxfDPXzOf3gxeY9Pd0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh29%2Fh41%2F9171072352286%2FOrochi-V2-1500x1000-3.jpg"
+    ],
+    "detail": {
+      "description": "Mobile Wireless Gaming Mouse with up to 950 Hours of Battery Life",
+      "connectivity": ["Razer™ HyperSpeed 2.4GHz wireless + Bluetooth®"],
+      "rgb": "none",
+      "sensitivity": 18000,
+      "buttons": 6,
+      "clicks": "60-million",
+      "sizes": [
+        "Length: 108.0 mm / 4.25 in",
+        "Width: 62.6 mm / 2.46 in",
+        "Height: 38.5 mm / 1.50 in"
+      ],
+      "weight": "< 60 g / < 2.2 oz (Mass centralized)"
+    },
+    "cost": 70
+  },
+  {
+    "id": 6,
+    "type": "mouse",
+    "name": "Razer DeathAdder V3 Pro - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/lMi6U7A6Cf8fOXEtXhUyjNPyUds=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh19%2Fh13%2F9432710119454%2Fdeathadder-v3-pro-black-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/ry2sw9SxQeNAk3tH3LNLWuaICmY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhab%2Fheb%2F9430193405982%2Fdeathadder-v3-pro-black-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/R6CS79CYHmiv1IQANxS-aMJYgcs=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhe9%2Fhea%2F9430193471518%2Fdeathadder-v3-pro-black-1500x1000-4.jpg",
+      "https://assets3.razerzone.com/n9n0rpVB8hcHF0hUBjK6BT5NJCI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh13%2Fhef%2F9430193307678%2Fdeathadder-v3-pro-black-1500x1000-3.jpg"
+    ],
+    "detail": {
+      "description": "Ultra-lightweight Wireless Ergonomic Esports Mouse",
+      "connectivity": [
+        "Razer HyperSpeed Wireless",
+        "Wired – Speedflex Charging Cable USB Type C"
+      ],
+      "rgb": "none",
+      "sensitivity": 30000,
+      "buttons": 5,
+      "clicks": "90-million",
+      "sizes": [
+        "Length: 128.0 mm / 5.00 in",
+        "Width: 68.0 mm / 2.67 in",
+        "Height: 44.0 mm / 1.73 in"
+      ],
+      "weight": "63 g"
+    },
+    "cost": 150
+  },
+  {
+    "id": 7,
+    "type": "mouse",
+    "name": "Razer DeathAdder V3 Pro - White",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/a7pR1BEjszKcOizC63D74L5by20=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh54%2Fheb%2F9430193438750%2Fdeathadder-v3-pro-white-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/jaIp5BE30_BC2KM7rVT0sKH0jeI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fha9%2Fhee%2F9430193340446%2Fdeathadder-v3-pro-white-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/lKWDmrnGj99SHxnKQSrtrftIjFg=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh79%2Fhf5%2F9430193143838%2Fdeathadder-v3-pro-white-1500x1000-3.jpg"
+    ],
+    "detail": {
+      "description": "Ultra-lightweight Wireless Ergonomic Esports Mouse",
+      "connectivity": [
+        "Razer HyperSpeed Wireless",
+        "Wired – Speedflex Charging Cable USB Type C"
+      ],
+      "rgb": "none",
+      "sensitivity": 30000,
+      "buttons": 5,
+      "clicks": "90-million",
+      "sizes": [
+        "Length: 128.0 mm / 5.00 in",
+        "Width: 68.0 mm / 2.67 in",
+        "Height: 44.0 mm / 1.73 in"
+      ],
+      "weight": "63 g"
+    },
+    "cost": 150
+  },
+  {
+    "id": 8,
+    "type": "mouse",
+    "name": "Razer Viper V2 Pro - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/ukge_aS9awG4vhZPc3Yfo5RHrGw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhff%2Fhfd%2F9398892691486%2F2-220510-viper-v2-pro-black-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/y0uW13XG7e8Xy4W1xulXoCe__6Q=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh6e%2Fhf6%2F9398892429342%2F2-220510-viper-v2-pro-black-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/OiRwdTUBrVZNNQVC6I8IFdzy5l8=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhd6%2Fhf9%2F9398892527646%2F2-220510-viper-v2-pro-black-1500x1000-5.jpg",
+      "https://assets3.razerzone.com/0hnfh5yQl7z5d-aaYErtmiSqnAc=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhab%2Fhfe%2F9398892789790%2F2-220510-viper-v2-pro-black-1500x1000-6.jpg"
+    ],
+    "detail": {
+      "description": "Ultra-lightweight, Ultra-fast Wireless Esports Mouse",
+      "connectivity": ["Razer™ HyperSpeed Wireless", "Wired – Speedflex Cable"],
+      "rgb": "none",
+      "sensitivity": 30000,
+      "buttons": 5,
+      "clicks": "90-million",
+      "sizes": [
+        "Length: 126.5 mm / 4.98 in",
+        "Width: 66.2 mm / 2.61 in",
+        "Height: 37.8 mm / 1.49 in"
+      ],
+      "weight": "58 g"
+    },
+    "cost": 150
+  },
+  {
+    "id": 9,
+    "type": "mouse",
+    "name": "Razer Viper V2 Pro - White",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/G5Zk5Zhst9rzpmXpLvZ_F711ris=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh6f%2Fhf3%2F9398892363806%2F2-220510-viper-v2-pro-white-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/-6eWTSyCN7kYMz9Dd3HV5LRXP2c=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh95%2Fhfd%2F9398892658718%2F2-220510-viper-v2-pro-white-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/XCv3JP6DP6uzCUfejI-nAgy9uiM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf1%2Fhfb%2F9398892822558%2F2-220510-viper-v2-pro-white-1500x1000-5.jpg",
+      "https://assets3.razerzone.com/ZJsS3uXZqUOLPvTTweS-UqXZqRE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh59%2Fhff%2F9398892724254%2F2-220510-viper-v2-pro-white-1500x1000-6.jpg"
+    ],
+    "detail": {
+      "description": "Ultra-lightweight, Ultra-fast Wireless Esports Mouse",
+      "connectivity": ["Razer™ HyperSpeed Wireless", "Wired – Speedflex Cable"],
+      "rgb": "none",
+      "sensitivity": 30000,
+      "buttons": 5,
+      "clicks": "90-million",
+      "sizes": [
+        "Length: 126.5 mm / 4.98 in",
+        "Width: 66.2 mm / 2.61 in",
+        "Height: 37.8 mm / 1.49 in"
+      ],
+      "weight": "58 g"
+    },
+    "cost": 150
+  },
+  {
+    "id": 10,
+    "type": "mouse",
+    "name": "Razer Viper 8KHz - ESL Edition",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/OcfWYlGbAIhuKEzXSU2gJxmYTkM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhe2%2Fhd0%2F9325794820126%2F220215-esl-viper-8khz-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/rWtFnkyuFPOTyEns5qSa4ZB-VLg=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fha1%2Fhd4%2F9325794951198%2F220215-esl-viper-8khz-1500x1000-2.jpg"
+    ],
+    "detail": {
+      "description": "Ambidextrous Esports Gaming Mouse with 8000Hz Polling Rate",
+      "connectivity": ["Wired - Razer™ Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 126.7 mm / 4.66 in",
+        "Width: 66.5 mm / 2.62 in",
+        "Height: 37.8 mm / 1.49 in"
+      ],
+      "weight": "71 g / 2.5 oz (Excluding cable)"
+    },
+    "cost": 100
+  },
+  {
+    "id": 11,
+    "type": "mouse",
+    "name": "Razer Viper 8KHz - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/kXDM40fNUS-3fzHeejJWxrrLE-Y=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh98%2Fh1f%2F9140864221214%2Fviper-8khz-1500x1000-01.jpg",
+      "https://assets3.razerzone.com/8ER93_CcnJF1AaV44e5g4GPDQPw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhde%2Fh1c%2F9140864188446%2Fviper-8khz-1500x1000-03.png",
+      "https://assets3.razerzone.com/01LmXpWHighxoRmBLrGFNamVlAE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhef%2Fh1f%2F9140864253982%2Fviper-8khz-1500x1000-04.png"
+    ],
+    "detail": {
+      "description": "Ambidextrous Esports Gaming Mouse with 8000Hz Polling Rate",
+      "connectivity": ["Wired - Razer™ Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 126.7 mm / 4.66 in",
+        "Width: 66.5 mm / 2.62 in",
+        "Height: 37.8 mm / 1.49 in"
+      ],
+      "weight": "71 g / 2.5 oz (Excluding cable)"
+    },
+    "cost": 80
+  },
+  {
+    "id": 12,
+    "type": "mouse",
+    "name": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/lBf5660JTjcMdYA4wZzlK_7-VUQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh48%2Fhc8%2F9264382771230%2F211117-deathadder-v2-pro-genshin-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/9zv2XxcmOuohBbdv5x4uRQ7S914=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fha2%2Fhc5%2F9264382803998%2F211117-deathadder-v2-pro-genshin-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/jwbOUWSc5J7CU0QwziMTLfvg8LQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh4b%2Fhc5%2F9264382836766%2F211117-deathadder-v2-pro-genshin-1500x1000-3.jpg"
+    ],
+    "detail": {
+      "description": "Wireless gaming mouse with best-in-class ergonomics",
+      "connectivity": [
+        "Razer™ HyperSpeed Wireless",
+        "Bluetooth",
+        "Wired - Speedflex Cable"
+      ],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 72.6 mm / 2.86 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "88 g / 0.194 lbs (Excluding dongle)"
+    },
+    "cost": 140
+  },
+  {
+    "id": 13,
+    "type": "mouse",
+    "name": "Razer DeathAdder V2 Pro - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/pW_76Z0NqI1Geg3QOcCD4tysbWA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhba%2Fhea%2F9086247895070%2FdeathadderV2pro-gallery--hero-1500x1000.jpg",
+      "https://assets3.razerzone.com/Sw69Tni-IxpJM651S_Zj-bdXdOY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf9%2Fhe9%2F9086247829534%2FdeathadderV2pro-gallery-1500x1000-img3.jpg",
+      "https://assets3.razerzone.com/jwbOUWSc5J7CU0QwziMTLfvg8LQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh4b%2Fhc5%2F9264382836766%2F211117-deathadder-v2-pro-genshin-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/_MF7eyXgSQFvRnPvQLi8lOqEYMk=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhc9%2Fhc6%2F9086248091678%2FdeathadderV2pro-gallery-1500x1000-img9.jpg"
+    ],
+    "detail": {
+      "description": "Wireless gaming mouse with best-in-class ergonomics",
+      "connectivity": [
+        "Razer™ HyperSpeed Wireless",
+        "Bluetooth",
+        "Wired - Speedflex Cable"
+      ],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 72.6 mm / 2.86 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "88 g / 0.194 lbs (Excluding dongle)"
+    },
+    "cost": 130
+  },
+  {
+    "id": 14,
+    "type": "mouse",
+    "name": "Razer Pro Click Mini",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/W-1HMv8-CHFxfkflrJqU-xhg3NM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf3%2Fh6f%2F9257515089950%2F211102-pro-click-mini-gallery-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/byyqWSx-ArkILKb9KslV7D8A-pQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhd0%2Fh69%2F9257515221022%2F211102-pro-click-mini-gallery-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/IU9KdSVxJckKSX9oG9hLU6yvLCM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh49%2Fh70%2F9257515057182%2F211102-pro-click-mini-gallery-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/88mOEJz9m-vS-hV7LJIuHnIDerU=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhe1%2Fh6c%2F9257515155486%2F211102-pro-click-mini-gallery-1500x1000-5.jpg"
+    ],
+    "detail": {
+      "description": "Portable Wireless Mouse for Productivity",
+      "connectivity": ["Razer™ HyperSpeed 2.4GHz wireless + Bluetooth®"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 12000,
+      "buttons": 7,
+      "clicks": "15-million",
+      "sizes": ["Length: 100.2 mm", "Width:  62.7 mm", "Height: 34.2 mm"],
+      "weight": "111g with 2x Alkaline AA batteries"
+    },
+    "cost": 80
+  },
+  {
+    "id": 15,
+    "type": "mouse",
+    "name": "Razer DeathAdder V2 X HyperSpeed",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/diaGo1wVz-PXImjvh5fdRNCv8WY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh21%2Fh0a%2F9250344468510%2F211026-deathadder-v2-x-hyperspeed-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/SffJjqx9nn5dqlAnh1327P0bilg=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh66%2Fh07%2F9250344501278%2F211026-deathadder-v2-x-hyperspeed-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/z9wnLBtxyEgf_4SPUfGRZde1TQY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhcf%2Fh0a%2F9250344402974%2F211026-deathadder-v2-x-hyperspeed-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/UN4pb4BY7mPfxgPAmgbX4f06-wE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh78%2Fh0a%2F9250344435742%2F211026-deathadder-v2-x-hyperspeed-1500x1000-4.jpg"
+    ],
+    "detail": {
+      "description": "Wireless Gaming Mouse with Best-In-Class Ergonomics",
+      "connectivity": ["Dual-mode wireless (2.4G and BLE)"],
+      "rgb": "none",
+      "sensitivity": 14000,
+      "buttons": 7,
+      "clicks": "60-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 70.1 mm / 2.76 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "86 - 103 g / 3.03 – 3.63 oz"
+    },
+    "cost": 60
+  },
+  {
+    "id": 16,
+    "type": "mouse",
+    "name": "Razer DeathAdder V2 - Halo Infinite",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/zEErra3DG1mKTN2Qf3K5579dHqk=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh75%2Fh36%2F9242240319518%2F230921-deathadder-v2-halo-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/uOnOltkpZOIGAi6Wk01ZNRqAhmM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb3%2Fh35%2F9242240385054%2F230921-deathadder-v2-halo-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/s7d9xjmkKh4vkVgs0J-3EobGgq4=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhca%2Fh39%2F9242240221214%2F230921-deathadder-v2-halo-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/dUB_5AdcgJBS7gZmFqRUOKf2AZs=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh25%2Fhc0%2F9242239762462%2F230921-deathadder-v2-halo-1500x1000-4.jpg"
+    ],
+    "detail": {
+      "description": "Wired Gaming Mouse with Best-in-class Ergonomics",
+      "connectivity": ["Wired - Razer™ Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 72.7 mm / 2.86 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "82 g / 0.18 lbs"
+    },
+    "cost": 70
+  },
+  {
+    "id": 17,
+    "type": "mouse",
+    "name": "Razer DeathAdder V2 - Special Edition",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/dPxIQ8yBKEuQsl2bEIUCuyOHtX0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh97%2Fh01%2F9178922516510%2Fdeathadder-v2-se-gallery-150x1000-1.jpg",
+      "https://assets3.razerzone.com/Rmm-c5Q5W7YYRViG_IBtQgYNKfI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh59%2Fh02%2F9178922582046%2Fdeathadder-v2-se-gallery-150x1000-2.jpg",
+      "https://assets3.razerzone.com/pU9ZmXTpX2ZNIJWWdPRDnrZtMDI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh57%2Fh05%2F9178922647582%2Fdeathadder-v2-se-gallery-150x1000-3.jpg",
+      "https://assets3.razerzone.com/nHxZX1rKg6n58xaEYmJFVXlNkgk=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh27%2Fh0c%2F9178922844190%2Fdeathadder-v2-se-gallery-150x1000-6.jpg"
+    ],
+    "detail": {
+      "description": "Wired Gaming Mouse with Best-in-class Ergonomics",
+      "connectivity": ["Wired - Razer™ Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 72.7 mm / 2.86 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "82 g / 0.18 lbs"
+    },
+    "cost": 70
+  },
+  {
+    "id": 18,
+    "type": "mouse",
+    "name": "Razer DeathAdder V2 - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/APiwhnIP81n83ihizFqSP1rBhGw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbc%2Fh0f%2F9081448529950%2Frazer-deathadder-v2-gallery-hero-1500x1000.jpg",
+      "https://assets3.razerzone.com/1SvMZ0J2nujx-z-iXO3huehKoPU=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh2e%2Fh6f%2F9081449218078%2Frazer-deathadder-v2-gallery-01.jpg",
+      "https://assets3.razerzone.com/fIXdbAuAmblUJbTAtu0r3Pfv9zw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhff%2Fh08%2F9081448333342%2Frazer-deathadder-v2-gallery-02.jpg",
+      "https://assets3.razerzone.com/QCaRhYne-OBt3bcyIijnXRtw4xY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh56%2Fh09%2F9081448366110%2Frazer-deathadder-v2-gallery-05.jpg"
+    ],
+    "detail": {
+      "description": "Wired Gaming Mouse with Best-in-class Ergonomics",
+      "connectivity": ["Wired - Razer™ Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 72.7 mm / 2.86 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "82 g / 0.18 lbs"
+    },
+    "cost": 70
+  },
+  {
+    "id": 19,
+    "type": "mouse",
+    "name": "Razer DeathAdder Essential - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/dLXx6Q0FTK5qxTREA1EpYq8QYbQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhfa%2Fhe5%2F9234225430558%2Fdeathadder-essential-2021-black-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/HQqhzfqxfNX_ZVdFeOwoBZGaq6k=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh40%2Fhe3%2F9234225397790%2Fdeathadder-essential-2021-black-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/wTNbFGIH3xwtK7B8t6bRgF6vbkI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fha9%2Fhe6%2F9234225496094%2Fdeathadder-essential-2021-black-1500x1000-3.jpg"
+    ],
+    "detail": {
+      "description": "Essential gaming mouse with 6,400 DPI optical sensor",
+      "connectivity": ["Wired - Standard Cable"],
+      "rgb": "Single-Color Green Lighting",
+      "sensitivity": 6400,
+      "buttons": 5,
+      "clicks": "10-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 61.7 mm / 2.43 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "96 g / 0.211 lbs"
+    },
+    "cost": 30
+  },
+  {
+    "id": 20,
+    "type": "mouse",
+    "name": "Razer DeathAdder Essential - White",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/sIomZZRyTj29uYX0usJyeBt5SA0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh4f%2Fhe9%2F9234225528862%2Fdeathadder-essential-2021-white-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/U0Gh84cTe3BN3OH0S1iCiCqr4Yw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh92%2Fhe2%2F9234225332254%2Fdeathadder-essential-2021-white-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/EyhZDeC6YMZwrP2hDoPZu5u6KoI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh51%2Fhe6%2F9234225463326%2Fdeathadder-essential-2021-white-1500x1000-3.jpg"
+    ],
+    "detail": {
+      "description": "Essential gaming mouse with 6,400 DPI optical sensor",
+      "connectivity": ["Wired - Standard Cable"],
+      "rgb": "Single-Color Green Lighting",
+      "sensitivity": 6400,
+      "buttons": 5,
+      "clicks": "10-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 61.7 mm / 2.43 in",
+        "Height: 42.7 mm / 1.68 in"
+      ],
+      "weight": "96 g / 0.211 lbs"
+    },
+    "cost": 30
+  },
+  {
+    "id": 21,
+    "type": "mouse",
+    "name": "Razer Basilisk V3",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/wgxcCfd0bxFii4x33PqAqt2YrvY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh57%2Fh2e%2F9234032656414%2Fbasiliskv-3-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/kUryNDwjWeY92NeuFp5McUpa-TI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhae%2Fh2e%2F9234032689182%2Fbasiliskv-3-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/6REt0YjRSmhBKu9Uu1UXkM-M3RA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhff%2Fh2d%2F9234032623646%2Fbasiliskv-3-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/VKSdAJcnuhG2deJmpA6LofKPnUA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhef%2Fh2a%2F9234032558110%2Fbasiliskv-3-1500x1000-4.jpg"
+    ],
+    "detail": {
+      "description": "Customizable Gaming Mouse with Razer Chroma™ RGB",
+      "connectivity": ["Wired - Razer™ Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 26000,
+      "buttons": 11,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 130 mm / 5.11 in",
+        "Width: 75.4 mm / 2.96 in",
+        "Height: 42.5 mm / 1.67 in"
+      ],
+      "weight": "101 g / 3.56 oz (Excluding cable)"
+    },
+    "cost": 70
+  },
+  {
+    "id": 22,
+    "type": "mouse",
+    "name": "Razer Naga X",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/Upx_4mlwxnEb9IuHeEbJh15ALtk=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh49%2Fhb0%2F9138390925342%2Frazer-naga-x-gallery-01.jpg",
+      "https://assets3.razerzone.com/8YTYC-h9IW0tcYAn-RMm9fOGADY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhde%2Fh64%2F9138391056414%2Frazer-naga-x-gallery-02.jpg",
+      "https://assets3.razerzone.com/6mOtwBZoPsvmD8DIj9mDRhaUlhE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh88%2Fhaf%2F9138390990878%2Frazer-naga-x-gallery-03.jpg",
+      "https://assets3.razerzone.com/lqd5Xv644G0kHfClRuiSx3PDG7g=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf0%2Fhb2%2F9138390892574%2Frazer-naga-x-gallery-07.jpg"
+    ],
+    "detail": {
+      "description": "Ergonomic MMO Gaming Mouse with 16 buttons",
+      "connectivity": ["Wired - Razer™ Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 18000,
+      "buttons": 16,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 119.0 mm / 4.69 in",
+        "Width: 74.6 mm / 2.94 in",
+        "Height: 43.0 mm / 1.69 in"
+      ],
+      "weight": "85 g / 3 oz (Excluding cable)"
+    },
+    "cost": 80
+  },
+  {
+    "id": 23,
+    "type": "mouse",
+    "name": "Razer Viper Ultimate with Charging Dock - Cyberpunk 2077 Edition",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/CbUjCHxcgkzPei8Ja6XmM9L-vro=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb3%2Fh83%2F9099485675550%2Fcyberpunk-2077-viper-ultimate-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/HpUmtinqr0PHduoTXE9v8YFECI4=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh05%2Fh83%2F9099485610014%2Fcyberpunk-2077-viper-ultimate-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/Da8a2GDzVYRyxKpHzR3Zv8t__tg=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh5a%2Fh86%2F9099485708318%2Fcyberpunk-2077-viper-ultimate-1500x1000-5.jpg",
+      "https://assets3.razerzone.com/1sVmrOxX3GPMXgnMQlaZSr0oCNE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhc4%2Fh86%2F9099485741086%2Fcyberpunk-2077-viper-ultimate-1500x1000-6.jpg"
+    ],
+    "detail": {
+      "description": "Ambidextrous Gaming Mouse with Razer™ HyperSpeed Wireless",
+      "connectivity": ["Razer™ HyperSpeed Wireless", "Wired - Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 66.0 mm / 2.60 in",
+        "Height: 38.0 mm / 1.50 in"
+      ],
+      "weight": "74 g / 0.16 lbs"
+    },
+    "cost": 160
+  },
+  {
+    "id": 24,
+    "type": "mouse",
+    "name": "Razer Viper Ultimate with Charging Dock - Black",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/6v1RVaYM7gImsVUwGP7AXb6YOcw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh78%2Fh6a%2F9081447088158%2Frazer-viper-ultimate-gallery-hero.jpg",
+      "https://assets3.razerzone.com/XiXWaor3PhvbjhxZPQ2EiwwJ5f0=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh61%2Fh53%2F9081447710750%2Frazer-viper-ultimate-gallery-01.jpg",
+      "https://assets3.razerzone.com/hudn_nelzgHSXkDwXG4oQ5gJWHM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh40%2Fh60%2F9081447383070%2Frazer-viper-ultimate-gallery-02.jpg",
+      "https://assets3.razerzone.com/smHWcGrnXIGnGaDVhEpzkQk2AxM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh68%2Fh67%2F9081447153694%2Frazer-viper-ultimate-gallery-03.jpg"
+    ],
+    "detail": {
+      "description": "Ambidextrous Gaming Mouse with Razer™ HyperSpeed Wireless",
+      "connectivity": ["Razer™ HyperSpeed Wireless", "Wired - Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 66.0 mm / 2.60 in",
+        "Height: 38.0 mm / 1.50 in"
+      ],
+      "weight": "74 g / 0.16 lbs"
+    },
+    "cost": 150
+  },
+  {
+    "id": 25,
+    "type": "mouse",
+    "name": "Razer Viper Ultimate with Charging Dock - Mercury",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/HGM9zYZvi7mtaS3VeGzsoheixoY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhac%2Fhd9%2F9085328097310%2Fviper-ultimate-mercury-Hero.jpg",
+      "https://assets3.razerzone.com/8dIj8NBuY8VfV4swSh0vpy6am0Q=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh72%2Fhf1%2F9085328785438%2Fviper-ultimate-mercury-1.jpg",
+      "https://assets3.razerzone.com/K8C29k4f-dUeOYn68MNX4hB8nYs=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhfe%2Fhd8%2F9085328031774%2Fviper-ultimate-mercury-2.jpg"
+    ],
+    "detail": {
+      "description": "Ambidextrous Gaming Mouse with Razer™ HyperSpeed Wireless",
+      "connectivity": ["Razer™ HyperSpeed Wireless", "Wired - Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 66.0 mm / 2.60 in",
+        "Height: 38.0 mm / 1.50 in"
+      ],
+      "weight": "74 g / 0.16 lbs"
+    },
+    "cost": 150
+  },
+  {
+    "id": 26,
+    "type": "mouse",
+    "name": "Razer Viper Ultimate with Charging Dock - Quartz",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/J2qDR-Q6A4Rli23_SJzYQNbN3_Q=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh26%2Fh30%2F9097609773086%2Fviper-ultimate-quartz-0.jpg",
+      "https://assets3.razerzone.com/0k94AYbVPHaUhagfFn43uZoVn7E=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh64%2Fh2f%2F9097609707550%2Fviper-ultimate-quartz-1.jpg",
+      "https://assets3.razerzone.com/uFeyxBmf0cIjClr6lBiJ8HRRqEY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh67%2Fh2c%2F9097609642014%2Fviper-ultimate-quartz-2.jpg",
+      "https://assets3.razerzone.com/lbHTtZNkL5sYOnqOaG4abRP_02A=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbd%2Fh2c%2F9097609674782%2Fviper-ultimate-quartz-3.jpg"
+    ],
+    "detail": {
+      "description": "Ambidextrous Gaming Mouse with Razer™ HyperSpeed Wireless",
+      "connectivity": ["Razer™ HyperSpeed Wireless", "Wired - Speedflex Cable"],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": 8,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 127.0 mm / 5.00 in",
+        "Width: 66.0 mm / 2.60 in",
+        "Height: 38.0 mm / 1.50 in"
+      ],
+      "weight": "74 g / 0.16 lbs"
+    },
+    "cost": 150
+  },
+  {
+    "id": 27,
+    "type": "mouse",
+    "name": "Razer Naga Pro",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/jxUOnr9Xu9FFlOJVYqZdC2J9TBk=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhab%2Fh34%2F9081993199646%2Frazer-naga-pro-1500x1000-gallery-9.jpg",
+      "https://assets3.razerzone.com/zbPf42UeunTLKZUAgWa-ikseDj4=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh59%2Fh35%2F9081993134110%2Frazer-naga-pro-1500x1000-gallery-1.jpg",
+      "https://assets3.razerzone.com/qMGqQsQl2B1HGRKaN_4pOaUFojs=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh6a%2Fh38%2F9081993068574%2Frazer-naga-pro-1500x1000-gallery-4.jpg",
+      "https://assets3.razerzone.com/x3LNpYpPt8dSjo29oN57Gz7b7eU=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh18%2Fh39%2F9081993003038%2Frazer-naga-pro-1500x1000-gallery-7.jpg"
+    ],
+    "detail": {
+      "description": "Modular Wireless Mouse with Swappable Side Plates",
+      "connectivity": [
+        "Razer™ HyperSpeed Wireless",
+        "Bluetooth",
+        "Wired - Speedflex Cable"
+      ],
+      "rgb": "Razer Chroma™ RGB",
+      "sensitivity": 20000,
+      "buttons": "10 / 14 / 20",
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 119.0 mm / 4.69 in",
+        "Width: 75.4 mm / 2.96 in",
+        "Height: 42.5 mm / 1.67 in"
+      ],
+      "weight": "117 g / 0.257 lbs (Excluding dongle)"
+    },
+    "cost": 150
+  },
+  {
+    "id": 28,
+    "type": "mouse",
+    "name": "Razer Pro Click",
+    "brand": "Razer",
+    "img": [
+      "https://assets3.razerzone.com/WzKbrQYZRkkXT8rUgXwdGDO8l1Q=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb6%2Fhd0%2F9199704997918%2Frazer-pro-click-1500x1000-1.jpg",
+      "https://assets3.razerzone.com/xkjCl2JOMX5AbZegSVxhgMUmKTY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh64%2Fhd1%2F9199704932382%2Frazer-pro-click-1500x1000-2.jpg",
+      "https://assets3.razerzone.com/kWOPdCE1bsInDvjOI7OA4QnU9a8=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh0d%2Fhd1%2F9199704965150%2Frazer-pro-click-1500x1000-3.jpg",
+      "https://assets3.razerzone.com/P0jh5e2F4e08ZdGNL3xvVgX3DqM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf9%2Fh85%2F9199705063454%2Frazer-pro-click-1500x1000-6.jpg"
+    ],
+    "detail": {
+      "description": "High-precision ergonomic wireless mouse for productivity",
+      "connectivity": ["2.4GHz Hyperspeed dongle, multi-host BLE, and wired"],
+      "rgb": "none",
+      "sensitivity": 16000,
+      "buttons": 8,
+      "clicks": "50-million",
+      "sizes": [
+        "Length: 130 mm / 5.11 in",
+        "Width: 75.4 mm / 2.96 in",
+        "Height: 42.5 mm / 1.67 in"
+      ],
+      "weight": "106 g / 0.23 lbs"
+    },
+    "cost": 100
+  },
+  {
+    "id": 29,
+    "type": "mouse",
+    "name": "Logitech G G203 Lightsync",
+    "brand": "Logitech",
+    "img": [
+      "https://coolboxpe.vtexassets.com/arquivos/ids/192025-800-auto?v=637690411131100000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/192026-800-auto?v=637690411249500000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/192027-800-auto?v=637690411332200000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/192028-800-auto?v=637690411412130000&width=800&height=auto&aspect=true"
+    ],
+    "detail": {
+      "description": "Mouse gamer alámbrico Logitech G G203 Lightsync, conexión usb, 8000 dpi, 6 botones, luces RGB, lila",
+      "connectivity": ["Wired – Speedflex Cable USB Type C"],
+      "rgb": "none",
+      "sensitivity": 8000,
+      "buttons": 6,
+      "clicks": "60-million",
+      "sizes": ["Length: 11.66 cm", "Width: 6.21 cm", "Height: 3.82 cm"],
+      "weight": "85 g"
+    },
+    "cost": 32
+  },
+  {
+    "id": 30,
+    "type": "mouse",
+    "name": "Logitech G G Pro",
+    "brand": "Logitech",
+    "img": [
+      "https://coolboxpe.vtexassets.com/arquivos/ids/187720-800-auto?v=637623174160400000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/173799-800-auto?v=637382505409400000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/173800-800-auto?v=637382505412870000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/209456-800-auto?v=637853723706270000&width=800&height=auto&aspect=true"
+    ],
+    "detail": {
+      "description": "Mouse gamer alámbrico Logitech G G Pro, usb, 16000 dpi, 6 botones, luces RGB",
+      "connectivity": ["HyperSpeed Wireless"],
+      "rgb": "none",
+      "sensitivity": 16000,
+      "buttons": 6,
+      "clicks": "70-million",
+      "sizes": ["Length: 11.6 cm", "Width: 6.21 cm", "Height: 3.82 cm"],
+      "weight": "90 g / 3.95 oz (Excluding cable)"
+    },
+    "cost": 50
+  },
+  {
+    "id": 31,
+    "type": "mouse",
+    "name": "Logitech G G305",
+    "brand": "Logitech",
+    "img": [
+      "https://coolboxpe.vtexassets.com/arquivos/ids/206201-800-auto?v=637818379245200000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/206202-800-auto?v=637818379458530000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/206205-800-auto?v=637818379992830000&width=800&height=auto&aspect=true"
+    ],
+    "detail": {
+      "description": "El diseño ligero, compacto, duradero y el almacenamiento integrado para receptor USB hacen del MOUSE LOGITECH G305 LIGTHSPEED WIRELESS BLACK sea un gran compañero de viaje.",
+      "connectivity": ["HyperSpeed Wireless"],
+      "rgb": "none",
+      "sensitivity": 12000,
+      "buttons": 6,
+      "clicks": "50-million",
+      "sizes": ["Length: 16 cm", "Width: 11 cm", "Height: 5 cm"],
+      "weight": "100g"
+    },
+    "cost": 50
+  },
+  {
+    "id": 32,
+    "type": "mouse",
+    "name": "Teraware4gamer",
+    "brand": "Teraware",
+    "img": [
+      "https://coolboxpe.vtexassets.com/arquivos/ids/187167-800-auto?v=637608567002000000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/187168-800-auto?v=637608567142300000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/187169-800-auto?v=637608567369430000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/187170-800-auto?v=637608567513730000&width=800&height=auto&aspect=true"
+    ],
+    "detail": {
+      "description": "Cuenta con cable para videojuegos y un diseño simétrico, perfecto para usuarios diestros y zurdos; además, tiene 3200 Dpi, lo que permite una mayor precisión.",
+      "connectivity": ["Wired – Speedflex Cable USB Type C"],
+      "rgb": "Chroma™ RGB",
+      "sensitivity": 4900,
+      "buttons": 6,
+      "clicks": "70-million",
+      "sizes": [
+        "Length: 130 mm / 5.11 in",
+        "Width: 75.4 mm / 2.96 in",
+        "Height: 42.5 mm / 1.67 in"
+      ],
+      "weight": "112 g"
+    },
+    "cost": 15
+  },
+  {
+    "id": 33,
+    "type": "mouse",
+    "name": "Teraware - Gray & Black",
+    "brand": "Teraware",
+    "img": [
+      "https://coolboxpe.vtexassets.com/arquivos/ids/207773-800-auto?v=637831765691030000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/207774-800-auto?v=637831765802870000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/207775-800-auto?v=637831766077100000&width=800&height=auto&aspect=true",
+      "https://coolboxpe.vtexassets.com/arquivos/ids/207776-800-auto?v=637831766140300000&width=800&height=auto&aspect=true"
+    ],
+    "detail": {
+      "description": "Mouse con 6 botones, ideales para los Gamming al tener 2400 Dpi. Cuenta con un diseño simétrico, perfecto para usuarios diestros y zurdos.",
+      "connectivity": ["Wired – Speedflex Cable USB Type C"],
+      "rgb": "Single-Color Purple Lighting",
+      "sensitivity": 4900,
+      "buttons": 6,
+      "clicks": "50-million",
+      "sizes": [
+        "Length: 130 mm / 5.11 in",
+        "Width: 75.4 mm / 2.96 in",
+        "Height: 42.5 mm / 1.67 in"
+      ],
+      "weight": "112 g"
+    },
+    "cost": 10
+  }
+]
