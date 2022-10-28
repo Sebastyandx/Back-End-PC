@@ -6,7 +6,9 @@
       "name": "Mother ASUS PRIME",
       "cost": 17350,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
       ],
       "details": {
         "generation": "A520M-K AM4",
@@ -61,7 +63,9 @@
       "name": "Mother ASUS PRIME",
       "cost": 10900,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
       ],
       "details": {
         "generation": "A320M-K",
@@ -120,7 +124,8 @@
       "name": "Mother Asrock A320M-HDV R4.0 Ryzen M-ATX",
       "cost": 10500,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919293/pc/mothers/download_vgfg7q.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919326/pc/mothers/download_qgebsr.jpg"
       ],
       "details": {
         "generation": "A320M-HDV",
@@ -178,7 +183,8 @@
       "name": "Mother Asrock B450 Steel Legend AM4 RGB Dual M.2 Dual USB 3.",
       "cost": 29900,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919293/pc/mothers/download_vgfg7q.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919326/pc/mothers/download_qgebsr.jpg"
       ],
       "details": {
         "generation": "B450",
@@ -237,7 +243,9 @@
       "name": "Mother ASUS PRIME X570-P AM4 PCIe Gen4 Dual M.2",
       "cost": 38200,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
       ],
       "details": {
         "generation": "X570-P",
@@ -294,7 +302,11 @@
       "name": "Mother Asrock X570 Phantom Gaming 4 AM4 PCIe Gen4",
       "cost": 36800,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666916483/pc/mothers/compragamer_Imganen_general_14225_Mother_Asrock_X570_Phantom_Gaming_4_AM4_PCIe_Gen4_60447878-grn_bomzdd.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666916702/pc/mothers/compragamer_Imganen_general_14226_Mother_Asrock_X570_Phantom_Gaming_4_AM4_PCIe_Gen4_2afa43b0-grn_ofb3qq.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666916730/pc/mothers/compragamer_Imganen_general_14227_Mother_Asrock_X570_Phantom_Gaming_4_AM4_PCIe_Gen4_c9b6344c-grn_fhtggy.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666916758/pc/mothers/compragamer_Imganen_general_14228_Mother_Asrock_X570_Phantom_Gaming_4_AM4_PCIe_Gen4_f7ab003f-grn_ggjha5.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666916789/pc/mothers/compragamer_Imganen_general_14229_Mother_Asrock_X570_Phantom_Gaming_4_AM4_PCIe_Gen4_c7f08efa-grn_ourfww.jpg"
       ],
       "details": {
         "generation": "X570",
@@ -352,7 +364,10 @@
       "name": "Mother Asrock X570 Steel Legend AM4 PCIe Gen4 ",
       "cost": 43200,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666903663/pc/mothers/mother2.1_buqqcs.png",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666903663/pc/mothers/mother2.2_nmmxaf.png",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666903663/pc/mothers/mother2.3_xinwd7.png",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666903663/pc/mothers/mother2.4_deetu6.png"
       ],
       "details": {
         "generation": "X570",
@@ -405,12 +420,15 @@
     },
     {
       "type": "mother",
-  
       "brand": "AMD",
       "name": "Mother ASUS TUF X570-PLUS GAMING WiFi AM4 PCIe 4.0 Dual M.2",
       "cost": 55600,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917270/pc/mothers/compragamer_Imganen_general_14392_Mother_ASUS_TUF_X570-PLUS_GAMING_WiFi_AM4_PCIe_4.0_Dual_M.2_ab5e57db-grn_uq4hbl.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917564/pc/mothers/compragamer_Imganen_general_14393_Mother_ASUS_TUF_X570-PLUS_GAMING_WiFi_AM4_PCIe_4.0_Dual_M.2_1a97a39d-grn_x1yklp.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917596/pc/mothers/compragamer_Imganen_general_14394_Mother_ASUS_TUF_X570-PLUS_GAMING_WiFi_AM4_PCIe_4.0_Dual_M.2_4908839e-grn_rrofo1.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917619/pc/mothers/compragamer_Imganen_general_14395_Mother_ASUS_TUF_X570-PLUS_GAMING_WiFi_AM4_PCIe_4.0_Dual_M.2_9c053d34-grn_epxznq.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917647/pc/mothers/compragamer_Imganen_general_14396_Mother_ASUS_TUF_X570-PLUS_GAMING_WiFi_AM4_PCIe_4.0_Dual_M.2_9e353fa2-grn_wedio9.jpg"
       ],
       "detials": {
         "generation": "X570-PLUS",
@@ -467,7 +485,9 @@
       "name": "Mother Gigabyte GA-A320M-H AM4",
       "cost": 13100,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917684/pc/mothers/compragamer_Imganen_general_18305_Mother_Gigabyte_GA-A320M-H_AM4_192d7d38-grn_a6k5uj.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917710/pc/mothers/compragamer_Imganen_general_18306_Mother_Gigabyte_GA-A320M-H_AM4_adfd07e0-grn_s0kmbh.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917744/pc/mothers/compragamer_Imganen_general_18309_Mother_Gigabyte_GA-A320M-H_AM4_72aabd21-grn_yau3zd.jpg"
       ],
       "details": {
         "generation": "GA-A320M-H",
@@ -525,7 +545,9 @@
       "name": "Mother ASUS ROG STRIX B550-F GAMING AM4 PCI-E 4.0",
       "cost": 54150,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917800/pc/mothers/compragamer_Imganen_general_19208_Mother_ASUS_ROG_STRIX_B550-F_GAMING_AM4_PCI-E_4.0_61578ba5-grn_o7uysd.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917837/pc/mothers/compragamer_Imganen_general_19209_Mother_ASUS_ROG_STRIX_B550-F_GAMING_AM4_PCI-E_4.0_f51c1d2e-grn_jzexb0.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917861/pc/mothers/compragamer_Imganen_general_19214_Mother_ASUS_ROG_STRIX_B550-F_GAMING_AM4_PCI-E_4.0_b209a845-grn_oln10n.jpg"
       ],
       "details": {
         "generation": "B550-F",
@@ -580,7 +602,9 @@
       "name": "Mother Asrock B550 Phantom Gaming 4",
       "cost": 25150,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917903/pc/mothers/compragamer_Imganen_general_20360_Mother_Asrock_B550_Phantom_Gaming_4_e8466a98-grn_anpwqt.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917927/pc/mothers/compragamer_Imganen_general_20361_Mother_Asrock_B550_Phantom_Gaming_4_2944eb5f-grn_skdyav.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917952/pc/mothers/compragamer_Imganen_general_20364_Mother_Asrock_B550_Phantom_Gaming_4_443f4645-grn_mbdweq.jpg"
       ],
       "details": {
         "generation": "B550",
@@ -635,120 +659,11 @@
       "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
       "cost": 50300,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918059/pc/mothers/compragamer_Imganen_general_20376_Mother_Asrock_B550_Phantom_Gaming_ITX_AX_04e00223-grn_zlneq4.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918101/pc/mothers/compragamer_Imganen_general_20377_Mother_Asrock_B550_Phantom_Gaming_ITX_AX_371249be-grn_w8gyov.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918126/pc/mothers/compragamer_Imganen_general_20380_Mother_Asrock_B550_Phantom_Gaming_ITX_AX_fc8d414e-grn_yha9o0.jpg"
       ],
       "detials": {
-        "generation": "B550",
-        "connectivity": {
-          "Cantidad De Slot Pci-e 16X": 1,
-          "Cantidad De Slot Pci-e 1X": 0,
-          "Tecnologia Multi Gpu": "null",
-          "Puertos Sata": 4,
-          "Salida Vga": 0,
-          "Salida HDMI": 1,
-          "Salida Dvi": 0,
-          "Salidas Display Ports": 1,
-          "Cantidad de Slot M.2 Totales": 2,
-          "Placa Wifi Integrada": "Si",
-          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-          "Puerto Ps/2": "No",
-          "Puertos Usb 2.0 Traseros": 0,
-          "Puertos Usb 3.0 Traseros": 4,
-          "Puertos Usb 3.1 Traseros": 2,
-          "Puertos Usb 3.2 Traseros": 0,
-          "Puertos Usb Type-c": 0,
-          "Cantidad De Slot Pci-e 4X": 0,
-          "Cantidad De Slot M.2 Sata": 0,
-          "Cantidad De Slot M.2 Nvme": 2
-        },
-        "Socket": [
-          "AM4 Ryzen 3th Gen",
-          "AM4 APU 3th Gen",
-          "AM4 Ryzen 4th Gen",
-          "AM4 APU 5000"
-        ],
-        "energy": {
-          "Watts Máximos Para Cpu": 105,
-          "Conectos Cpu 4Pines": 1,
-          "Conector Cpu 4Pines Plus": 1,
-          "Conector 24Pines": 1,
-          "Consumo": "35w",
-          "Procesador Integrado": "No"
-        },
-        "Sound": {
-          "Placa De Sonido": "7.1 Realtek ALC 1220"
-        },
-        "Memory": {
-          "Ddr4": 2
-        },
-        "Dimensions": "ITX"
-      }
-    },
-    {
-      "type": "mother",
-      "brand": "AMD",
-      "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
-      "cost": 50300,
-      "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
-      ],
-      "details": {
-        "generation": "B550",
-        "connectivity": {
-          "Cantidad De Slot Pci-e 16X": 1,
-          "Cantidad De Slot Pci-e 1X": 0,
-          "Tecnologia Multi Gpu": "null",
-          "Puertos Sata": 4,
-          "Salida Vga": 0,
-          "Salida HDMI": 1,
-          "Salida Dvi": 0,
-          "Salidas Display Ports": 1,
-          "Cantidad de Slot M.2 Totales": 2,
-          "Placa Wifi Integrada": "Si",
-          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
-          "Puerto Ps/2": "No",
-          "Puertos Usb 2.0 Traseros": 0,
-          "Puertos Usb 3.0 Traseros": 4,
-          "Puertos Usb 3.1 Traseros": 2,
-          "Puertos Usb 3.2 Traseros": 0,
-          "Puertos Usb Type-c": 0,
-          "Cantidad De Slot Pci-e 4X": 0,
-          "Cantidad De Slot M.2 Sata": 0,
-          "Cantidad De Slot M.2 Nvme": 2
-        },
-        "Socket": [
-          "AM4 Ryzen 3th Gen",
-          "AM4 APU 3th Gen",
-          "AM4 Ryzen 4th Gen",
-          "AM4 APU 5000"
-        ],
-        "energy": {
-          "Watts Máximos Para Cpu": 105,
-          "Conectos Cpu 4Pines": 1,
-          "Conector Cpu 4Pines Plus": 1,
-          "Conector 24Pines": 1,
-          "Consumo": "35w",
-          "Procesador Integrado": "No"
-        },
-        "Sound": {
-          "Placa De Sonido": "7.1 Realtek ALC 1220"
-        },
-        "Memory": {
-          "Ddr4": 2
-        },
-        "Dimensions": "ITX"
-      }
-    },
-    {
-      "type": "mother",
-  
-      "brand": "AMD",
-      "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
-      "cost": 50300,
-      "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
-      ],
-      "details": {
         "generation": "B550",
         "connectivity": {
           "Cantidad De Slot Pci-e 16X": 1,
@@ -802,7 +717,9 @@
       "name": "Mother Gigabyte A520M H AM4",
       "cost": 20500,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918203/pc/mothers/compragamer_Imganen_general_20432_Mother_Gigabyte_A520M_H_AM4_ec538d8f-grn_w0rcha.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918226/pc/mothers/compragamer_Imganen_general_20433_Mother_Gigabyte_A520M_H_AM4_208fa455-grn_nd7o3j.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918265/pc/mothers/compragamer_Imganen_general_20436_Mother_Gigabyte_A520M_H_AM4_3c87499a-grn_zwg2af.jpg"
       ],
       "details": {
         "generation": "A520M",
@@ -858,7 +775,9 @@
       "name": "Mother ASUS PRIME B550M-K AM4",
       "cost": 24150,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918295/pc/mothers/compragamer_Imganen_general_20579_Mother_ASUS_PRIME_B550M-K_AM4_9df9dffe-grn_i1nvlq.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918335/pc/mothers/compragamer_Imganen_general_20580_Mother_ASUS_PRIME_B550M-K_AM4_45599de0-grn_unj7ml.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918358/pc/mothers/compragamer_Imganen_general_20583_Mother_ASUS_PRIME_B550M-K_AM4_e195fd69-grn_m1kemn.jpg"
       ],
       "details": {
         "generation": "B550M-K",
@@ -914,7 +833,9 @@
       "name": "Mother Asrock B550M Steel Legend AM4",
       "cost": 32030,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918469/pc/mothers/compragamer_Imganen_general_20656_Mother_Asrock_B550M_Steel_Legend_AM4_cc46f413-grn_cjnlpb.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918499/pc/mothers/compragamer_Imganen_general_20657_Mother_Asrock_B550M_Steel_Legend_AM4_a6f61f88-grn_ybzoel.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918519/pc/mothers/compragamer_Imganen_general_20660_Mother_Asrock_B550M_Steel_Legend_AM4_c1326b50-grn_beztwq.jpg"
       ],
       "detials": {
         "generation": "B550M",
@@ -970,7 +891,9 @@
       "name": "Mother ASUS TUF B550M-PLUS AM4",
       "cost": 38390,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918545/pc/mothers/compragamer_Imganen_general_21577_Mother_ASUS_TUF_B550M-PLUS_AM4_ca74f9ae-grn_z4kete.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918573/pc/mothers/compragamer_Imganen_general_21578_Mother_ASUS_TUF_B550M-PLUS_AM4_e17b775d-grn_r9g47m.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918596/pc/mothers/compragamer_Imganen_general_21581_Mother_ASUS_TUF_B550M-PLUS_AM4_6d5f59cc-grn_k8j6ck.jpg"
       ],
       "details": {
         "generation": "B550M-PLUS",
@@ -1026,7 +949,9 @@
       "name": "Mother ASUS ROG STRIX B450-F GAMING II AM4",
       "cost": 41350,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918618/pc/mothers/compragamer_Imganen_general_22370_Mother_ASUS_ROG_STRIX_B450-F_GAMING_II_AM4_c17380b9-grn_uv3f9q.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918664/pc/mothers/compragamer_Imganen_general_22371_Mother_ASUS_ROG_STRIX_B450-F_GAMING_II_AM4_229f38fb-grn_uyrzv0.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918693/pc/mothers/compragamer_Imganen_general_22374_Mother_ASUS_ROG_STRIX_B450-F_GAMING_II_AM4_f503731a-grn_e97x10.jpg"
       ],
       "details": {
         "generation": "B450-F",
@@ -1081,7 +1006,9 @@
       "name": "Mother ASUS PRIME H610M-E D4 S1700",
       "cost": 21850,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918727/pc/mothers/compragamer_Imganen_general_30440_Mother_ASUS_PRIME_H610M-E_D4_S1700_3402c168-grn_wwiiil.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918752/pc/mothers/compragamer_Imganen_general_30441_Mother_ASUS_PRIME_H610M-E_D4_S1700_b1b07b46-grn_yavtie.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918771/pc/mothers/compragamer_Imganen_general_30444_Mother_ASUS_PRIME_H610M-E_D4_S1700_92bfcc5e-grn_gxjgyq.jpg"
       ],
       "details": {
         "generation": "H610M-E",
@@ -1127,12 +1054,13 @@
     },
     {
       "type": "mother",
-  
       "brand": "Intel",
       "name": "Mother MSI H310M PRO-VDH",
       "cost": 10650,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919481/pc/mothers/compragamer_Imganen_general_7342_Mother_MSI_H310M_PRO-VDH_f6a0fec1-grn_wfktgo.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919504/pc/mothers/compragamer_Imganen_general_7343_Mother_MSI_H310M_PRO-VDH_51b3db45-grn_z0zhhf.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919524/pc/mothers/compragamer_Imganen_general_7346_Mother_MSI_H310M_PRO-VDH_1f582722-grn_bbqcmw.jpg"
       ],
       "details": {
         "generation": "H310M",
@@ -1183,7 +1111,9 @@
       "name": "Mother ASUS PRIME H310M-R R2.0 1151 OEM",
       "cost": 11500,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
       ],
       "details": {
         "generation": "H310M-R",
@@ -1234,7 +1164,9 @@
       "name": "Mother ASUS PRIME H410M-E Socket 1200 10th Gen",
       "cost": 15850,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
       ],
       "details": {
         "generation": "H410M-E",
@@ -1284,7 +1216,9 @@
       "name": "Mother Gigabyte H470M DS3H Socket 1200",
       "cost": 25700,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919608/pc/mothers/compragamer_Imganen_general_27084_Mother_Gigabyte_B560_AORUS_PRO_AX_S1200_e75ab216-grn_tsjv8h.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27085_Mother_Gigabyte_B560_AORUS_PRO_AX_S1200_a81c80c5-grn.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27088_Mother_Gigabyte_B560_AORUS_PRO_AX_S1200_672fb7b6-grn.jpg"
       ],
       "details": {
         "generation": "H470M",
@@ -1335,7 +1269,9 @@
       "name": "Mother ASUS ROG STRIX Z590-E GAMING Wifi Socket 1200 10th/11th Gen",
       "cost": 64650,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
       ],
       "details": {
         "generation": "Z590-E",
@@ -1386,7 +1322,9 @@
       "name": "Mother ASUS PRIME Z590-A ATX S1200 10th/11th Gen",
       "cost": 57850,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
       ],
       "details": {
         "generation": "Z590-A",
@@ -1436,7 +1374,10 @@
       "name": "Mother MSI MEG Z590 ACE Socket 1200",
       "cost": 101650,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26735_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_c07b4910-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26737_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_53501d18-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26738_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_b6129d61-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26739_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_0723dda3-grn.jpg"
       ],
       "details": {
         "generation": "Z590",
@@ -1486,7 +1427,9 @@
       "name": "Mother Gigabyte B560 AORUS PRO AX S1200",
       "cost": 54400,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919769/pc/mothers/compragamer_Imganen_general_26130_Mother_Gigabyte_B560M-DS3H_AC_Socket_1200_10th_Gen_a3bd1f7e-grn_r2s0tl.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919795/pc/mothers/compragamer_Imganen_general_26131_Mother_Gigabyte_B560M-DS3H_AC_Socket_1200_10th_Gen_13eedd0b-grn_lllrul.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919876/pc/mothers/compragamer_Imganen_general_26134_Mother_Gigabyte_B560M-DS3H_AC_Socket_1200_10th_Gen_93e810d4-grn_skpc9z.jpg"
       ],
       "details": {
         "generation": "B560",
@@ -1536,7 +1479,9 @@
       "name": "Mother Gigabyte B560M-DS3H AC Socket 1200 10th Gen",
       "cost": 25800,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919910/pc/mothers/compragamer_Imganen_general_26145_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_5c6956fe-grn_gmsngt.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919933/pc/mothers/compragamer_Imganen_general_26146_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0f0fab50-grn_oc1inr.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919954/pc/mothers/compragamer_Imganen_general_26149_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0987f670-grn_ycq2s4.jpg"
       ],
       "details": {
         "generation": "B560M-DS3H",
@@ -1586,7 +1531,9 @@
       "name": "Mother Gigabyte Z590 Vision G Socket 1200 10th Gen",
       "cost": 63900,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919979/pc/mothers/compragamer_Imganen_general_26416_Mother_Gigabyte_B560M_AORUS_ELITE_S1200_0004fd64-grn_wed7qi.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920003/pc/mothers/compragamer_Imganen_general_26417_Mother_Gigabyte_B560M_AORUS_ELITE_S1200_a4fc7061-grn_mlsacc.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920025/pc/mothers/compragamer_Imganen_general_26420_Mother_Gigabyte_B560M_AORUS_ELITE_S1200_f07b5cfe-grn_sxjgjv.jpg"
       ],
       "details": {
         "generation": "Z590",
@@ -1636,7 +1583,9 @@
       "name": "Mother Gigabyte B560M AORUS ELITE S1200",
       "cost": 34200,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920048/pc/mothers/compragamer_Imganen_general_26431_Mother_Gigabyte_Z590_UD_AC_ATX_S1200_1e067203-grn_i9t92s.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920069/pc/mothers/compragamer_Imganen_general_26432_Mother_Gigabyte_Z590_UD_AC_ATX_S1200_30d5db2f-grn_nclurw.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26435_Mother_Gigabyte_Z590_UD_AC_ATX_S1200_2275f8c8-grn.jpg"
       ],
       "details": {
         "generation": "B560M",
@@ -1686,7 +1635,9 @@
       "name": "Mother Gigabyte Z590 UD AC ATX S1200",
       "cost": 34850,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920099/pc/mothers/compragamer_Imganen_general_27047_Mother_Gigabyte_Z590_D_Rev_1.0_S1200_aefae658-grn_drspyj.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920123/pc/mothers/compragamer_Imganen_general_27048_Mother_Gigabyte_Z590_D_Rev_1.0_S1200_2f89b75b-grn_qwmpjj.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920142/pc/mothers/compragamer_Imganen_general_27051_Mother_Gigabyte_Z590_D_Rev_1.0_S1200_d68ffd69-grn_mzlguq.jpg"
       ],
       "details": {
         "generation": "Z590 UD AC",
@@ -1736,7 +1687,9 @@
       "name": "Mother Gigabyte Z590 D Rev 1.0 S1200",
       "cost": 43950,
       "img": [
-        "https://cdn.pixabay.com/photo/2017/06/24/14/13/buenos-aires-2437858_960_720.jpg"
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920048/pc/mothers/compragamer_Imganen_general_26431_Mother_Gigabyte_Z590_UD_AC_ATX_S1200_1e067203-grn_i9t92s.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920069/pc/mothers/compragamer_Imganen_general_26432_Mother_Gigabyte_Z590_UD_AC_ATX_S1200_30d5db2f-grn_nclurw.jpg",
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26435_Mother_Gigabyte_Z590_UD_AC_ATX_S1200_2275f8c8-grn.jpg"
       ],
       "details": {
         "generation": "Z590 D Rev",
@@ -1795,7 +1748,7 @@
             "Frecuencia_Turbo": "4300 mhz"
           },
           "cost":30600,
-          "img": ["asd", "asd"]
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920474/pc/PROCESADORES/compragamer_Imganen_general_25686_Procesador_Intel_Core_i5_11400F_S1200_11th_Gen_Rocket_Lake_f8a24db3-grn_wdwm6k.jpg"]
         },
         {
           "type": "procesador",
@@ -1812,7 +1765,7 @@
             "Frecuencia_Turbo": "4400 mhz"
           },
           "cost":33500,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920374/pc/PROCESADORES/compragamer_Imganen_general_18900_Procesador_Intel_Core_i5_10400F_4.3GHz_Turbo_1200_Comet_Lake_e07a1d28-grn_vf3kpf.jpg"]
         },
         {
           "type": "procesador",
@@ -1829,7 +1782,7 @@
             "Frecuencia_Turbo": "4300 mhz"
           },
           "cost":34650,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920474/pc/PROCESADORES/compragamer_Imganen_general_25686_Procesador_Intel_Core_i5_11400F_S1200_11th_Gen_Rocket_Lake_f8a24db3-grn_wdwm6k.jpg"]
         },
         {
           "type": "procesador",
@@ -1846,7 +1799,7 @@
             "Frecuencia_Turbo": "4400 mhz"
           },
           "cost":40150,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920374/pc/PROCESADORES/compragamer_Imganen_general_18900_Procesador_Intel_Core_i5_10400F_4.3GHz_Turbo_1200_Comet_Lake_e07a1d28-grn_vf3kpf.jpg"]
         },
         {
           "type": "procesador",
@@ -1863,7 +1816,7 @@
             "Frecuencia_Turbo": "4400 mhz"
           },
           "cost":40550,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920374/pc/PROCESADORES/compragamer_Imganen_general_18900_Procesador_Intel_Core_i5_10400F_4.3GHz_Turbo_1200_Comet_Lake_e07a1d28-grn_vf3kpf.jpg"]
         },
         {
           "type": "procesador",
@@ -1880,7 +1833,7 @@
             "Frecuencia_Turbo": "4900 mhz"
           },
           "cost":48550,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920474/pc/PROCESADORES/compragamer_Imganen_general_25686_Procesador_Intel_Core_i5_11400F_S1200_11th_Gen_Rocket_Lake_f8a24db3-grn_wdwm6k.jpg"]
         },
         {
           "type": "procesador",
@@ -1897,7 +1850,7 @@
             "Frecuencia_Turbo": "4800 mhz"
           },
           "cost":48800,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920374/pc/PROCESADORES/compragamer_Imganen_general_18900_Procesador_Intel_Core_i5_10400F_4.3GHz_Turbo_1200_Comet_Lake_e07a1d28-grn_vf3kpf.jpg"]
         },
         {
           "type": "procesador",
@@ -1914,7 +1867,7 @@
             "Frecuencia_Turbo": "4400 mhz"
           },
           "cost":54100,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920474/pc/PROCESADORES/compragamer_Imganen_general_25686_Procesador_Intel_Core_i5_11400F_S1200_11th_Gen_Rocket_Lake_f8a24db3-grn_wdwm6k.jpg"]
         },
         {
           "type": "procesador",
@@ -1931,7 +1884,7 @@
             "Frecuencia_Turbo": "4800 mhz"
           },
           "cost":57600,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920576/pc/PROCESADORES/compragamer_Imganen_general_22503_Procesador_Intel_Core_i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake_b7e5628e-grn_p6gd8z.jpg"]
         },
         {
           "type": "procesador",
@@ -1948,7 +1901,7 @@
             "Frecuencia_Turbo": "4900 mhz"
           },
           "cost":61200,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920374/pc/PROCESADORES/compragamer_Imganen_general_18900_Procesador_Intel_Core_i5_10400F_4.3GHz_Turbo_1200_Comet_Lake_e07a1d28-grn_vf3kpf.jpg"]
         },
         {
           "type": "procesador",
@@ -1965,7 +1918,7 @@
             "Frecuencia_Turbo": "4900 mhz"
           },
           "cost":67100,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920576/pc/PROCESADORES/compragamer_Imganen_general_22503_Procesador_Intel_Core_i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake_b7e5628e-grn_p6gd8z.jpg"]
         },
         {
           "type": "procesador",
@@ -1982,7 +1935,7 @@
             "Frecuencia_Turbo": "4800 mhz"
           },
           "cost":72050,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920576/pc/PROCESADORES/compragamer_Imganen_general_22503_Procesador_Intel_Core_i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake_b7e5628e-grn_p6gd8z.jpg"]
         },
         {
           "type": "procesador",
@@ -1999,7 +1952,7 @@
             "Frecuencia_Turbo": "5000 mhz"
           },
           "cost":73350,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920576/pc/PROCESADORES/compragamer_Imganen_general_22503_Procesador_Intel_Core_i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake_b7e5628e-grn_p6gd8z.jpg"]
         },
         {
           "type": "procesador",
@@ -2016,7 +1969,7 @@
             "Frecuencia_Turbo": "4900 mhz"
           },
           "cost":92500,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920576/pc/PROCESADORES/compragamer_Imganen_general_22503_Procesador_Intel_Core_i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake_b7e5628e-grn_p6gd8z.jpg"]
         },
         {
           "type": "procesador",
@@ -2033,7 +1986,7 @@
             "Frecuencia_Turbo": "5000 mhz"
           },
           "cost":104400,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920576/pc/PROCESADORES/compragamer_Imganen_general_22503_Procesador_Intel_Core_i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake_b7e5628e-grn_p6gd8z.jpg"]
         },
         {
           "type": "procesador",
@@ -2050,7 +2003,7 @@
             "Frecuencia_Turbo": "5000 mhz"
           },
           "cost":111500,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920576/pc/PROCESADORES/compragamer_Imganen_general_22503_Procesador_Intel_Core_i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake_b7e5628e-grn_p6gd8z.jpg"]
         },
         {
           "type": "procesador",
@@ -2067,7 +2020,7 @@
             "Frecuencia_Turbo": "4200 mhz"
           },
           "cost":29900,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920650/pc/PROCESADORES/compragamer_Imganen_general_27675_Procesador_AMD_Ryzen_5_5600G_4.4GHz_Turbo___Wraith_Stealth_Cooler_d4e323ea-grn_unimfv.jpg"]
         },
         {
           "type": "procesador",
@@ -2084,7 +2037,7 @@
             "Frecuencia_Turbo": "4100 mhz"
           },
           "cost":30450,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920650/pc/PROCESADORES/compragamer_Imganen_general_27675_Procesador_AMD_Ryzen_5_5600G_4.4GHz_Turbo___Wraith_Stealth_Cooler_d4e323ea-grn_unimfv.jpg"]
         },
         {
           "type": "procesador",
@@ -2101,7 +2054,7 @@
             "Frecuencia_Turbo": "4200 mhz"
           },
           "cost":33250,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920650/pc/PROCESADORES/compragamer_Imganen_general_27675_Procesador_AMD_Ryzen_5_5600G_4.4GHz_Turbo___Wraith_Stealth_Cooler_d4e323ea-grn_unimfv.jpg"]
         },
         {
           "type": "procesador",
@@ -2118,7 +2071,7 @@
             "Frecuencia_Turbo": "3600 mhz"
           },
           "cost":31500,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920650/pc/PROCESADORES/compragamer_Imganen_general_27675_Procesador_AMD_Ryzen_5_5600G_4.4GHz_Turbo___Wraith_Stealth_Cooler_d4e323ea-grn_unimfv.jpg"]
         },
         {
           "type": "procesador",
@@ -2135,7 +2088,7 @@
             "Frecuencia_Turbo": "4600 mhz"
           },
           "cost":61500,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920722/pc/PROCESADORES/CP-AMD-100-100000926WOF-a0931f_pne9q8.webp"]
         },
         {
           "type": "procesador",
@@ -2152,7 +2105,7 @@
             "Frecuencia_Turbo": "4400 mhz"
           },
           "cost":65400,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920722/pc/PROCESADORES/CP-AMD-100-100000926WOF-a0931f_pne9q8.webp"]
         },
         {
           "type": "procesador",
@@ -2169,7 +2122,7 @@
             "Frecuencia_Turbo": "4600 mhz"
           },
           "cost":65450,
-          "img": []
+          "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666920722/pc/PROCESADORES/CP-AMD-100-100000926WOF-a0931f_pne9q8.webp"]
         },
             {
               "type": "disco",
@@ -5780,17 +5733,6 @@
             "https://res.cloudinary.com/dhadvdeca/image/upload/v1666731414/pc/ACTECK/ACTECK3.5_ee0gru.png"
         ]
 }
-
-
-
-
-
-
-
-
-
-
-  
-        
+ 
   ]
   
