@@ -3105,7 +3105,7 @@
         "type":"tarjeta",
         "name":"Placa de Video GeForce MSI G210 1GB DDR3 Low Profile",
         "brand": "GeForce",
-        "cost": 8.400,
+        "cost": 8400,
         
         "details":{
             "tipo": "pcie",
@@ -3129,10 +3129,10 @@
             "CantidadDeProcesos": "0"
         },
         "img":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26735_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_c07b4910-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26737_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_53501d18-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26738_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_b6129d61-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26739_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_0723dda3-grn.jpg"
+            "https://m.media-amazon.com/images/I/515LrrMQw8L._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51RAJSSr3SL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/31moCg7LUbL._AC_.jpg",
+            "https://m.media-amazon.com/images/I/51g8nPmAUUL._AC_.jpg"
         ]
        },   
        
@@ -3140,7 +3140,7 @@
         "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce GTX 1630 4GB GDDR6",
         "brand": "GeForce",
-        "cost": 46.370,
+        "cost": 46370,
         
         "details":{
             "tipo": "pcie",
@@ -3164,10 +3164,10 @@
             "CantidadDeProcesos": "512"
         },
         "img":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34240_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_d56ebd29-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34241_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_8d21f82b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34242_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_edc10230-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34243_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_d425f258-grn.jpg"
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16300f-10l-image01.jpg?itok=1zq2_nUW",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16300f-10l-image02.jpg?itok=ZVrIwI3_",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16300f-10l-image03.jpg?itok=VoKVvAHi",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16300f-10l-image05.jpg?itok=3ZS8WtdS"
         ]
        },
        
@@ -3175,7 +3175,7 @@
         "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce GTX 1650 4GB GDDR6 AMP CORE ",
         "brand": "GeForce",
-        "cost": 60.000,
+        "cost": 60000,
         
         "details":{
             "tipo": "pcie",
@@ -3199,10 +3199,10 @@
             "CantidadDeProcesos": "896"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28833_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_c62edb85-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28835_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_9f3182cd-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28836_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_ec7cae0d-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28837_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_b01635c0-grn.jpg"
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16520j-10l-image01.jpg?itok=o6Q7e8IW",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16520j-10l-image02.jpg?itok=dv7zLfjC",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16520j-10l-image03.jpg?itok=gO8J0ey-",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16520j-10l-image05.jpg?itok=Ru9aese1"
         ]
        },
        
@@ -3210,7 +3210,7 @@
         "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan",
         "brand": "GeForce",
-        "cost": 87.650,
+        "cost": 87650,
         
         "details":{
             "tipo": "pcie",
@@ -3232,17 +3232,17 @@
             "CantidadDeProcesos": "896"
         },
         "img":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27739_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_56743a5a-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17197_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_734790b1-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17198_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_e9498346-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17199_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_b8806c86-grn.jpg"
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16620f-10l_image1.jpg?itok=wFcbJbIY",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16620f-10l_image2.jpg?itok=pT7v1Jzw",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16620f-10l_image3.jpg?itok=Qm-h0Xc2",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-t16620f-10l_image5.jpg?itok=dTT5L6Lq"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce RTX 3050 8GB GDDR6 Twin Edge OC",
         "brand": "GeForce",
-        "cost": 99.950,
+        "cost": 99950,
         
         "details":{
             "tipo": "pcie",
@@ -3266,17 +3266,17 @@
             "CantidadDeProcesos": "2560"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34219_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_69853d84-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34221_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_5ff37127-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34222_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_b8b51948-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34223_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_1932e485-grn.jpg"
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30500e-10m-image01.jpg?itok=edrCur8c",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30500e-10m-image02.jpg?itok=Fpbv55QS",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30500e-10m-image03.jpg?itok=q2pvTi9s",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30500e-10m-image05.jpg?itok=w2A9uCFh"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video GALAX GeForce RTX 3070 8GB GDDR6 LHR (1-Click OC)",
         "brand": "GeForce",
-        "cost": 151.000,
+        "cost": 156100,
        
         "details":{
             "tipo": "pcie",
@@ -3300,17 +3300,17 @@
             "CantidadDeProcesos": "5888"
         },
          "img":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32806_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__76f7b33c-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32807_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__d90921bb-med.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32809_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__0ff279ea-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32810_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__cd77b82b-grn.jpg"
+            "https://m.media-amazon.com/images/I/715Ft2uPmvL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71a8rTLXUkL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61VBbmpat0L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71IxccsZiaL._SL1500_.jpg"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video ASUS GeForce RTX 3070 Ti 8GB GDDR6X TUF OC",
         "brand": "GeForce",
-        "cost": 193.500,
+        "cost": 193500,
         "details":{
             "tipo": "pcie",
             "chipsetGpu": "RTX 3070 Ti",
@@ -3333,17 +3333,17 @@
             "CantidadDeProcesos": "6144"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30163_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_5cc330b1-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30156_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_5874a4f0-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30157_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_0bc52366-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30158_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_6cdd48ef-grn.jpg"
+            "https://dlcdnwebimgs.asus.com/gain/16825691-d70d-4fc2-9ef8-ab3ea6394df7/w800/fwebp",
+            "https://dlcdnwebimgs.asus.com/gain/834c6831-d2a4-480f-9e6a-e12053f32ca2/w800/fwebp",
+            "https://dlcdnwebimgs.asus.com/gain/f8bfc08f-e9d6-4ae2-a322-8644b497fd81/w800/fwebp",
+            "https://dlcdnwebimgs.asus.com/gain/0686a5f9-7d0f-4d90-945c-65bf8e23b479/w800/fwebp"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video GALAX GeForce RTX 3080 12GB GDDR6X SG LHR",
         "brand": "GeForce",
-        "cost": 221.900,
+        "cost": 221900,
         "details":{
             "tipo": "pcie",
             "chipsetGpu": "RTX 3080",
@@ -3366,17 +3366,17 @@
             "CantidadDeProcesos": "8960"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33411_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_8980730c-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33412_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_65d8a7bf-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33413_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_88469aed-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33414_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_45f029e2-grn.jpg"
+            "https://m.media-amazon.com/images/I/71eARWDVCGS._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81dKPFG7uBL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81Ed5ZGvq0L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/816NrUcjtIL._SL1500_.jpg"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce RTX 3080 Ti 12GB GDDR6X Trinity",
         "brand": "GeForce",
-        "cost": 260.000,
+        "cost": 260000,
         "details":{
         
             "tipo": "pcie",
@@ -3400,17 +3400,17 @@
             "CantidadDeProcesos": "10240"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32390_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_0ed41b33-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26971_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_2427b9f7-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26973_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_0a3d4850-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26974_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_55e2b259-grn.jpg"
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30810d-10p-image01.jpg?itok=KueOJw_9",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30810d-10p-image02.jpg?itok=4bnUP1Pc",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30810d-10p-image03.jpg?itok=ImaLeJYu",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30810d-10p-image05.jpg?itok=l5YeSwGJ"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity",
         "brand": "GeForce",
-        "cost": 285.000,
+        "cost": 285000,
         "details":{
         
             "tipo": "pcie",
@@ -3434,10 +3434,10 @@
             "CantidadDeProcesos": "10496"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32388_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_c3f00609-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_21444_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_a9f0d2a3-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_21445_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_d11505f5-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_21446_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_4d817ec2-grn.jpg"
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30900d-10p-image01.jpg?itok=mA7eIxia",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30900d-10p-image02.jpg?itok=v_koCd82",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30900d-10p-image03.jpg?itok=GE0HxcRs",
+            "https://www.zotac.com/download/files/styles/w1024/public/product_gallery/graphics_cards/zt-a30900d-10p-image06.jpg?itok=s-FTMh90"
         ]
        },
       
@@ -3447,7 +3447,7 @@
         "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 570 8GB DDR5 RS XXX Edition",
         "brand": "Radeon AMD",
-        "cost": 55.560,
+        "cost": 55560,
         "details":{
         
             "tipo": "pcie",
@@ -3471,17 +3471,17 @@
             "CantidadDeProcesos": "2048"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19164_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_951516f2-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19166_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_f27a359e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19167_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_df31e409-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19168_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_2a66c474-grn.jpg"
+            "https://assets-global.website-files.com/5d1911406ad3cbdb9924a753/5d6d82b19aff32b24d14755b_boxcard_1024.jpg",
+            "https://assets-global.website-files.com/5d1911406ad3cbdb9924a753/5d6d82b39aff324741147668_570%20RS%20p1_1024.jpg",
+            "https://m.media-amazon.com/images/I/71jXTkuLHyL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61AiDQ15TeL._AC_SL1500_.jpg"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 6500 XT Black 4GB GDDR6 Speedster QICK210",
         "brand": "Radeon AMD",
-        "cost": 57.900,
+        "cost": 57900,
         "details":{
         
             "tipo": "pcie",
@@ -3505,17 +3505,17 @@
             "CantidadDeProcesos": "1024"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30405_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_f534d98b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30402_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_5f4d0957-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30403_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_c3dd878e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30404_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_f053a4a8-med.jpg"
+            "https://m.media-amazon.com/images/I/71hAHq2I3wL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61eJu7OAgvL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61B153T2LbL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61ce70UKK-L._AC_SL1500_.jpg"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video PowerColor Radeon RX 6600 8GB GDDR6 FIGHTER",
         "brand": "Radeon AMD",
-        "cost": 85.890,
+        "cost": 85890,
         "details":{
        
             "tipo": "pcie",
@@ -3539,17 +3539,17 @@
             "CantidadDeProcesos": "1792"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29077_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_8ef254fa-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29079_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_aa0627c3-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29080_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_e8a7eb9b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29081_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_34a2b103-grn.jpg"
+            "https://www.powercolor.com/_upload/images//2106211206100.png",
+            "https://www.powercolor.com/_upload/images//2106211206170.png",
+            "https://www.powercolor.com/_upload/images//2106211206190.png",
+            "https://www.powercolor.com/_upload/images//2106211206240.png"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 6650 XT 8GB GDDR6 Speedster SWFT 210",
         "brand": "Radeon AMD",
-        "cost": 92.500,
+        "cost": 92500,
         "details":{
         
             "tipo": "pcie",
@@ -3573,17 +3573,17 @@
             "CantidadDeProcesos": "2048"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33401_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_589f396b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33402_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_59981144-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33403_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_de9bc156-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33404_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_e3e7dde9-grn.jpg"
+            "https://m.media-amazon.com/images/I/61y3nA6JgdL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/618OfRUnIwL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61H7mHNuejL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51HN7kFfkFL._AC_.jpg"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video Asrock Radeon RX 6700 XT 12GB GDDR6 Challenger OC",
         "brand": "Radeon AMD",
-        "cost": 115.000,
+        "cost": 115000,
         "details":{
         
             "tipo": "pcie",
@@ -3607,17 +3607,17 @@
             "CantidadDeProcesos": "2560"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26063_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_49f30497-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26065_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_ed0cdd67-med.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26066_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_69628332-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26067_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_91065cc4-grn.jpg"
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206700%20XT%20Challenger%20D%2012GB%20OC(L1).png",
+            "https://m.media-amazon.com/images/I/61rYLWO1EzS._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71NUuOE3yVS._AC_SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61SimB0Hf4S._AC_SL1200_.jpg"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video XFX Radeon RX 6750 XT ULTRA 12GB GDDR6 Speedster",
         "brand": "Radeon AMD",
-        "cost": 126.000,
+        "cost": 126000,
         "details":{
         
             "tipo": "pcie",
@@ -3641,17 +3641,17 @@
             "CantidadDeProcesos": "2560"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34294_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_33c89c63-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34295_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_a662af0d-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34297_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_aed97c42-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34298_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_a10970de-med.jpg"
+            "https://assets-global.website-files.com/5d1911406ad3cbdb9924a753/626158a8a8eb486c0220c983_QICK319%206750XT%20ULTRA%20card%2Bbox-p-1080.jpeg",
+            "https://assets-global.website-files.com/5d1911406ad3cbdb9924a753/626158b2f4efec350c7664af_QICK319%206750XT%20ULTRA%2014-p-1080.jpeg",
+            "https://assets-global.website-files.com/5d1911406ad3cbdb9924a753/626158b5eb0a00d0d24fe777_QICK319%206750XT%20ULTRA%206-p-1080.jpeg",
+            "https://assets-global.website-files.com/5d1911406ad3cbdb9924a753/626158bd80121b8dff0e6866_QICK319%206750XT%20ULTRA%2012-p-1080.jpeg"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video Asrock Radeon RX 6800 16GB GDDR6 Phantom Gaming D OC",
         "brand": "Radeon AMD",
-        "cost": 152.000,
+        "cost": 152000,
           "details":{
       
             "tipo": "pcie",
@@ -3675,17 +3675,17 @@
             "CantidadDeProcesos": "3840"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24211_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_23e8877b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24213_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_4e820100-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24215_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_851c1a7b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24216_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_1433b96d-grn.jpg"
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20Phantom%20Gaming%20D%2016G%20OC(M1).png",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20Phantom%20Gaming%20D%2016G%20OC(L2).png",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20Phantom%20Gaming%20D%2016G%20OC(L5).png",
+            "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20Phantom%20Gaming%20D%2016G%20OC/index.es.asp"
         ]
        },
        {
         "type":"tarjeta",
         "name":"Placa de Video Asrock Radeon RX 6800 XT 16GB GDDR6 Phantom Gaming D OC",
         "brand": "Radeon AMD",
-        "cost": 178.000,
+        "cost": 178000,
         "details":{
         
             "tipo": "pcie",
@@ -3709,10 +3709,10 @@
             "CantidadDeProcesos": "4608"
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29154_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_f0d90866-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29156_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_4ca00233-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29157_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_b3f0fc37-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29158_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_94170c64-grn.jpg"
+            "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/",
+            "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L5).png",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L6).png"
         ]
        },
        
@@ -3721,7 +3721,7 @@
         "type":"tarjeta",
         "name":"Placa de Video GIGABYTE AMD Radeon RX 6900 XT AORUS MASTER (rev. 1.0) 16GB",
         "brand": "Radeon AMD",
-        "cost": 314.000,
+        "cost": 314000,
         
         "details":{
             "tipo": "pcie",
@@ -3745,17 +3745,17 @@
             "CantidadDeProcesos": "5120"
         },
         "img":[
-            "https://logg.api.cygnus.market/static/logg/Global/Placa%20de%20Video%20GIGABYTE%20AMD%20Radeon%20RX%206900%20XT%20AORUS%20MASTER%20(rev.%201.0)%2016GB%20GDDR6%20PCIe%204.0%20RGB/264209383ede4ff285f4dc5c417cf7a2.webp",
-            "https://logg.api.cygnus.market/static/logg/Global/Placa%20de%20Video%20GIGABYTE%20AMD%20Radeon%20RX%206900%20XT%20AORUS%20MASTER%20(rev.%201.0)%2016GB%20GDDR6%20PCIe%204.0%20RGB/728d004de6544606be0443f9c4a75958.webp",
-            "https://logg.api.cygnus.market/static/logg/Global/Placa%20de%20Video%20GIGABYTE%20AMD%20Radeon%20RX%206900%20XT%20AORUS%20MASTER%20(rev.%201.0)%2016GB%20GDDR6%20PCIe%204.0%20RGB/d67e1b2cb19f473a88cfe11bb6ccba5b.webp",
-            "https://logg.api.cygnus.market/static/logg/Global/Placa%20de%20Video%20GIGABYTE%20AMD%20Radeon%20RX%206900%20XT%20AORUS%20MASTER%20(rev.%201.0)%2016GB%20GDDR6%20PCIe%204.0%20RGB/ea301b8075d640039ddd181545e7eda5.webp"
+            "https://www.gigabyte.com/FileUpload/Global/WebPage/760/img/9.png",
+            "https://www.gigabyte.com/FileUpload/Global/WebPage/760/img/1.png",
+            "https://www.gigabyte.com/FileUpload/Global/WebPage/760/img/4.png",
+            "https://www.gigabyte.com/FileUpload/Global/WebPage/760/img/8.png"
         ]
        },
        {
         "type":"pantalla",
         "name":"Monitor LG LED 19'' 19M38A-B VGA",
         "brand":"LG",
-        "cost": 35.820,
+        "cost": 35820,
         "details":{
             "tiempoDeRespuesta": "5ms",
             "tipoDePanel": "TN",
@@ -3769,18 +3769,16 @@
             "pulgadas": 19
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_8685_Monitor_LG_LED_19___19M38A-B_VGA_7cb9fb0f-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_8684_Monitor_LG_LED_19___19M38A-B_VGA_2d36dd47-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_5166_Monitor_LG_LED_19___19M38A-B_VGA_cfc62b71-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_5167_Monitor_LG_LED_19___19M38A-B_VGA_1a419514-grn.jpg"
-    
-        ]
+            "https://http2.mlstatic.com/D_NQ_NP_777679-MLA45731187447_042021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_882994-MLA45731029817_042021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_725125-MLA45731029813_042021-O.webp"
+          ]
      },
      {  
         "type":"pantalla",
         "name":"Monitor ASUS 21.5'' Full HD 1ms HDMI VGA VP228HE-J",
         "brand":"ASUS",
-        "cost": 46.050,
+        "cost": 46050,
         "details":{
             "tiempoDeRespuesta": "1ms",
             "tipoDePanel": "TN",
@@ -3794,19 +3792,16 @@
             "pulgadas":21.5
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27035_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_ab08befc-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27034_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_a797ab9e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27036_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_29ad25c0-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27037_Monitor_ASUS_21.5__Full_HD_1ms_HDMI_VGA_VP228HE-J_313cf0e0-grn.jpg"
-            
-    
+          "https://m.media-amazon.com/images/I/91wp1WWoxmL._AC_SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/910PyZZnwaL._AC_SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/91vZQjgDhjL._AC_SL1500_.jpg"
         ]
      },
      {  
         "type":"pantalla",
         "name":"Monitor Samsung 24'' T350 75Hz IPS FHD FreeSync",
         "brand":"Samsung",
-        "cost": 50.000,
+        "cost": 50000,
         "details":{
             "tiempoDeRespuesta": "5ms",
             "tipoDePanel": "IPS",
@@ -3820,18 +3815,17 @@
             "pulgadas": 24
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32686_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_2e3dbb7f-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32685_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_f34162c0-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32688_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_b782429b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32689_Monitor_Samsung_24__T350_75Hz_IPS_FHD_FreeSync_5da604ef-grn.jpg"
-    
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lf22t350fhnxza/PDP-GALLERY-T35F-01-1600x1200.jpg?$product-details-jpg$",
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lf22t350fhnxza/PDP-GALLERY-T35F-02-1600x1200.jpg?$product-details-jpg$",
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lf22t350fhnxza/PDP-GALLERY-T35F-07-1600x1200.jpg?$product-details-jpg$",
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lf22t350fhnxza/PDP-GALLERY-T35F-11-1600x1200.jpg?$product-details-jpg$"
         ]
      },
      {  
         "type":"pantalla",
         "name":"Monitor ASUS 24'' VA24EHE-J Full HD",
         "brand":"ASUS",
-        "cost": 52.100,
+        "cost": 52100,
         "details":{
             "tiempoDeRespuesta": "5ms",
             "tipoDePanel": "IPS",
@@ -3845,10 +3839,10 @@
             "pulgadas": 24
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33878_Monitor_ASUS_24__VA24EHE-J_Full_HD_ac877e59-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33879_Monitor_ASUS_24__VA24EHE-J_Full_HD_e5e827ed-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33880_Monitor_ASUS_24__VA24EHE-J_Full_HD_8f385479-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33881_Monitor_ASUS_24__VA24EHE-J_Full_HD_699389e6-grn.jpg"
+            "https://www.asus.com/media/global/gallery/zecfkkgx7mdro69e_setting_xxx_0_90_end_1000.png",
+            "https://www.asus.com/media/global/gallery/7gj3dydbzjmst24g_setting_xxx_0_90_end_1000.png",
+            "https://www.asus.com/media/global/gallery/lvpzcx5fcwevrfzp_setting_xxx_0_90_end_1000.png",
+            "https://www.asus.com/media/global/gallery/sqcq5xjggvqpbbky_setting_xxx_0_90_end_1000.png"
     
         ]
      },
@@ -3856,7 +3850,7 @@
         "type":"pantalla",
         "name":"Monitor Samsung 27'' T350H FHD IPS 75Hz",
         "brand":"Samsung",
-        "cost": 60.200,
+        "cost": 60200,
         "details":{
             "tiempoDeRespuesta": "5ms",
             "tipoDePanel": "IPS",
@@ -3870,18 +3864,17 @@
             "pulgadas": 27
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32573_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_ead62411-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32574_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_409030ef-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32575_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_5fec6ce8-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32576_Monitor_Samsung_27__T350H_FHD_IPS_75Hz_20ef46eb-grn.jpg"
-    
+            "https://images.samsung.com/is/image/samsung/p6pim/ar/lf27t350fhlczb/gallery/ar-t35f-388813-lf27t350fhlczb-456992076?$1300_1038_PNG$",
+            "https://images.samsung.com/is/image/samsung/p6pim/ar/lf27t350fhlczb/gallery/ar-t35f-388813-lf27t350fhlczb-456992039?$684_547_PNG$",
+            "https://images.samsung.com/is/image/samsung/p6pim/ar/lf27t350fhlczb/gallery/ar-t35f-388813-lf27t350fhlczb-456992041?$684_547_PNG$",
+            "https://images.samsung.com/is/image/samsung/p6pim/ar/lf27t350fhlczb/gallery/ar-t35f-388813-lf27t350fhlczb-456992043?$684_547_PNG$"
         ]
      },
      {  
         "type":"pantalla",
         "name":"Monitor Gamer Samsung 24'' G50 Curvo 144Hz Full HD",
         "brand":"Samsung",
-        "cost": 67.400,
+        "cost": 67400,
         "details":{
             "tiempoDeRespuesta": "4ms",
             "tipoDePanel": "VA",
@@ -3895,10 +3888,10 @@
             "pulgadas": 24
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_13395_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_c45d63c2-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_13396_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_4baf4931-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_13397_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_bb5350b0-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_13398_Monitor_Gamer_Samsung_24__G50_Curvo_144Hz_Full_HD_6d455461-grn.jpg"
+            "https://images.samsung.com/is/image/samsung/co-curved-gaming-lc24rg50fqlxzl-lc24rg50fqlxzl-black-Black-265671411?$1300_1038_PNG$",
+            "https://images.samsung.com/is/image/samsung/co-curved-gaming-lc24rg50fqlxzl-lc24rg50fqlxzl-backblack-172208274?$684_547_PNG$",
+            "https://images.samsung.com/is/image/samsung/co-curved-gaming-lc24rg50fqlxzl-lc24rg50fqlxzl-rsideblack-172208275?$684_547_PNG$",
+            "https://images.samsung.com/is/image/samsung/co-curved-gaming-lc24rg50fqlxzl-lc24rg50fqlxzl-black-Black-265671417?$684_547_PNG$"
     
         ]
      },
@@ -3906,7 +3899,7 @@
         "type":"pantalla",
         "name":"Monitor LG 26'' 26WQ500-B UltraWide 21:9",
         "brand":"LG",
-        "cost": 68.650,
+        "cost": 68650,
         "details":{
             "tiempoDeRespuesta": "5ms",
             "tipoDePanel": "IPS",
@@ -3920,11 +3913,10 @@
             "pulgadas":26
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33354_Monitor_LG_26__26WQ500-B_UltraWide_21_9_161a12c9-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33356_Monitor_LG_26__26WQ500-B_UltraWide_21_9_c487a794-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33358_Monitor_LG_26__26WQ500-B_UltraWide_21_9_3db347aa-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33357_Monitor_LG_26__26WQ500-B_UltraWide_21_9_e40ff04d-grn.jpg"
-    
+            "https://www.lg.com/us/images/monitors/md08002415/gallery/DZ-01.jpg",
+            "https://www.lg.com/us/images/monitors/md08002415/gallery/DZ-06.jpg",
+            "https://www.lg.com/us/images/monitors/md08002415/gallery/DZ-08.jpg",
+            "https://www.lg.com/us/images/monitors/md08002415/gallery/DZ-05.jpg"
         ]
      },
      {  
@@ -3945,18 +3937,18 @@
             "pulgadas":24
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34392_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_6c06c378-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34394_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_99694638-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34395_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_f4d54fe2-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34396_Monitor_Gamer_Samsung_24__G3_Odyssey_Full_HD_144Hz_2582f085-grn.jpg"
-    
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/lf27g35tfwnxza/gallery/G35TF_017_Swivel2_Black.jpg?$product-details-jpg$",
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/lf27g35tfwnxza/gallery/Asset2.jpg?$product-details-jpg$",
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/lf27g35tfwnxza/gallery/Asset5.jpg?$product-details-jpg$",
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/lf27g35tfwnxza/gallery/Asset8.jpg?$product-details-jpg$",
+            "https://image-us.samsung.com/SamsungUS/home/computing/monitors/lf27g35tfwnxza/gallery/Asset11.jpg?$product-details-jpg$"
         ]
      },
      {  
         "type":"pantalla",
         "name":"Monitor Gamer Cooler Master 27'' 165hz Curvo 1500R GM27-CF",
         "brand":"Cooler Master",
-        "cost": 83.400,
+        "cost": 83400,
         "details":{
             "tiempoDeRespuesta": "3ms",
             "tipoDePanel": "VA",
@@ -3970,18 +3962,17 @@
             "pulgadas":27
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30806_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_a60f830a-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26370_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_0334d98e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26371_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_ccf3fe09-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26373_Monitor_Gamer_Cooler_Master_27__165hz_Curvo_1500R_GM27-CF_f8c14957-grn.jpg"
-    
+            "https://cdn.coolermaster.com/media/assets/1002/gm27_mkt-materials_r1a-2_2000x2000-zoom.png",
+            "https://cdn.coolermaster.com/media/assets/1020/gm27_gallery_0927_6-image.png",
+            "https://cdn.coolermaster.com/media/assets/1023/gm27_gallery_0927_9-image.png",
+            "https://cdn.coolermaster.com/media/assets/1001/gm27-monitor-with-halo-gallery-11-zoom.png"
         ]
      },
      {  
         "type":"pantalla",
         "name":"Monitor Gamer LG 23.8'' UltraGear 24GN600-B 144Hz IPS FHD 1ms DP HDMI",
         "brand":"LG",
-        "cost": 84.520,
+        "cost": 84520,
         "details":{
             "tiempoDeRespuesta": "1ms",
             "tipoDePanel": "IPS",
@@ -3995,11 +3986,10 @@
             "pulgadas":24
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32493_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_7f5f187f-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32492_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_84d0b07e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27444_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_2db4667b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27445_Monitor_Gamer_LG_23.8__UltraGear_24GN600-B_144Hz_IPS_FHD_1ms_DP_HDMI_cd2fc7e9-grn.jpg"
-    
+            "https://www.lg.com/us/images/monitors/md07518647/gallery/zoom-01.jpg",
+            "https://www.lg.com/us/images/monitors/md07518647/gallery/zoom-06.jpg",
+            "https://www.lg.com/us/images/monitors/md07518647/gallery/zoom-08.jpg",
+            "https://www.lg.com/us/images/monitors/md07518647/gallery/zoom-05.jpg"
         ]    
         
      },
@@ -4007,7 +3997,7 @@
         "type":"pantalla",
         "name":"Monitor LG 29'' UltraWide Full HD IPS",
         "brand":"LG",
-        "cost": 87.500,
+        "cost": 87500,
         "details":{
             "tiempoDeRespuesta": "5ms",
             "tipoDePanel": "IPS",
@@ -4021,11 +4011,10 @@
             "pulgadas":29
         },
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30745_Monitor_LG_29__UltraWide_Full_HD_IPS_422fdb4e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30746_Monitor_LG_29__UltraWide_Full_HD_IPS_f24b4142-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30747_Monitor_LG_29__UltraWide_Full_HD_IPS_50979b52-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30748_Monitor_LG_29__UltraWide_Full_HD_IPS_351f639e-grn.jpg"
-    
+            "https://www.lg.com/us/images/monitors/md07500302/gallery/Z01.jpg",
+            "https://www.lg.com/us/images/monitors/md07500302/gallery/zoom-02.jpg",
+            "https://www.lg.com/us/images/monitors/md07500302/gallery/zoom-06.jpg",
+            "https://www.lg.com/us/images/monitors/md07500302/gallery/zoom-08.jpg"
         ]
             
      },
@@ -4033,7 +4022,7 @@
         "type":"pantalla",
         "name":"Monitor Gamer Viewsonic 24'' XG2431 240Hz 1Ms",
         "brand":"Viewsonic",
-        "cost":111.550,
+        "cost":111550,
         "details":{
             "tiempoDeRespuesta": "1ms",
             "tipoDePanel": "IPS",
@@ -4046,11 +4035,10 @@
             "frequency":"240 hz",
             "pulgadas":24},
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29477_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_f5c805bd-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29476_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_ccd78dd2-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29478_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_00d0b3a7-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29479_Monitor_Gamer_Viewsonic_24__XG2431_240Hz_1Ms_9c027f06-grn.jpg"
-    
+            "https://www.viewsonic.com/vsAssetFile/global/img/slides/_lcd_display_%28new%29/XG2431/XG2431_F01_pc.png",
+            "https://www.viewsonic.com/vsAssetFile/global/img/slides/_lcd_display_%28new%29/XG2431/XG2431_B01_pc.jpg",
+            "https://www.viewsonic.com/vsAssetFile/global/img/slides/_lcd_display_%28new%29/XG2431/XG2431_L02_pc.jpg",
+            "https://www.viewsonic.com/vsAssetFile/global/img/slides/_lcd_display_%28new%29/XG2431/XG2431_C01_pc.jpg"
         ]
             
      },
@@ -4058,7 +4046,7 @@
         "type":"pantalla",
         "name":"Monitor Gamer LG 27'' 27UL500-W UHD 4K HDR10 IPS",
         "brand":"LG",
-        "cost": 138.650,
+        "cost": 138650,
         "details":{
             "tiempoDeRespuesta": "1ms",
             "tipoDePanel": "IPS",
@@ -4071,11 +4059,10 @@
             "frequency":"60 hz",
             "pulgadas": 27},
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_15108_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_d7cfcca9-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_15110_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_ddb63df2-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_15111_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_549105a6-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_15112_Monitor_Gamer_LG_27__27UL500-W_UHD_4K_HDR10_IPS_cc3e817c-grn.jpg"
-    
+            "https://www.lg.com/us/images/monitors/md06103296/gallery/large01.jpg",
+            "https://www.lg.com/us/images/monitors/md06103296/gallery/large07.jpg",
+            "https://www.lg.com/us/images/monitors/md06103296/gallery/large09.jpg",
+            "https://www.lg.com/us/images/monitors/md06103296/gallery/large06.jpg"
         ]
             
      },
@@ -4083,7 +4070,7 @@
         "type":"pantalla",
         "name":"Monitor Gamer LG 34'' UltraGear 34GL750 Ultra Wide Curvo 144Hz 1ms",
         "brand":"LG",
-        "cost": 195.550,
+        "cost": 195550,
         "details":{
             "tiempoDeRespuesta": "10ms",
             "tipoDePanel": "IPS",
@@ -4096,11 +4083,10 @@
             "frequency":"144 hz",
             "pulgadas": 34},
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17179_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_2859a4b1-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17181_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_a07c0235-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17182_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_661508ae-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17183_Monitor_Gamer_LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms_6ae5a9a9-grn.jpg"
-    
+            "https://www.lg.com/es/images/monitores/md06173396/gallery/large07.jpg",
+            "https://www.lg.com/es/images/monitores/md06173396/gallery/Z6.jpg",
+            "https://www.lg.com/es/images/monitores/md06173396/gallery/Z5.jpg",
+            "https://www.lg.com/es/images/monitores/md06173396/gallery/Z4.jpg"
         ]
             
      },
@@ -4108,7 +4094,7 @@
         "type":"pantalla",
         "name":"Monitor LG 28'' Dual Ergo 28MQ780-B SDQHD Nano IPS",
         "brand":"LG",
-        "cost": 289.200,
+        "cost": 289200,
         "details":{
             "tiempoDeRespuesta": "5ms",
             "tipoDePanel": "NANO IPS",
@@ -4121,10 +4107,10 @@
             "frequency":"60 hz",
             "pulgadas": 28},
         "img":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33979_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_c6884770-med.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33981_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_37035697-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33980_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_e57a5d4c-med.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33982_Monitor_LG_28___Dual_Ergo_28MQ780-B_SDQHD_Nano_IPS_5fe933c1-med.jpg"
+            "https://www.lg.com/us/images/monitors/md08002085/gallery/zoom-01.jpg",
+            "https://www.lg.com/us/images/monitors/md08002085/gallery/zoom-12.jpg",
+            "https://www.lg.com/us/images/monitors/md08002085/gallery/zoom-13.jpg",
+            "https://www.lg.com/us/images/monitors/md08002085/gallery/zoom-14.jpg"
     
         ]
             
@@ -4543,7 +4529,7 @@
           "alto": "37 mm"
         }
       },
-      "cost": 3.130
+      "cost": 3130
     },
     {
       "type":"teclado",
@@ -4566,7 +4552,7 @@
           "alto": "33 mm"
         }
       },
-      "cost": 4.500
+      "cost": 4500
     },
   
     {
@@ -4590,7 +4576,7 @@
           "alto": "30 mm"
         }
       },
-      "cost": 4.800
+      "cost": 4800
     },
   
     {
@@ -4614,7 +4600,7 @@
           "alto": "35 mm"
         }
       },
-      "cost": 5.300
+      "cost": 5300
     },
   
     {
@@ -4638,7 +4624,7 @@
           "alto": "38 mm"
         }
       },
-      "cost": 5.440
+      "cost": 5440
     },
   
     {
@@ -4662,7 +4648,7 @@
           "alto": "32 mm"
         }
       },
-      "cost": 5.800
+      "cost": 5800
     },
     {
       "type":"teclado",
@@ -4685,7 +4671,7 @@
           "alto": "50 mm"
         }
       },
-      "cost": 6.000
+      "cost": 6000
     },
     {
       "type":"teclado",
@@ -4708,7 +4694,7 @@
           "alto": "43 mm"
         }
       },
-      "cost": 7.050
+      "cost": 7050
     },
     {
       "type":"teclado",
@@ -4731,7 +4717,7 @@
           "alto": "43 mm"
         }
       },
-      "cost": 7.110
+      "cost": 7110
     },
     {
       "type":"teclado",
@@ -4754,7 +4740,7 @@
           "alto": "36 mm"
         }
       },
-      "cost": 7.500
+      "cost": 7500
     },
     {
       "type":"teclado",
@@ -4777,7 +4763,7 @@
           "alto": "36 mm"
         }
       },
-      "cost": 7.500
+      "cost": 7500
     },
     {
       "type":"teclado",
@@ -4800,7 +4786,7 @@
           "alto": "30 mm"
         }
       },
-      "cost": 7.650
+      "cost": 7650
     },
     {
       "type":"teclado",
@@ -4823,7 +4809,7 @@
           "alto": "36 mm"
         }
       },
-      "cost": 7.900
+      "cost": 7900
     },
     {
       "type":"teclado",
@@ -4846,7 +4832,7 @@
           "alto": "40 mm"
         }
       },
-      "cost": 8.040
+      "cost": 8040
     },
     {
       "type":"teclado",
@@ -4869,7 +4855,7 @@
           "alto": "36 mm"
         }
       },
-      "cost": 9.000
+      "cost": 9000
     },
     {
       "type":"teclado",
@@ -4892,7 +4878,7 @@
           "alto": "43 mm"
         }
       },
-      "cost": 9.150
+      "cost": 9150
     },
   
     {
@@ -4916,7 +4902,7 @@
           "alto": "26 mm"
         }
       },
-      "cost": 12.000
+      "cost": 12000
     },
     {
       "type":"teclado",
@@ -4939,7 +4925,7 @@
           "alto": "35 mm"
         }
       },
-      "cost": 12.400
+      "cost": 12400
     },
     {
       "type":"teclado",
@@ -4962,7 +4948,7 @@
           "alto": "35 mm"
         }
       },
-      "cost": 12.410
+      "cost": 12410
     },
     {
       "type":"teclado",
@@ -4985,7 +4971,7 @@
           "alto": "37.4 mm"
         }
       },
-      "cost": 24.500
+      "cost": 24500
     },
     {
       "type": "gabinete",
@@ -5016,7 +5002,7 @@
           "max_length_gpu": "42 cm"
           }
       },
-      "cost": 25052.98, 
+      "cost": 25052, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666156/pc/corsair1_yoar7e.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666160/pc/corsair2_vqzfmt.jpg",
@@ -5055,7 +5041,7 @@
               "structure type": "Mid Tower"
               } 
       },
-      "cost": 12800.39, 
+      "cost": 12800, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666726/pc/ACTECK/acteck1_no9dwr.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666731/pc/ACTECK/acteck2_hhu0xa.jpg",
@@ -5092,7 +5078,7 @@
               "max_length_gpu": "34 cm"
           }
       },
-      "cost": 12878.02, 
+      "cost": 12878, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668517/pc/VETROO/vetroo1_eq8dcf.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668532/pc/VETROO/vetroo2_l9bfj2.jpg"
@@ -5128,7 +5114,7 @@
               "max_length_gpu": ""
           }
       },
-      "cost": 13672.35, 
+      "cost": 13672, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668876/pc/CORSAIR/corsair1.1_e1drmd.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668880/pc/CORSAIR/corsair1.2_ojcui4.jpg",
@@ -5165,7 +5151,7 @@
               "max_length_gpu": ""
           }
       },
-      "cost": 6124.63, 
+      "cost": 6124, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669331/pc/ACTECK/acteck1.1_kwexgs.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669337/pc/ACTECK/acteck1.2_xp0cin.jpg",
@@ -5203,7 +5189,7 @@
               "max_length_gpu": "33 cm"
           }
       },
-      "cost": 9384.88, 
+      "cost": 9384, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669865/pc/COUGAR/cougar1_lqmter.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669870/pc/COUGAR/cougar2_rslcip.jpg",
@@ -5242,7 +5228,7 @@
               "max_length_gpu": "31 cm"
           }
       },
-      "cost": 13964.77, 
+      "cost": 13964, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670300/pc/BALAM%20RUSH/BALAM1_pkmine.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670305/pc/BALAM%20RUSH/BALAM2_del8iz.jpg",
@@ -5280,7 +5266,7 @@
               "max_length_gpu": "41 cm"
           }
       },
-      "cost": 20984.72, 
+      "cost": 20984, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666724934/pc/COOLER%20MASTER/cooler_master1_cf1kjo.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666724938/pc/COOLER%20MASTER/cooler_master2_z5yvyo.jpg",
@@ -5318,7 +5304,7 @@
               "max_length_gpu": ""
           }
       },
-      "cost": 7719.39, 
+      "cost": 7719, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666725537/pc/ACTECK/acteck2.1_rckwyd.jpg",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666725545/pc/ACTECK/acteck2.2_mdjwsj.jpg",
@@ -5355,7 +5341,7 @@
               "max_length_gpu": "36 cm"
           }
       },
-      "cost": 14267.05, 
+      "cost": 14267, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666726062/pc/CORSAIR/corsair2.1_he2ctv.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666726021/pc/CORSAIR/corsair2.2_as33iv.png",
@@ -5394,7 +5380,7 @@
               "max_length_gpu": "42 cm"
           }
       },
-      "cost": 29606.78, 
+      "cost": 29606, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666726665/pc/CORSAIR/Therm_idvlm3.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666726616/pc/CORSAIR/therm1.1_em4b5a.png",
@@ -5433,7 +5419,7 @@
               "max_length_gpu": ""
           }
       },
-      "cost": 10476.90, 
+      "cost": 10476, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666727287/pc/EVOTEC/evotec1_jhb7jy.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666727291/pc/EVOTEC/evotec2_t95we8.png",
@@ -5471,7 +5457,7 @@
               "max_length_gpu": "40 cm"
           }
       },
-      "cost": 18724.79, 
+      "cost": 18724, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666727738/pc/BALAM%20RUSH/balam2.1_tukygr.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666727742/pc/BALAM%20RUSH/balam2.2_tidxhu.png",
@@ -5509,7 +5495,7 @@
               "max_length_gpu": "34 cm"
           }
       },
-      "cost": 7016.92, 
+      "cost": 7016, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666728913/pc/GAME%20FACTOR/gamer1_sfpjpn.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666728917/pc/GAME%20FACTOR/gamer2_x4auve.png",
@@ -5547,7 +5533,7 @@
               "max_length_gpu": "32 cm"
           }
       },
-      "cost": 20129.73, 
+      "cost": 20129, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666729290/pc/ASUS/asus1_m3tzxy.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666729294/pc/ASUS/asus2_rgdn5x.png",
@@ -5583,7 +5569,7 @@
               "max_length_gpu": "45 cm"
           }
       },
-      "cost": 54785.03, 
+      "cost": 54785, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666729290/pc/ASUS/asus1_m3tzxy.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666729294/pc/ASUS/asus2_rgdn5x.png",
@@ -5619,7 +5605,7 @@
               "max_length_gpu": ""
           }
       },
-      "cost": 13729.43, 
+      "cost": 13729, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666730218/pc/INWIN/INWIN_elncyy.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666730225/pc/INWIN/INWIN2_oy3kt4.png",
@@ -5655,7 +5641,7 @@
               "max_length_gpu": "40 cm"
           }
       },
-      "cost": 13417.22, 
+      "cost": 13417, 
       "img": [
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666730866/pc/MSI/MSI1_zy9z7m.png",
           "https://res.cloudinary.com/dhadvdeca/image/upload/v1666730870/pc/MSI/MSI2_qthgax.png",
@@ -5693,7 +5679,7 @@
               "max_length_gpu": "38 cm"
           }
       },
-      "cost": 16695.42, 
+      "cost": 16695, 
       "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666731143/pc/HYUNDAI/hyundai1_mti0st.png"]
   },
   {
@@ -5725,7 +5711,7 @@
               "max_length_gpu": "31 cm"
           }
       },
-      "cost": 11309.80, 
+      "cost": 11309, 
       "img": ["https://res.cloudinary.com/dhadvdeca/image/upload/v1666731395/pc/ACTECK/ACTECK3.1_wv4xkk.png",
               "https://res.cloudinary.com/dhadvdeca/image/upload/v1666731400/pc/ACTECK/ACTECK3.2_b5axob.png",
               "https://res.cloudinary.com/dhadvdeca/image/upload/v1666731405/pc/ACTECK/ACTECK3.3_jaho4g.png",
@@ -5763,7 +5749,7 @@
         "5000,AM4 APU 3th"
       ]
     },
-    "cost":2.750
+    "cost":2750
   },
   {
     "type": "cooler",
@@ -5794,7 +5780,7 @@
         "5000,AM4 APU 3th"
       ]
     },
-    "cost":3.199
+    "cost":3199
   },
   {
     "type": "cooler",
@@ -5825,7 +5811,7 @@
         "Ryzen 4th Gen,AM4 Ryzen"
       ]
     },
-    "cost":3.589
+    "cost":3589
   },
   {
     "type": "cooler",
@@ -5856,7 +5842,7 @@
         "Ryzen 4th Gen,AM4 Ryzen"
       ]
     },
-    "cost":3.949
+    "cost":3949
   },
   {
     "type": "cooler",
@@ -5887,7 +5873,7 @@
         "1th Gen,AM4 APU"
       ]
     },
-    "cost":4.000
+    "cost":4000
   },
   {
     "type": "cooler",
@@ -5918,7 +5904,7 @@
         "APU 5000,AM4 APU"
       ]
     },
-    "cost":4.190
+    "cost":4190
   },
   {
     "type": "cooler",
@@ -5949,7 +5935,7 @@
         "APU 5000,AM4 APU"
       ]
     },
-    "cost":4.190
+    "cost":4190
   },
   {
     "type": "cooler",
@@ -5980,7 +5966,7 @@
         "Ryzen 1th Gen,AM4 APU"
       ]
     },
-    "cost":4.600
+    "cost":4600
   },
   {
     "type": "cooler",
@@ -6011,7 +5997,7 @@
         "APU 5000,AM4 APU"
       ]
     },
-    "cost":4.650
+    "cost":4650
   },
   {
     "type": "cooler",
@@ -6042,7 +6028,7 @@
         "APU 5000,AM4 APU"
       ]
     },
-    "cost":5.050
+    "cost":5050
   },
   {
     "type": "cooler",
@@ -6073,7 +6059,7 @@
         "APU 5000,AM4 APU"
       ]
     },
-    "cost":5.100
+    "cost":5100
   },
   {
     "type": "cooler",
@@ -6104,7 +6090,7 @@
         "APU 1th Gen,AM4 A"
       ]
     },
-    "cost":5.550
+    "cost":5550
   },
   {
     "type": "cooler",
@@ -6135,7 +6121,7 @@
         "Ryzen 1th Gen,AM4 Ryzen"
       ]
     },
-    "cost":5.810
+    "cost":5810
   },
 
   {
@@ -6167,7 +6153,7 @@
         "Series,AM4,2066,2011_v3,2011,1200"
       ]
     },
-    "cost":5.850
+    "cost":5850
   },
 
   {
@@ -6199,7 +6185,7 @@
         "Series,AM4,2066,2011_v3,2011,1200"
       ]
     },
-    "cost":5.950
+    "cost":5950
   },
   {
     "type": "cooler",
@@ -6230,7 +6216,7 @@
         "Gen,AM4 APU 5000,AM4"
       ]
     },
-    "cost":6.040
+    "cost":6040
   },
   {
     "type": "cooler",
@@ -6261,7 +6247,7 @@
         "2th Gen,AM4 APU"
       ]
     },
-    "cost":6.100
+    "cost":6100
   },
   {
     "type": "cooler",
@@ -6292,7 +6278,7 @@
         "2th Gen,AM4 APU 3th"
       ]
     },
-    "cost":6.930
+    "cost":6930
   },
   {
     "type": "cooler",
@@ -6323,7 +6309,7 @@
         "Series,AM4,2066,2011_v3,2011,1200"
       ]
     },
-    "cost":7.560
+    "cost":7560
   },
   {
     "type": "mouse",
@@ -6353,7 +6339,7 @@
       ],
       "weight": "112 g / 3.95 oz (Excluding cable)"
     },
-    "cost": 160
+    "cost": 17520
   },
   {
     "type": "mouse",
@@ -6383,7 +6369,7 @@
       ],
       "weight": "112 g / 3.95 oz (Excluding cable)"
     },
-    "cost": 160
+    "cost": 17520
   },
   {
     "type": "mouse",
@@ -6409,7 +6395,7 @@
       ],
       "weight": "< 60 g / < 2.2 oz (Mass centralized)"
     },
-    "cost": 70
+    "cost": 4200
   },
   {
     "type": "mouse",
@@ -6434,7 +6420,7 @@
       ],
       "weight": "< 60 g / < 2.2 oz (Mass centralized)"
     },
-    "cost": 70
+    "cost": 4200
   },
   {
     "type": "mouse",
@@ -6457,7 +6443,7 @@
       ],
       "weight": "< 60 g / < 2.2 oz (Mass centralized)"
     },
-    "cost": 70
+    "cost": 4200
   },
   {
     "type": "mouse",
@@ -6486,7 +6472,7 @@
       ],
       "weight": "63 g"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -6514,7 +6500,7 @@
       ],
       "weight": "63 g"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -6540,7 +6526,7 @@
       ],
       "weight": "58 g"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -6566,7 +6552,7 @@
       ],
       "weight": "58 g"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -6590,7 +6576,7 @@
       ],
       "weight": "71 g / 2.5 oz (Excluding cable)"
     },
-    "cost": 100
+    "cost": 29200
   },
   {
     "type": "mouse",
@@ -6615,7 +6601,7 @@
       ],
       "weight": "71 g / 2.5 oz (Excluding cable)"
     },
-    "cost": 80
+    "cost": 23360
   },
   {
     "type": "mouse",
@@ -6644,7 +6630,7 @@
       ],
       "weight": "88 g / 0.194 lbs (Excluding dongle)"
     },
-    "cost": 140
+    "cost": 40880
   },
   {
     "type": "mouse",
@@ -6674,7 +6660,7 @@
       ],
       "weight": "88 g / 0.194 lbs (Excluding dongle)"
     },
-    "cost": 130
+    "cost": 37960
   },
   {
     "type": "mouse",
@@ -6696,7 +6682,7 @@
       "sizes": ["Length: 100.2 mm", "Width:  62.7 mm", "Height: 34.2 mm"],
       "weight": "111g with 2x Alkaline AA batteries"
     },
-    "cost": 80
+    "cost": 23360
   },
   {
     "type": "mouse",
@@ -6722,7 +6708,7 @@
       ],
       "weight": "86 - 103 g / 3.03 – 3.63 oz"
     },
-    "cost": 60
+    "cost": 17520
   },
   {
     "type": "mouse",
@@ -6748,7 +6734,7 @@
       ],
       "weight": "82 g / 0.18 lbs"
     },
-    "cost": 70
+    "cost": 20440
   },
   {
     "type": "mouse",
@@ -6774,7 +6760,7 @@
       ],
       "weight": "82 g / 0.18 lbs"
     },
-    "cost": 70
+    "cost": 20440
   },
   {
     "type": "mouse",
@@ -6800,7 +6786,7 @@
       ],
       "weight": "82 g / 0.18 lbs"
     },
-    "cost": 70
+    "cost": 20440
   },
   {
     "type": "mouse",
@@ -6825,7 +6811,7 @@
       ],
       "weight": "96 g / 0.211 lbs"
     },
-    "cost": 30
+    "cost": 8760
   },
   {
     "type": "mouse",
@@ -6850,7 +6836,7 @@
       ],
       "weight": "96 g / 0.211 lbs"
     },
-    "cost": 30
+    "cost": 8760
   },
   {
     "type": "mouse",
@@ -6876,7 +6862,7 @@
       ],
       "weight": "101 g / 3.56 oz (Excluding cable)"
     },
-    "cost": 70
+    "cost": 8760
   },
   {
     "type": "mouse",
@@ -6902,7 +6888,7 @@
       ],
       "weight": "85 g / 3 oz (Excluding cable)"
     },
-    "cost": 80
+    "cost": 23360
   },
   {
     "type": "mouse",
@@ -6928,7 +6914,7 @@
       ],
       "weight": "74 g / 0.16 lbs"
     },
-    "cost": 160
+    "cost": 46720
   },
   {
     "type": "mouse",
@@ -6954,7 +6940,7 @@
       ],
       "weight": "74 g / 0.16 lbs"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -6979,7 +6965,7 @@
       ],
       "weight": "74 g / 0.16 lbs"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -7005,7 +6991,7 @@
       ],
       "weight": "74 g / 0.16 lbs"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -7035,7 +7021,7 @@
       ],
       "weight": "117 g / 0.257 lbs (Excluding dongle)"
     },
-    "cost": 150
+    "cost": 43800
   },
   {
     "type": "mouse",
@@ -7061,7 +7047,7 @@
       ],
       "weight": "106 g / 0.23 lbs"
     },
-    "cost": 100
+    "cost": 29200
   },
   {
     "type": "mouse",
@@ -7083,7 +7069,7 @@
       "sizes": ["Length: 11.66 cm", "Width: 6.21 cm", "Height: 3.82 cm"],
       "weight": "85 g"
     },
-    "cost": 32
+    "cost": 9344
   },
   {
     "type": "mouse",
@@ -7105,7 +7091,7 @@
       "sizes": ["Length: 11.6 cm", "Width: 6.21 cm", "Height: 3.82 cm"],
       "weight": "90 g / 3.95 oz (Excluding cable)"
     },
-    "cost": 50
+    "cost": 14600
   },
   {
     "type": "mouse",
@@ -7126,7 +7112,7 @@
       "sizes": ["Length: 16 cm", "Width: 11 cm", "Height: 5 cm"],
       "weight": "100g"
     },
-    "cost": 50
+    "cost": 14600
   },
   {
     "type": "mouse",
@@ -7152,7 +7138,7 @@
       ],
       "weight": "112 g"
     },
-    "cost": 15
+    "cost": 4380
   },
   {
     "type": "mouse",
@@ -7178,7 +7164,7 @@
       ],
       "weight": "112 g"
     },
-    "cost": 10
+    "cost": 2920
   }  
      
   ]
