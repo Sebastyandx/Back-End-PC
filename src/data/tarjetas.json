@@ -5,7 +5,7 @@
         "brand": "GeForce",
         "cost": 8.400,
         
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "G 210",
             "CaracteristicasEspeciales": "No",
@@ -26,11 +26,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "0"
         },
-        "IMG":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26735_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_c07b4910-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26737_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_53501d18-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26738_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_b6129d61-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26739_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_0723dda3-grn.jpg"
+        "img":[    
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26735_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_c07b4910-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26737_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_53501d18-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26738_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_b6129d61-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26739_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_0723dda3-grn.jpg"
         ]
        },   
        
@@ -40,7 +40,7 @@
         "brand": "GeForce",
         "cost": 46.370,
         
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "GTX 1630",
             "CaracteristicasEspeciales": "No",
@@ -61,11 +61,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "512"
         },
-        "IMG":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34240_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_d56ebd29-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34241_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_8d21f82b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34242_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_edc10230-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34243_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_d425f258-grn.jpg"
+        "img":[    
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34240_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_d56ebd29-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34241_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_8d21f82b-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34242_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_edc10230-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34243_Placa_de_Video_Zotac_GeForce_GTX_1630_4GB_GDDR6_d425f258-grn.jpg"
         ]
        },
        
@@ -75,7 +75,7 @@
         "brand": "GeForce",
         "cost": 60.000,
         
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "GTX 1650",
             "CaracteristicasEspeciales": "no",
@@ -96,11 +96,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "896"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_28833_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_c62edb85-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_28835_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_9f3182cd-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_28836_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_ec7cae0d-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_28837_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_b01635c0-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28833_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_c62edb85-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28835_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_9f3182cd-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28836_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_ec7cae0d-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_28837_Placa_de_Video_Zotac_GeForce_GTX_1650_4GB_GDDR6_AMP_CORE_b01635c0-grn.jpg"
         ]
        },
        
@@ -110,7 +110,7 @@
         "brand": "GeForce",
         "cost": 87.650,
         
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "GTX 1660 Super",
             "CaracteristicasEspeciales": "No",
@@ -129,11 +129,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "896"
         },
-        "IMG":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27739_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_56743a5a-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17197_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_734790b1-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17198_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_e9498346-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17199_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_b8806c86-grn.jpg"
+        "img":[    
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_27739_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_56743a5a-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17197_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_734790b1-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17198_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_e9498346-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_17199_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_b8806c86-grn.jpg"
         ]
        },
        {
@@ -142,7 +142,7 @@
         "brand": "GeForce",
         "cost": 99.950,
         
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "RTX 3050",
             "CaracteristicasEspeciales": "Ray Tracing + DLSS",
@@ -163,11 +163,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "2560"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34219_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_69853d84-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34221_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_5ff37127-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34222_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_b8b51948-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34223_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_1932e485-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34219_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_69853d84-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34221_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_5ff37127-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34222_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_b8b51948-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34223_Placa_de_Video_Zotac_GeForce_RTX_3050_8GB_GDDR6_Twin_Edge_OC_1932e485-grn.jpg"
         ]
        },
        {
@@ -176,7 +176,7 @@
         "brand": "GeForce",
         "cost": 151.000,
        
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "RTX 3070",
             "CaracteristicasEspeciales": "Ray Tracing + DLSS",
@@ -197,11 +197,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "5888"
         },
-         "IMG":[    
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32806_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__76f7b33c-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32807_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__d90921bb-med.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32809_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__0ff279ea-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32810_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__cd77b82b-grn.jpg"
+         "img":[    
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32806_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__76f7b33c-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32807_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__d90921bb-med.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32809_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__0ff279ea-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32810_Placa_de_Video_GALAX_GeForce_RTX_3070_8GB_GDDR6_LHR__1-Click_OC__cd77b82b-grn.jpg"
         ]
        },
        {
@@ -209,7 +209,7 @@
         "name":"Placa de Video ASUS GeForce RTX 3070 Ti 8GB GDDR6X TUF OC",
         "brand": "GeForce",
         "cost": 193.500,
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "RTX 3070 Ti",
             "CaracteristicasEspeciales": "Ray Tracing + DLSS",
@@ -230,11 +230,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "6144"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30163_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_5cc330b1-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30156_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_5874a4f0-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30157_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_0bc52366-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30158_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_6cdd48ef-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30163_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_5cc330b1-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30156_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_5874a4f0-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30157_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_0bc52366-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30158_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_6cdd48ef-grn.jpg"
         ]
        },
        {
@@ -242,7 +242,7 @@
         "name":"Placa de Video GALAX GeForce RTX 3080 12GB GDDR6X SG LHR",
         "brand": "GeForce",
         "cost": 221.900,
-        "detalles":{
+        "details":{
             "tipo": "pcie",
             "chipsetGpu": "RTX 3080",
             "CaracteristicasEspeciales": "Ray Tracing + DLSS",
@@ -263,11 +263,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "8960"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33411_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_8980730c-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33412_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_65d8a7bf-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33413_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_88469aed-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33414_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_45f029e2-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33411_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_8980730c-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33412_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_65d8a7bf-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33413_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_88469aed-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33414_Placa_de_Video_GALAX_GeForce_RTX_3080_12GB_GDDR6X_SG_LHR_45f029e2-grn.jpg"
         ]
        },
        {
@@ -275,7 +275,7 @@
         "name":"Placa de Video Zotac GeForce RTX 3080 Ti 12GB GDDR6X Trinity",
         "brand": "GeForce",
         "cost": 260.000,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RTX 3080 Ti",
@@ -297,11 +297,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "10240"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32390_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_0ed41b33-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26971_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_2427b9f7-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26973_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_0a3d4850-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26974_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_55e2b259-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32390_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_0ed41b33-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26971_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_2427b9f7-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26973_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_0a3d4850-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26974_Placa_de_Video_Zotac_GeForce_RTX_3080_Ti_12GB_GDDR6X_Trinity_55e2b259-grn.jpg"
         ]
        },
        {
@@ -309,7 +309,7 @@
         "name":"Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity",
         "brand": "GeForce",
         "cost": 285.000,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RTX 3090",
@@ -331,11 +331,11 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "10496"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32388_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_c3f00609-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21444_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_a9f0d2a3-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21445_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_d11505f5-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21446_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_4d817ec2-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_32388_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_c3f00609-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_21444_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_a9f0d2a3-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_21445_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_d11505f5-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_21446_Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity_4d817ec2-grn.jpg"
         ]
        },
       
@@ -346,7 +346,7 @@
         "name":"Placa de Video XFX Radeon RX 570 8GB DDR5 RS XXX Edition",
         "brand": "Radeon AMD",
         "cost": 55.560,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RX 570",
@@ -368,11 +368,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "2048"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19164_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_951516f2-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19166_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_f27a359e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19167_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_df31e409-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19168_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_2a66c474-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19164_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_951516f2-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19166_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_f27a359e-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19167_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_df31e409-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_19168_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_2a66c474-grn.jpg"
         ]
        },
        {
@@ -380,7 +380,7 @@
         "name":"Placa de Video XFX Radeon RX 6500 XT Black 4GB GDDR6 Speedster QICK210",
         "brand": "Radeon AMD",
         "cost": 57.900,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RX 6500 XT",
@@ -402,11 +402,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "1024"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30405_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_f534d98b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30402_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_5f4d0957-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30403_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_c3dd878e-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30404_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_f053a4a8-med.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30405_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_f534d98b-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30402_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_5f4d0957-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30403_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_c3dd878e-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_30404_Placa_de_Video_XFX_Radeon_RX_6500_XT_Black_4GB_GDDR6_Speedster_QICK210_f053a4a8-med.jpg"
         ]
        },
        {
@@ -414,7 +414,7 @@
         "name":"Placa de Video PowerColor Radeon RX 6600 8GB GDDR6 FIGHTER",
         "brand": "Radeon AMD",
         "cost": 85.890,
-        "detalles":{
+        "details":{
        
             "tipo": "pcie",
             "chipsetGpu": "RX 6600",
@@ -436,11 +436,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "1792"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29077_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_8ef254fa-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29079_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_aa0627c3-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29080_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_e8a7eb9b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29081_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_34a2b103-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29077_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_8ef254fa-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29079_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_aa0627c3-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29080_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_e8a7eb9b-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29081_Placa_de_Video_PowerColor_Radeon_RX_6600_8GB_GDDR6_FIGHTER_34a2b103-grn.jpg"
         ]
        },
        {
@@ -448,7 +448,7 @@
         "name":"Placa de Video XFX Radeon RX 6650 XT 8GB GDDR6 Speedster SWFT 210",
         "brand": "Radeon AMD",
         "cost": 92.500,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RX 6650 XT",
@@ -470,11 +470,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "2048"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33401_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_589f396b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33402_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_59981144-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33403_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_de9bc156-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33404_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_e3e7dde9-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33401_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_589f396b-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33402_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_59981144-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33403_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_de9bc156-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_33404_Placa_de_Video_XFX_Radeon_RX_6650_XT_8GB_GDDR6_Speedster_SWFT_210_e3e7dde9-grn.jpg"
         ]
        },
        {
@@ -482,7 +482,7 @@
         "name":"Placa de Video Asrock Radeon RX 6700 XT 12GB GDDR6 Challenger OC",
         "brand": "Radeon AMD",
         "cost": 115.000,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RX 6700 XT",
@@ -504,11 +504,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "2560"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26063_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_49f30497-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26065_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_ed0cdd67-med.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26066_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_69628332-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26067_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_91065cc4-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26063_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_49f30497-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26065_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_ed0cdd67-med.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26066_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_69628332-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26067_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_OC_91065cc4-grn.jpg"
         ]
        },
        {
@@ -516,7 +516,7 @@
         "name":"Placa de Video XFX Radeon RX 6750 XT ULTRA 12GB GDDR6 Speedster",
         "brand": "Radeon AMD",
         "cost": 126.000,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RX 6750 XT",
@@ -538,11 +538,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "2560"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34294_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_33c89c63-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34295_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_a662af0d-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34297_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_aed97c42-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34298_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_a10970de-med.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34294_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_33c89c63-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34295_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_a662af0d-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34297_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_aed97c42-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_34298_Placa_de_Video_XFX_Radeon_RX_6750_XT_ULTRA_12GB_GDDR6_Speedster_a10970de-med.jpg"
         ]
        },
        {
@@ -550,7 +550,7 @@
         "name":"Placa de Video Asrock Radeon RX 6800 16GB GDDR6 Phantom Gaming D OC",
         "brand": "Radeon AMD",
         "cost": 152.000,
-          "detalles":{
+          "details":{
       
             "tipo": "pcie",
             "chipsetGpu": "RX 6800",
@@ -572,11 +572,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "3840"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24211_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_23e8877b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24213_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_4e820100-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24215_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_851c1a7b-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24216_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_1433b96d-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24211_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_23e8877b-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24213_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_4e820100-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24215_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_851c1a7b-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_24216_Placa_de_Video_Asrock_Radeon_RX_6800_16GB_GDDR6_Phantom_Gaming_D_OC_1433b96d-grn.jpg"
         ]
        },
        {
@@ -584,7 +584,7 @@
         "name":"Placa de Video Asrock Radeon RX 6800 XT 16GB GDDR6 Phantom Gaming D OC",
         "brand": "Radeon AMD",
         "cost": 178.000,
-        "detalles":{
+        "details":{
         
             "tipo": "pcie",
             "chipsetGpu": "RX 6800 XT",
@@ -606,11 +606,11 @@
             "tipoDeProcesos": "Stream",
             "CantidadDeProcesos": "4608"
         },
-        "IMG":[
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29154_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_f0d90866-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29156_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_4ca00233-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29157_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_b3f0fc37-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29158_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_94170c64-grn.jpg"
+        "img":[
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29154_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_f0d90866-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29156_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_4ca00233-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29157_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_b3f0fc37-grn.jpg",
+            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_29158_Placa_de_Video_Asrock_Radeon_RX_6800_XT_16GB_GDDR6_Phantom_Gaming_D_OC_94170c64-grn.jpg"
         ]
        },
        
@@ -621,7 +621,7 @@
         "brand": "Radeon AMD",
         "cost": 314.000,
         
-        "detalles":{
+        "details":{
             "tipo": "pcie",
         "chipsetGpu": "RX 6900 XT",
             "CaracteristicasEspeciales": "Ray Tracing",
@@ -642,7 +642,7 @@
             "tipoDeProcesos": "CUDA",
             "CantidadDeProcesos": "5120"
         },
-        "IMG":[
+        "img":[
             "https://logg.api.cygnus.market/static/logg/Global/Placa%20de%20Video%20GIGABYTE%20AMD%20Radeon%20RX%206900%20XT%20AORUS%20MASTER%20(rev.%201.0)%2016GB%20GDDR6%20PCIe%204.0%20RGB/264209383ede4ff285f4dc5c417cf7a2.webp",
             "https://logg.api.cygnus.market/static/logg/Global/Placa%20de%20Video%20GIGABYTE%20AMD%20Radeon%20RX%206900%20XT%20AORUS%20MASTER%20(rev.%201.0)%2016GB%20GDDR6%20PCIe%204.0%20RGB/728d004de6544606be0443f9c4a75958.webp",
             "https://logg.api.cygnus.market/static/logg/Global/Placa%20de%20Video%20GIGABYTE%20AMD%20Radeon%20RX%206900%20XT%20AORUS%20MASTER%20(rev.%201.0)%2016GB%20GDDR6%20PCIe%204.0%20RGB/d67e1b2cb19f473a88cfe11bb6ccba5b.webp",

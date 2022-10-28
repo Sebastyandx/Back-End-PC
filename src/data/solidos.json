@@ -1,12 +1,11 @@
-{
-  "solido": [
+[
     { "type":"solido",
       "name": "Hikvision C100 120 GB",
       "brand": "Hikvision",
       "img": [
         "https://media.solotodo.com/media/cache/79/cd/79cd6edbe3260a0316b12a81b5e566bb.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "120 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -22,7 +21,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/77/a7/77a7dfde6c449c3f29e2dd08d598e039.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "120 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -38,7 +37,7 @@
       "image": [
         "https://media.solotodo.com/media/cache/44/d4/44d4c941f8c84ae78c0a1fa3efa61880.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "240 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -54,7 +53,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/77/a2/77a29c96b7398712f10329ac59290c89.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "240 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -70,7 +69,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/44/d4/44d4c941f8c84ae78c0a1fa3efa61880.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "500 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -86,7 +85,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/cb/39/cb39a1c4237a1d7cda4aef5301e53370.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "512 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -102,7 +101,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/22/fd/22fd42447c39419cff4a31801a17b40f.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "512 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -118,7 +117,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/b9/75/b975334dc7cc872063fb6e7bf5086dac.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "1 TB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -132,7 +131,7 @@
       "name": "Lexar NS100 1 TB",
       "brand": "Lexar",
       "img": "https://media.solotodo.com/media/cache/61/58/6158d248ffcc594e29f270952595e428.png",
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "1 TB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -148,7 +147,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/4f/80/4f808bc26b68fc69c083f4a037840f50.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "2 TB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -164,7 +163,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/8e/58/8e58942ed10b3f42cbd88124558ebf8c.png"
       ],
-      "detail": {
+      "details": {
         "type": "SSD",
         "capacity": "8 TB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -180,7 +179,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/b5/4b/b54bc33b1bccf3d3ae9b702334ab1c7a.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "128 GB",
         "bus": "PCIe 3.0",
@@ -196,7 +195,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/6a/67/6a6721295082f2239f982cffa8e1d9a7.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "240 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -212,7 +211,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/0e/0b/0e0bfa881e7590049316098446a57a8f.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "256 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -228,7 +227,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/6f/96/6f96485bc6a8e2b405e262f1bc5c02d7.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "480 GB",
         "bus": "SATA 3 (6.0 Gb/s)",
@@ -244,7 +243,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/64/f6/64f6443ccb379a1ff0819e8626a981a4.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "512 GB",
         "bus": "PCIe 3.0",
@@ -260,7 +259,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/15/1d/151d5e9968b85c4908d7a1595ce35416.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "500 GB",
         "bus": "PCIe 3.0",
@@ -276,7 +275,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/81/94/81942fa49b3012a99c8e5ec94939222a.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "1 TB",
         "bus": "PCIe 3.0",
@@ -292,7 +291,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/89/78/8978adbff865d86c349a30e7f62923ea.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "960 GB",
         "bus": "PCIe 3.0",
@@ -308,7 +307,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/42/4e/424ea005899bbc2e187d179cdf000ff7.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "1 TB",
         "bus": "PCIe 3.0",
@@ -324,7 +323,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/85/df/85df773dc35e446396635416c2d524d5.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "2 TB",
         "bus": "PCIe 3.0",
@@ -340,7 +339,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/bf/ca/bfca54b65b86504a2351ea2e321a43df.png"
       ],
-      "detail": {
+      "details": {
         "type": "M.2",
         "capacity": "2 TB",
         "bus": "PCIe 3.0",
@@ -351,4 +350,3 @@
       "cost": 86886
     }
   ]
-}

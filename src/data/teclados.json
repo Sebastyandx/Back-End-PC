@@ -1,5 +1,4 @@
-{
-  "teclados": [
+[
     {
       
       "type":"teclado",
@@ -10,7 +9,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19725_Teclado_Nisuta_NSKBG35_35_Teclas_Macro_RGB_68c6844e-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19726_Teclado_Nisuta_NSKBG35_35_Teclas_Macro_RGB_5b2e3733-grn.jpg"
       ],
-      "details": {
+      "detailss": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -33,7 +32,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13623_Teclado_Redragon_K509_Dyaus_Espa__ol_Retroiluminado_7_Colores_da9a0df3-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13624_Teclado_Redragon_K509_Dyaus_Espa__ol_Retroiluminado_7_Colores_3dfa9cfc-grn.jpg"
       ],
-      "details": {
+      "detailss": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -57,7 +56,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21355_Teclado_Redragon_Harpe_PRO_K503_RGB_ESP_7e706869-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21356_Teclado_Redragon_Harpe_PRO_K503_RGB_ESP_111fceba-grn.jpg"
       ],
-      "details": {
+      "detailss": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -81,7 +80,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24185_Teclado_Redragon_Shiva_K512_RGB_Espa__ol_970bc239-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24187_Teclado_Redragon_Shiva_K512_RGB_Espa__ol_49775761-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -105,7 +104,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13799_Teclado_XPG_Infarex_K10_RGB_Lighting__Mem-chanical_5563944c-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13800_Teclado_XPG_Infarex_K10_RGB_Lighting__Mem-chanical_4e17d297-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -129,7 +128,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_28593_Teclado_Redragon_Shiva_K512_White_RGB_ESP_b9898878-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_28594_Teclado_Redragon_Shiva_K512_White_RGB_ESP_163e35cb-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Blanco",
         "connectivity": "Puerto Usb",
@@ -152,7 +151,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_14756_Teclado_Mecanico_Redragon_K585_RGB_Diti_Switch_Brown_7e24c2e8-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_14757_Teclado_Mecanico_Redragon_K585_RGB_Diti_Switch_Brown_6697d6a6-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -175,7 +174,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29801_Teclado_Mecanico_Redragon_Kumara_K552-KR_White_Rainbow_Outemu_RED_ESP_f03a65b9-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29802_Teclado_Mecanico_Redragon_Kumara_K552-KR_White_Rainbow_Outemu_RED_ESP_e66e74cc-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Blanco",
         "connectivity": "Puerto Usb",
@@ -198,7 +197,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29735_Teclado_Mecanico_Redragon_Kumara_K552-KR_Rainbow_Outemu_RED_ESP_75275adb-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29736_Teclado_Mecanico_Redragon_Kumara_K552-KR_Rainbow_Outemu_RED_ESP_67df035c-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -221,7 +220,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29732_Teclado_Mecanico_Redragon_Dragonborn_K630_RGB_60__Outemu_Brown_38c8601c-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29733_Teclado_Mecanico_Redragon_Dragonborn_K630_RGB_60__Outemu_Brown_78af3f9b-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -244,7 +243,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29729_Teclado_Mecanico_Redragon_Dragonborn_K630_White_RGB_60__Outemu_Brown_2a65ec8f-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_29730_Teclado_Mecanico_Redragon_Dragonborn_K630_White_RGB_60__Outemu_Brown_fc0784e2-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -267,7 +266,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21944_Teclado_Mecanico_Redragon_Dark_Avenger_K568_RGB_Switch_Red_80093364-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21946_Teclado_Mecanico_Redragon_Dark_Avenger_K568_RGB_Switch_Red_bbe534fa-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -290,7 +289,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_11212_Teclado_HP_HyperX_Alloy_CORE_RGB_LA_e1bfdb98-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_11213_Teclado_HP_HyperX_Alloy_CORE_RGB_LA_9f367504-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -313,7 +312,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13898_Teclado_Mech-Brane_ASUS_RGB_TUF_GAMING_K5_US_Aura_Sync_RGB_7635512a-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13899_Teclado_Mech-Brane_ASUS_RGB_TUF_GAMING_K5_US_Aura_Sync_RGB_0ef8351c-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -336,7 +335,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8894_Teclado_Redragon_Mitra_K551_Mechanical_Retroiluminado_RGB_Espa__ol__fc86218d-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8895_Teclado_Redragon_Mitra_K551_Mechanical_Retroiluminado_RGB_Espa__ol__ffe8fd77-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -359,7 +358,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8904_Teclado_Mecanico_Redragon_Kumara_K552_RGB_Outemu_Red_ESP_769c2581-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8905_Teclado_Mecanico_Redragon_Kumara_K552_RGB_Outemu_Red_ESP_052fba73-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -383,7 +382,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_9319_Teclado_Mecanico_Redragon_K550_YAMA_White_Retroiluminado_RGB_Espa__ol_1e861276-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_9320_Teclado_Mecanico_Redragon_K550_YAMA_White_Retroiluminado_RGB_Espa__ol_dfaba256-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Blanco",
         "connectivity": "Puerto Usb",
@@ -406,7 +405,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26226_Teclado_Mecanico_Marvo_KG965G_RGB_Switch_Blue_9eb05e3a-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26227_Teclado_Mecanico_Marvo_KG965G_RGB_Switch_Blue_61eed6fd-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -429,7 +428,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32404_Teclado_Mecanico_HP_HyperX_Alloy_MKW100_RED_US_c2ad18dd-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32405_Teclado_Mecanico_HP_HyperX_Alloy_MKW100_RED_US_e41d0f58-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -452,7 +451,7 @@
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19906_Teclado_Mecanico_HP_HyperX_Alloy_Elite_2_RGB_Switch_Red_LA_cf7d5df5-grn.jpg",
         "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19907_Teclado_Mecanico_HP_HyperX_Alloy_Elite_2_RGB_Switch_Red_LA_6e16aa4c-grn.jpg"
       ],
-      "detail": {
+      "details": {
         "RGB": true,
         "color": "Negro",
         "connectivity": "Puerto Usb",
@@ -467,4 +466,3 @@
       "cost": "24.500"
     }
   ]
-}
