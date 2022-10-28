@@ -45,10 +45,10 @@ router.get('/:id', async (req,res) => {
 
 router.post("", async(req, res) => {
 
-    const {name, brand, img, details, cost} = req.body;
+    const {name, brand, img, details, cost, type} = req.body;
     try {
         const productCreate = await Producto.create({
-            brand, name, cost, img, details
+            brand, name, cost, img, details, type
           });
         res.json(productCreate);
     } catch (error) {
