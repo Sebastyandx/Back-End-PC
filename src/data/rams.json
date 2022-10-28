@@ -1,5 +1,4 @@
-{
-  "ram": [
+[
     {
       "type": "ram",
       "name": "Kingston KVR26N19S6/4",
@@ -7,7 +6,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/94/89/9489707c4b77297ac0cdc268cf25e087.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "2666 MHz",
@@ -31,7 +30,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/f2/82/f282590398bc69682489475afc5bc5c2.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "2400 MHz",
@@ -55,7 +54,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/56/bb/56bbe75667dacd2d67a19e1df4f70245.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "2666 MHz",
@@ -79,7 +78,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/8f/bd/8fbdaf4f433d9550ed9f8764682f259a.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "3200 MHz",
@@ -103,7 +102,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/3a/aa/3aaa06bcb2acc163d34bc580a4bab314.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "2666 MHz",
@@ -127,7 +126,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/a1/17/a117db323218d79ce3acca5f660c111d.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "3000 MHz",
@@ -151,7 +150,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/a2/6e/a26e9585b5a58c04e068966d6660001f.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "2666 MHz",
@@ -175,7 +174,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/a2/6e/a26e9585b5a58c04e068966d6660001f.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "3200 MHz",
@@ -199,7 +198,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/67/86/678638f74458c704e3bd2df76d2c53cc.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "3200 MHz",
@@ -223,7 +222,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/57/cd/57cde1bc1b220f6b5695c9033e133371.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "2666 MHz",
@@ -247,7 +246,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/2b/21/2b2159d8419c963947efdae66f851b84.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "3200 MHz",
@@ -271,7 +270,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/c2/bb/c2bbf4f03d3adcd4563019f90b4225f2.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "3200 MHz",
@@ -295,7 +294,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/b0/43/b04373c7b5db6b2dd9c3ae3a57dd8abb.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR5",
         "format": "DIMM",
         "frequency": "4800 MHz",
@@ -319,7 +318,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/10/0e/100eef0371b8f645bed61276dc279e7c.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR5",
         "format": "DIMM",
         "frequency": "5200 MHz",
@@ -343,7 +342,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/10/0e/100eef0371b8f645bed61276dc279e7c.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR5",
         "format": "DIMM",
         "frequency": "6000 MHz",
@@ -367,7 +366,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/f9/54/f95407e7e3448ae6108f18c5da2c9211.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR5",
         "format": "DIMM",
         "frequency": "5600 MHz",
@@ -391,7 +390,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/10/0e/100eef0371b8f645bed61276dc279e7c.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR5",
         "format": "DIMM",
         "frequency": "5600 MHz",
@@ -415,7 +414,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/f9/54/f95407e7e3448ae6108f18c5da2c9211.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR5",
         "format": "DIMM",
         "frequency": "5600 MHz",
@@ -439,7 +438,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/85/d8/85d8752d8ec5cb59c8ed66d9596383cf.png"
       ],
-      "detail": {
+      "details": {
         "type": "DDR4",
         "format": "DIMM",
         "frequency": "3200 MHz",
@@ -457,4 +456,3 @@
       "cost": 28207
     }
   ]
-}

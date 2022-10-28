@@ -6,7 +6,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/f1/97/f197bc5632d204c0357fa2ce116bedaa.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "500 GB",
         "frequency": "5400rpm",
@@ -23,7 +23,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/8c/80/8c80c29e234270f423ffe3aa69b7803c.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "500 GB",
         "frequency": "5400rpm",
@@ -40,7 +40,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/20/50/20504b040af50cd87974b058d368b048.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "1 TB",
         "frequency": "5400rpm",
@@ -57,7 +57,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/9f/d0/9fd08e864e420d95bbfd7c0174eb0b4d.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "1 TB",
         "frequency": "7200rpm",
@@ -74,7 +74,7 @@
       "image": [
         "https://media.solotodo.com/media/cache/71/fb/71fb969811512166ffab6b314a24df53.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "1 TB",
         "frequency": "7200rpm",
@@ -91,7 +91,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/46/aa/46aa6d79c8e8e191e0d1549ab7316d66.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "1 TB",
         "frequency": "7200rpm",
@@ -108,7 +108,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/94/89/94894dbe44f79bfecae85e55545f5518.png"
       ],
-      "detail": {
+      "details": {
         "type": "SAS",
         "capacity": "300 GB",
         "frequency": "10000rpm",
@@ -125,7 +125,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/6c/79/6c7968b842ee8eb70ebfc218b12bcec0.png"
       ],
-      "detail": {
+      "details": {
         "type": "SAS",
         "capacity": "1200 GB",
         "frequency": "10000rpm",
@@ -142,7 +142,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/cf/97/cf97e06438baf13808924e77e5b0211b.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "450 GB",
         "frequency": "15000rpm",
@@ -159,7 +159,7 @@
       "img": [
         "https://media.solotodo.com/media/cache/45/56/4556b04fdd32ab60c4568d87f21fa417.png"
       ],
-      "detail": {
+      "details": {
         "type": "HDD",
         "capacity": "600 GB",
         "frequency": "15000rpm",

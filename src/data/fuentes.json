@@ -1,11 +1,10 @@
-{
-  "fuentes": [
+[
     {
       "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 500W Thermaltake TR2",
       "model": "TR2-500NL2NC",
-      "detail": {
+      "details": {
         "Watts": "500",
         "format": "ATX 12V V2.3",
         "color": "Black",
@@ -21,13 +20,12 @@
       ],
       "cost": 10151
     },
-
     {
       "type": "fuente",
       "brand": "Thermaltake",
       "name": "Fuente 600W Thermaltake TR2",
       "model": "TR2-600NL2NC",
-      "detail": {
+      "details": {
         "Watts": "600",
         "Format": "ATX 12V V2.3",
         "Color": "Black",
@@ -48,7 +46,7 @@
       "brand": "Thermaltake",
       "name": "Fuente 600W Thermaltake Smart RGB 80 PLUS",
       "model": "SPR-600AH2NK-1",
-      "detail": {
+      "details": {
         "Watts": "600",
         "Format": "ATX 12V V2.31",
         "Color": "Black",
@@ -70,7 +68,7 @@
       "brand": "Thermaltake",
       "name": "Fuente 700W Thermaltake Smart RGB 80 PLUS",
       "model": "SPR-700AH2NK-1",
-      "detail": {
+      "details": {
         "Watts": "700",
         "Format": "ATX 12V V2.31",
         "Color": "Black",
@@ -93,7 +91,7 @@
       "brand": "Thermaltake",
       "name": "Fuente 750W Thermaltake Smart BX1 80 PLUS Bronze",
       "model": "SPR-750AH3FSB-R",
-      "detail": {
+      "details": {
         "Watts": "750",
         "Format": "ATX 12V v2.3 and EPS v2.92",
         "Color": "Black",
@@ -117,7 +115,7 @@
       "brand": "Thermaltake",
       "name": "Fuente 650W Thermaltake Smart BX1 RGB 80 PLUS Bronze",
       "model": "SP-650AH2NKB",
-      "detail": {
+      "details": {
         "Watts": "650",
         "Format": "ATX 12V v2.4 and EPS v2.92",
         "Color": "Black",
@@ -141,7 +139,7 @@
       "brand": "Thermaltake",
       "name": "Fuente 850W Thermaltake Thoughpower GF1 80 PLUS Gold Modular",
       "model": "TTP-850AH3FCG",
-      "detail": {
+      "details": {
         "watts": "850",
         "Format": "ATX",
         "Color": "Black",
@@ -163,7 +161,7 @@
       "brand": "Thermaltake",
       "name": "Fuente 750W Thermaltake Thoughpower GF1 80 PLUS Gold Modular",
       "model": "TTP-750AH3FCG",
-      "detail": {
+      "details": {
         "Watts": "750",
         "Format": "ATX",
         "Color": "Black",
@@ -185,7 +183,7 @@
       "brand": "Asus",
       "name": "Fuente ASUS TUF 550W 80 Plus Bronze 550B",
       "model": "TUF-550B-GAMING",
-      "detail": {
+      "details": {
         "Watts": "550",
         "Format": "ATX",
         "Color": "Black",
@@ -207,7 +205,7 @@
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 750W 80 Plus Gold Full Modular 750G",
       "model": "RSSS04-750G1",
-      "detail": {
+      "details": {
         "Watts": "750",
         "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "100-240Vac"
@@ -226,7 +224,7 @@
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 650W 80 Plus Gold Full Modular 650G",
       "model": "ROG-STRIX-650G",
-      "detail": {
+      "details": {
         "Watts": "650",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
@@ -246,7 +244,7 @@
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 550W 80 Plus Gold Full Modular 550G",
       "model": "ROG-STRIX-550G",
-      "detail": {
+      "details": {
         "Watts": "550",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
@@ -267,7 +265,7 @@
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 1000W 80 Plus Gold Full Modular 1000G",
       "model": "ROG-STRIX-1000G",
-      "detail": {
+      "details": {
         "Watts": "1000",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
@@ -288,7 +286,7 @@
       "brand": "Asus",
       "name": "Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular White 850G",
       "model": "ROG-STRIX-850G-WHITE",
-      "detail": {
+      "details": {
         "Watts": "850",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
@@ -309,7 +307,7 @@
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 650W 80 Plus Bronze P650B",
       "model": "GP-P650B",
-      "detail": {
+      "details": {
         "Watts": "650",
         "Format": "Intel Form Factor ATX 12V v2.31",
         "Input Voltage": "100-240 Vac (full range)",
@@ -330,7 +328,7 @@
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 750W 80 Plus Gold Modular GP-P750GM",
       "model": "GP-P750GM",
-      "detail": {
+      "details": {
         "watts": "750",
         "Format": "Intel Form Factor ATX 12V v2.31",
         "Input Voltage": "100-240 Vac (full range)",
@@ -352,7 +350,7 @@
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 850W 80 Plus Gold P850GM Full Modular",
       "model": "GP-P850GM",
-      "detail": {
+      "details": {
         "Watts": "850",
         "Format": "Intel Form Factor ATX 12V v2.31",
         "Input Voltage": "100-240 Vac (full range)",
@@ -373,7 +371,7 @@
       "brand": "Gigabyte",
       "name": "Fuente Gigabyte 1000W 80 Plus P1000GM Gold Modular",
       "model": "GP-P1000GM",
-      "detail": {
+      "details": {
         "watts": "1000",
         "Format": "Intel Form Factor ATX 12V v2.31",
         "Input Voltage": "100-240 Vac (full range)",
@@ -389,4 +387,3 @@
       "cost": 35331
     }
   ]
-}
