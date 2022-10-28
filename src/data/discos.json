@@ -4,7 +4,7 @@
       "name": "Western Digital Blue 500 GB",
       "brand": "Western Digital",
       "img": [
-        "https://media.solotodo.com/media/cache/f1/97/f197bc5632d204c0357fa2ce116bedaa.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915076/RAM/f197bc5632d204c0357fa2ce116bedaa_zpdrbl.png"
       ],
       "details": {
         "type": "HDD",
@@ -21,7 +21,7 @@
       "name": "Seagate Barracuda Compute 500 GB",
       "brand": "Seagate",
       "img": [
-        "https://media.solotodo.com/media/cache/8c/80/8c80c29e234270f423ffe3aa69b7803c.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915083/RAM/8c80c29e234270f423ffe3aa69b7803c_wfmzoc.png"
       ],
       "details": {
         "type": "HDD",
@@ -38,7 +38,7 @@
       "name": "Western Digital Purple 1 TB",
       "brand": "Western Digital",
       "img": [
-        "https://media.solotodo.com/media/cache/20/50/20504b040af50cd87974b058d368b048.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915130/RAM/20504b040af50cd87974b058d368b048_rwim51.png"
       ],
       "details": {
         "type": "HDD",
@@ -55,7 +55,7 @@
       "name": "Toshiba P300 1 TB",
       "brand": "Toshiba",
       "img": [
-        "https://media.solotodo.com/media/cache/9f/d0/9fd08e864e420d95bbfd7c0174eb0b4d.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915132/RAM/9fd08e864e420d95bbfd7c0174eb0b4d_k88pwe.png"
       ],
       "details": {
         "type": "HDD",
@@ -72,7 +72,7 @@
       "name": "Western Digital Blue 1 TB",
       "brand": "Western Digital",
       "image": [
-        "https://media.solotodo.com/media/cache/71/fb/71fb969811512166ffab6b314a24df53.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915133/RAM/71fb969811512166ffab6b314a24df53_b4oaz2.png"
       ],
       "details": {
         "type": "HDD",
@@ -89,7 +89,7 @@
       "name": "Seagate Barracuda Compute 1 TB",
       "brand": "Seagate",
       "img": [
-        "https://media.solotodo.com/media/cache/46/aa/46aa6d79c8e8e191e0d1549ab7316d66.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915136/RAM/46aa6d79c8e8e191e0d1549ab7316d66_fn5ntt.png"
       ],
       "details": {
         "type": "HDD",
@@ -106,7 +106,7 @@
       "name": "Seagate Savvio 300 GB",
       "brand": "Seagate",
       "img": [
-        "https://media.solotodo.com/media/cache/94/89/94894dbe44f79bfecae85e55545f5518.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915137/RAM/94894dbe44f79bfecae85e55545f5518_vgxsjv.png"
       ],
       "details": {
         "type": "SAS",
@@ -123,7 +123,7 @@
       "name": "Lenovo 1200 GB",
       "brand": "Lenovo",
       "img": [
-        "https://media.solotodo.com/media/cache/6c/79/6c7968b842ee8eb70ebfc218b12bcec0.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915139/RAM/6c7968b842ee8eb70ebfc218b12bcec0_le7pfz.png"
       ],
       "details": {
         "type": "SAS",
@@ -140,7 +140,7 @@
       "name": "Seagate Cheetah 450 GB",
       "brand": "Seagate",
       "img": [
-        "https://media.solotodo.com/media/cache/cf/97/cf97e06438baf13808924e77e5b0211b.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915141/RAM/cf97e06438baf13808924e77e5b0211b_oqwvee.png"
       ],
       "details": {
         "type": "HDD",
@@ -157,7 +157,7 @@
       "name": "Dell 600 GB",
       "brand": "Dell",
       "img": [
-        "https://media.solotodo.com/media/cache/45/56/4556b04fdd32ab60c4568d87f21fa417.png"
+        "https://res.cloudinary.com/dglta8xrk/image/upload/v1666915142/RAM/4556b04fdd32ab60c4568d87f21fa417_j8z8cu.png"
       ],
       "details": {
         "type": "HDD",
