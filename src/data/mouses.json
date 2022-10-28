@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "type": "mouse",
     "name": "Razer Basilisk V3 Pro - White",
     "brand": "Razer",
     "img": [
@@ -31,6 +32,7 @@
   },
   {
     "id": 2,
+    "type": "mouse",
     "name": "Razer Basilisk V3 Pro - Black",
     "brand": "Razer",
     "img": [
@@ -61,6 +63,7 @@
   },
   {
     "id": 3,
+    "type": "mouse",
     "name": "Razer Orochi V2 - Quartz",
     "brand": "Razer",
     "img": [
@@ -87,6 +90,7 @@
   },
   {
     "id": 4,
+    "type": "mouse",
     "name": "Razer Orochi V2 - Black",
     "brand": "Razer",
     "img": [
@@ -112,6 +116,7 @@
   },
   {
     "id": 5,
+    "type": "mouse",
     "name": "Razer Orochi V2 - White",
     "brand": "Razer",
     "img": [
@@ -135,6 +140,7 @@
   },
   {
     "id": 6,
+    "type": "mouse",
     "name": "Razer DeathAdder V3 Pro - Black",
     "brand": "Razer",
     "img": [
@@ -164,6 +170,7 @@
   },
   {
     "id": 7,
+    "type": "mouse",
     "name": "Razer DeathAdder V3 Pro - White",
     "brand": "Razer",
     "img": [
@@ -192,6 +199,7 @@
   },
   {
     "id": 8,
+    "type": "mouse",
     "name": "Razer Viper V2 Pro - Black",
     "brand": "Razer",
     "img": [
@@ -218,6 +226,7 @@
   },
   {
     "id": 9,
+    "type": "mouse",
     "name": "Razer Viper V2 Pro - White",
     "brand": "Razer",
     "img": [
@@ -244,6 +253,7 @@
   },
   {
     "id": 10,
+    "type": "mouse",
     "name": "Razer Viper 8KHz - ESL Edition",
     "brand": "Razer",
     "img": [
@@ -268,6 +278,7 @@
   },
   {
     "id": 11,
+    "type": "mouse",
     "name": "Razer Viper 8KHz - Black",
     "brand": "Razer",
     "img": [
@@ -293,6 +304,7 @@
   },
   {
     "id": 12,
+    "type": "mouse",
     "name": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
     "brand": "Razer",
     "img": [
@@ -322,6 +334,7 @@
   },
   {
     "id": 13,
+    "type": "mouse",
     "name": "Razer DeathAdder V2 Pro - Black",
     "brand": "Razer",
     "img": [
@@ -352,6 +365,7 @@
   },
   {
     "id": 14,
+    "type": "mouse",
     "name": "Razer Pro Click Mini",
     "brand": "Razer",
     "img": [
@@ -374,6 +388,7 @@
   },
   {
     "id": 15,
+    "type": "mouse",
     "name": "Razer DeathAdder V2 X HyperSpeed",
     "brand": "Razer",
     "img": [
@@ -400,6 +415,7 @@
   },
   {
     "id": 16,
+    "type": "mouse",
     "name": "Razer DeathAdder V2 - Halo Infinite",
     "brand": "Razer",
     "img": [
@@ -426,6 +442,7 @@
   },
   {
     "id": 17,
+    "type": "mouse",
     "name": "Razer DeathAdder V2 - Special Edition",
     "brand": "Razer",
     "img": [
@@ -452,6 +469,7 @@
   },
   {
     "id": 18,
+    "type": "mouse",
     "name": "Razer DeathAdder V2 - Black",
     "brand": "Razer",
     "img": [
@@ -478,6 +496,7 @@
   },
   {
     "id": 19,
+    "type": "mouse",
     "name": "Razer DeathAdder Essential - Black",
     "brand": "Razer",
     "img": [
@@ -503,6 +522,7 @@
   },
   {
     "id": 20,
+    "type": "mouse",
     "name": "Razer DeathAdder Essential - White",
     "brand": "Razer",
     "img": [
@@ -528,6 +548,7 @@
   },
   {
     "id": 21,
+    "type": "mouse",
     "name": "Razer Basilisk V3",
     "brand": "Razer",
     "img": [
@@ -554,6 +575,7 @@
   },
   {
     "id": 22,
+    "type": "mouse",
     "name": "Razer Naga X",
     "brand": "Razer",
     "img": [
@@ -580,6 +602,7 @@
   },
   {
     "id": 23,
+    "type": "mouse",
     "name": "Razer Viper Ultimate with Charging Dock - Cyberpunk 2077 Edition",
     "brand": "Razer",
     "img": [
@@ -606,6 +629,7 @@
   },
   {
     "id": 24,
+    "type": "mouse",
     "name": "Razer Viper Ultimate with Charging Dock - Black",
     "brand": "Razer",
     "img": [
@@ -632,6 +656,7 @@
   },
   {
     "id": 25,
+    "type": "mouse",
     "name": "Razer Viper Ultimate with Charging Dock - Mercury",
     "brand": "Razer",
     "img": [
@@ -657,6 +682,7 @@
   },
   {
     "id": 26,
+    "type": "mouse",
     "name": "Razer Viper Ultimate with Charging Dock - Quartz",
     "brand": "Razer",
     "img": [
@@ -683,6 +709,7 @@
   },
   {
     "id": 27,
+    "type": "mouse",
     "name": "Razer Naga Pro",
     "brand": "Razer",
     "img": [
@@ -713,6 +740,7 @@
   },
   {
     "id": 28,
+    "type": "mouse",
     "name": "Razer Pro Click",
     "brand": "Razer",
     "img": [
@@ -739,6 +767,7 @@
   },
   {
     "id": 29,
+    "type": "mouse",
     "name": "Logitech G G203 Lightsync",
     "brand": "Logitech",
     "img": [
@@ -761,6 +790,7 @@
   },
   {
     "id": 30,
+    "type": "mouse",
     "name": "Logitech G G Pro",
     "brand": "Logitech",
     "img": [
@@ -783,6 +813,7 @@
   },
   {
     "id": 31,
+    "type": "mouse",
     "name": "Logitech G G305",
     "brand": "Logitech",
     "img": [
@@ -804,6 +835,7 @@
   },
   {
     "id": 32,
+    "type": "mouse",
     "name": "Teraware4gamer",
     "brand": "Teraware",
     "img": [
@@ -830,6 +862,7 @@
   },
   {
     "id": 33,
+    "type": "mouse",
     "name": "Teraware - Gray & Black",
     "brand": "Teraware",
     "img": [
