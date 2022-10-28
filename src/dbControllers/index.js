@@ -1,14 +1,10 @@
-const getProcesadoresData = require('./ProcesadorController');
-const createMotherBoard = require('./motherBoardController');
+const pcData = require('../data/pcData.json');
+const {Producto} = require('../db.js')
 
-const createAll = async () => {
-    try {
-        await getProcesadoresData();
-        await createMotherBoard();
-    } catch (error) {
-        console.log(error)
-    }
+function createAllProducts(){
+    Producto.bulkCreate(pcData)
+    .then(() => console.log('data created on db'))
+    .catch((error) => console.log(error))
 }
 
-
-module.exports = createAll
+module.exports = createAllProducts

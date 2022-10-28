@@ -4,6 +4,11 @@ const router = Router();
 
 router.get("", async (req, res) => {
     try {
+        const {name} = req.query
+        if(name) {
+            const findByName = await Producto.findOne({where: name})
+            res.status(200).json(findByName)
+        } 
         const filters = req.query
         if(filters) {
             const allProducts = await Producto.findAll()
@@ -31,7 +36,7 @@ router.get("", async (req, res) => {
 router.get('/:id', async (req,res) => {
     const {id} = req.params;
     try {
-        const detailProduct = await Producto.findByPk(id.toString())
+        const detailProduct = await Producto.findByPk(id)
         res.json(detailProduct)
     } catch (error) {
         res.json(error)
