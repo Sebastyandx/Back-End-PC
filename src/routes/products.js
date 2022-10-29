@@ -2,7 +2,7 @@ const {Router} = require('express')
 const {Producto} = require('../db')
 const router = Router();
 
-router.get("", async (req, res) => {
+router.get("/", async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
@@ -43,7 +43,7 @@ router.get('/:id', async (req,res) => {
     }
 })
 
-router.post("", async(req, res) => {
+router.post("/", async(req, res) => {
 
     const {name, brand, img, details, cost, type} = req.body;
     try {
@@ -56,7 +56,7 @@ router.post("", async(req, res) => {
     }
 })
 
-router.put("", async (req, res) => {
+router.put("/", async (req, res) => {
     
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
