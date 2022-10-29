@@ -1377,7 +1377,7 @@
         "https://m.media-amazon.com/images/I/91JXMnQ4rvL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/A1Tw69kZFSL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/91AGFNUsb2L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/91MvuVl9qeL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/91MvuVl9qeL._AC_SL1500_.jpg
       ],
       "details": {
         "generation": "Z590",
@@ -2676,7 +2676,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 41532
+      "cost": 34900
     },
     {
       "type": "ram",
@@ -2700,7 +2700,7 @@
         "RGB": false,
         "disipador": true
       },
-      "cost": 34900
+      "cost": 41532
     },
     {
       "type": "ram",
@@ -2724,7 +2724,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 19796
+      "cost": 39796
     },
     {
       "type": "ram",
@@ -2748,7 +2748,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 28207
+      "cost": 88207
     },
     { 
         "type":"solido",
@@ -7165,6 +7165,5 @@
       "weight": "112 g"
     },
     "cost": 2920
-  }  
-     
+  }
   ]
