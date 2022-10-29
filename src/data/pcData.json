@@ -1375,9 +1375,9 @@
       "cost": 101650,
       "img": [
         "https://m.media-amazon.com/images/I/91JXMnQ4rvL._AC_SL1500_.jpg",
-        "https://asset.msi.com/resize/image/global/product/product_1611307278fef6f2843796d8635e9e7698cb985c07.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
-        "https://asset.msi.com/resize/image/global/product/product_16113072806631d31737d391cfb6c7ac7bec94cca9.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
-        "https://asset.msi.com/resize/image/global/product/product_1611307276d0d8de4418c6586d59fe78bbed6391b7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+        "https://m.media-amazon.com/images/I/A1Tw69kZFSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91AGFNUsb2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91MvuVl9qeL._AC_SL1500_.jpg
       ],
       "details": {
         "generation": "Z590",
@@ -3710,7 +3710,7 @@
         },
         "img":[
             "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L1).png",
-            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L2).png",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L3).png",
             "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L5).png",
             "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L6).png"
         ]
