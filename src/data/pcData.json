@@ -7370,7 +7370,7 @@
       "audio": "7.1",
       "color": ["Negro"],
       "conexion": "Cableado",
-      "microfono": "si",
+      "microfono": "Si",
       "TipoDeAudio": "Virtual"
     },
     "cost": 24000
