@@ -1374,10 +1374,10 @@
       "name": "Mother MSI MEG Z590 ACE Socket 1200",
       "cost": 101650,
       "img": [
-        "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26735_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_c07b4910-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26737_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_53501d18-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26738_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_b6129d61-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26739_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_0723dda3-grn.jpg"
+        "https://m.media-amazon.com/images/I/91JXMnQ4rvL._AC_SL1500_.jpg",
+        "https://asset.msi.com/resize/image/global/product/product_1611307278fef6f2843796d8635e9e7698cb985c07.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16113072806631d31737d391cfb6c7ac7bec94cca9.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1611307276d0d8de4418c6586d59fe78bbed6391b7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
       ],
       "details": {
         "generation": "Z590",
@@ -2676,7 +2676,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 41532
+      "cost": 34900
     },
     {
       "type": "ram",
@@ -2700,7 +2700,7 @@
         "RGB": false,
         "disipador": true
       },
-      "cost": 34900
+      "cost": 41532
     },
     {
       "type": "ram",
@@ -2724,7 +2724,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 19796
+      "cost": 39796
     },
     {
       "type": "ram",
@@ -2748,7 +2748,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 28207
+      "cost": 88207
     },
     { 
         "type":"solido",
@@ -3709,8 +3709,8 @@
             "CantidadDeProcesos": "4608"
         },
         "img":[
-            "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/",
-            "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L1).png",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L2).png",
             "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L5).png",
             "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L6).png"
         ]
@@ -7165,6 +7165,5 @@
       "weight": "112 g"
     },
     "cost": 2920
-  }  
-     
+  }
   ]
