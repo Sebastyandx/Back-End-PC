@@ -1374,7 +1374,7 @@
       "name": "Mother MSI MEG Z590 ACE Socket 1200",
       "cost": 101650,
       "img": [
-        "https://asset.msi.com/resize/image/global/product/product_1612485952f4895dc8fb5379aa8f1a22ae859b621f.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://m.media-amazon.com/images/I/91JXMnQ4rvL._AC_SL1500_.jpg",
         "https://asset.msi.com/resize/image/global/product/product_1611307278fef6f2843796d8635e9e7698cb985c07.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
         "https://asset.msi.com/resize/image/global/product/product_16113072806631d31737d391cfb6c7ac7bec94cca9.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
         "https://asset.msi.com/resize/image/global/product/product_1611307276d0d8de4418c6586d59fe78bbed6391b7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
@@ -2676,7 +2676,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 41532
+      "cost": 34900
     },
     {
       "type": "ram",
@@ -2700,7 +2700,7 @@
         "RGB": false,
         "disipador": true
       },
-      "cost": 34900
+      "cost": 41532
     },
     {
       "type": "ram",
@@ -2724,7 +2724,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 19796
+      "cost": 39796
     },
     {
       "type": "ram",
@@ -2748,7 +2748,7 @@
         "RGB": true,
         "disipador": true
       },
-      "cost": 28207
+      "cost": 88207
     },
     { 
         "type":"solido",
@@ -7165,6 +7165,5 @@
       "weight": "112 g"
     },
     "cost": 2920
-  }  
-     
+  }
   ]
