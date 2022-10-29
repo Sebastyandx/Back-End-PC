@@ -7165,6 +7165,167 @@
       "weight": "112 g"
     },
     "cost": 2920
-  }  
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares HyperX Cloud Flight Black Wireless",
+    "brand": "HyperX",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30990_Auriculares_HyperX_Cloud_Flight_Black_Wireless_ee2bc8f7-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_23442_Auriculares_HyperX_Cloud_Flight_Black_Wireless_786eddda-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_23444_Auriculares_HyperX_Cloud_Flight_Black_Wireless_a1756347-grn.jpg"
+    ],
+    "details": {
+      "audio": "2.0",
+      "color": ["Negro"],
+      "conexion": "inalambrico",
+      "microfono": "si",
+      "TipoDeAudio": "Real"
+    },
+    "cost": 22000
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares HyperX Cloud Revolver 7.1 ",
+    "brand": "HyperX",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30992_Auriculares_HyperX_Cloud_Revolver_7.1_3dd11be0-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26731_Auriculares_HyperX_Cloud_Revolver_7.1_f5282881-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26733_Auriculares_HyperX_Cloud_Revolver_7.1_7422c6c7-grn.jpg"
+    ],
+    "details": {
+      "audio": "7.1",
+      "color": ["Negro"],
+      "conexion": "Cableado",
+      "microfono": "si",
+      "TipoDeAudio": "Virtual"
+    },
+    "cost": 18650
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares HP HyperX Cloud II Red PC | PS4 | Switch | XBOX",
+    "brand": "HyperX",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_11934_Auriculares_HP_HyperX_Cloud_II_Red_PC___PS4___Switch___XBOX_94ae061e-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_11935_Auriculares_HP_HyperX_Cloud_II_Red_PC___PS4___Switch___XBOX_bc7bbe29-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_11936_Auriculares_HP_HyperX_Cloud_II_Red_PC___PS4___Switch___XBOX_3cd99528-grn.jpg"
+    ],
+    "details": {
+      "audio": "7.1",
+      "color": ["Negro"],
+      "conexion": "Cableado",
+      "microfono": "si",
+      "TipoDeAudio": "Virtual"
+    },
+    "cost": 19100
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares Logitech H111 Single Jack ",
+    "brand": "Logitech",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_1172_Auriculares_Logitech_H111_Single_Jack_add9a544-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_1175_Auriculares_Logitech_H111_Single_Jack_02ec5e7a-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_1176_Auriculares_Logitech_H111_Single_Jack_c0316482-grn.jpg"
+    ],
+    "details": {
+      "audio": "2.0",
+      "color": ["Negro"],
+      "conexion": "Cableado",
+      "microfono": "si",
+      "TipoDeAudio": "Real"
+    },
+    "cost": 2330
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares Logitech H111 Single Jack ",
+    "brand": "Logitech",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_4421_Auriculares_Logitech_H151_PC_STEREO_daf4e845-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_4422_Auriculares_Logitech_H151_PC_STEREO_9c6cd19d-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_4423_Auriculares_Logitech_H151_PC_STEREO_48fdba9b-grn.jpg"
+    ],
+    "details": {
+      "audio": "2.0",
+      "color": ["Negro"],
+      "conexion": "Cableado",
+      "microfono": "si",
+      "TipoDeAudio": "Real"
+    },
+    "cost": 3360
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares Redragon Scylla H901 PC | PS4 | Switch | XBOX",
+    "brand": "Redragon",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8854_Auriculares_Redragon_Scylla_H901_PC___PS4___Switch___XBOX_d52354ae-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_8965_Auriculares_Redragon_Scylla_H901_PC___PS4___Switch___XBOX_93e81c1f-grn.jpg"
+    ],
+    "details": {
+      "audio": "2.0",
+      "color": ["Negro"],
+      "conexion": "Cableado",
+      "microfono": "si",
+      "TipoDeAudio": "Real"
+    },
+    "cost": 4500
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares HP HyperX Cloud Stinger Gaming Negro PC | PS4 | Switch | XBOX ",
+    "brand": "HyperX",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_9612_Auriculares_HP_HyperX_Cloud_Stinger_Gaming_Negro__PC___PS4___Switch___XBOX_27f1808e-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_9613_Auriculares_HP_HyperX_Cloud_Stinger_Gaming_Negro__PC___PS4___Switch___XBOX_c8b462ee-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_9616_Auriculares_HP_HyperX_Cloud_Stinger_Gaming_Negro__PC___PS4___Switch___XBOX_d07fdbd3-grn.jpg"
+    ],
+    "details": {
+      "audio": "2.0",
+      "color": ["Negro"],
+      "conexion": "Cableado",
+      "microfono": "si",
+      "TipoDeAudio": "Real"
+    },
+    "cost": 9920
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares Logitech G935 LightSync Inalambrico 7.1 RGB",
+    "brand": "Logitech",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_12907_Auriculares_Logitech_G935_LightSync_Inalambrico_7.1_RGB_2e7a0ba2-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_12908_Auriculares_Logitech_G935_LightSync_Inalambrico_7.1_RGB_eabeaec1-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_12910_Auriculares_Logitech_G935_LightSync_Inalambrico_7.1_RGB_8df70f8a-grn.jpg"
+    ],
+    "details": {
+      "audio": "7.1",
+      "color": ["Negro"],
+      "conexion": "inalambrico",
+      "microfono": "si",
+      "TipoDeAudio": "Virtual"
+    },
+    "cost": 31520
+  },
+  {
+    "type": "auricular",
+    "name": "Auriculares Logitech G635 LightSync 7.1",
+    "brand": "Logitech",
+    "img": [
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13681_Auriculares_Logitech_G635_LightSync_7.1_da750b51-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13682_Auriculares_Logitech_G635_LightSync_7.1_790f455d-grn.jpg",
+      "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13684_Auriculares_Logitech_G635_LightSync_7.1_7e1a3abc-grn.jpg"
+    ],
+    "details": {
+      "audio": "7.1",
+      "color": ["Negro"],
+      "conexion": "Cableado",
+      "microfono": "Si",
+      "TipoDeAudio": "Virtual"
+    },
+    "cost": 24000
+  } 
      
   ]
