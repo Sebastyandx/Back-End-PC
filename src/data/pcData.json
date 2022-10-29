@@ -1374,10 +1374,10 @@
       "name": "Mother MSI MEG Z590 ACE Socket 1200",
       "cost": 101650,
       "img": [
-        "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26735_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_c07b4910-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26737_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_53501d18-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26738_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_b6129d61-grn.jpg",
-            "https://compragamer.net/pga/imagenes_publicadas/compragamer_imganen_general_26739_Placa_de_Video_GeForce_MSI_G210_1GB_DDR3_Low_Profile_0723dda3-grn.jpg"
+        "https://m.media-amazon.com/images/I/91JXMnQ4rvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A1Tw69kZFSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91AGFNUsb2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91MvuVl9qeL._AC_SL1500_.jpg"
       ],
       "details": {
         "generation": "Z590",
@@ -3709,8 +3709,8 @@
             "CantidadDeProcesos": "4608"
         },
         "img":[
-            "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/",
-            "https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC/",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L1).png",
+            "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L3).png",
             "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L5).png",
             "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206800%20XT%20Phantom%20Gaming%20D%2016G%20OC(L6).png"
         ]
