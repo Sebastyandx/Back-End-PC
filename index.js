@@ -6,7 +6,7 @@ const createAllProducts = require('./src/dbControllers/index')
 
 async function main() {
   try {
-    conn.sync({ force: true }).then(async () => {
+    conn.sync({ force: false }).then(async () => {
       await createAllProducts();
       server.listen(process.env.PORT || 3001, async () => {
         console.log("%s listening at 3001"); // eslint-disable-line no-console

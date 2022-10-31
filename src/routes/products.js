@@ -45,13 +45,13 @@ router.get('/:id', async (req,res) => {
 
 router.post("/create", async(req, res) => {
 
-    const {name, brand, cost, type,} = req.body;
+    const {name, brand, cost, type, img} = req.body;
     
     try {
         if(!name || !brand || !cost || !type ) {
             return res.status(404).send("no se enviaron los requerimientos necesesarios")
         }
-        const productCreate = await Producto.create({name, brand, cost, type,});
+        const productCreate = await Producto.create({name, brand, cost, type, img});
         res.json(productCreate);
     } catch (error) {
         res.send(error)
