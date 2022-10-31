@@ -23,9 +23,11 @@ module.exports = (sequelize) => {
     },
     cost: {
       type: DataTypes.INTEGER,
+      allowNull: false,
     },
     type:{
-      type: DataTypes.ENUM(["mother","procesador","disco","ram","solido","tarjeta","mouse","pantalla","fuente","teclado","auricular","gabinete","cooler"])
+      type: DataTypes.ENUM(["mother","procesador","disco","ram","solido","tarjeta","mouse","pantalla","fuente","teclado","auricular","gabinete","cooler"]),
+      allowNull: false,
     }
   },{
     timestamps: false
