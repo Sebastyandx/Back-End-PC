@@ -1,5 +1,6 @@
 const {Router} = require('express')
 const {Producto} = require('../db')
+const userExtractor = require('../middlewares/userExtractor');
 const router = Router();
 
 router.get("", async (req, res) => {
@@ -43,7 +44,7 @@ router.get('/:id', async (req,res) => {
     }
 })
 
-router.post("/create", async(req, res) => {
+router.post("/create",userExtractor , async(req, res) => {
 
     const {name, brand, cost, type,} = req.body;
     
@@ -58,7 +59,7 @@ router.post("/create", async(req, res) => {
     }
 })
 
-router.put("", async (req, res) => {
+router.put("",userExtractor, async (req, res) => {
     
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
@@ -71,7 +72,7 @@ router.put("", async (req, res) => {
     }
 })
 
-router.delete("/:id", async (req, res) => {
+router.delete("/:id",userExtractor, async (req, res) => {
     const {id} = req.params
     try {
         const whatProduct = await Producto.findByPk(id)
