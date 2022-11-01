@@ -5,6 +5,7 @@ const { Router } = require("express");
 const allProducts = require('./products.js');
 const users = require('./users')
 const usersLogin = require('./login')
+const cart = require('./cart')
 const router = Router();
 
 // Configurar los routers
@@ -13,4 +14,5 @@ const router = Router();
 router.use("/productos", allProducts);
 router.use("/users/create", users)
 router.use("/users/login", usersLogin)
+router.use('/cart', cart)
 module.exports = router;
