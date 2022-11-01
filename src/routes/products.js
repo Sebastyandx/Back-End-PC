@@ -1,5 +1,7 @@
 const {Router} = require('express')
 const {Producto} = require('../db')
+const jwt = require('jsonwebtoken');
+const userExtractor = require('../middlewares/userExtractor')
 const router = Router();
 
 router.get("", async (req, res) => {
@@ -43,10 +45,11 @@ router.get('/:id', async (req,res) => {
     }
 })
 
-router.post("", async(req, res) => {
+router.post("", userExtractor, async(req, res) => {
 
-    const {name, brand, img, details, cost, type} = req.body;
     try {
+    const {name, brand, img, details, cost, type} = req.body;
+
         const productCreate = await Producto.create({
             brand, name, cost, img, details, type
           });
@@ -56,7 +59,7 @@ router.post("", async(req, res) => {
     }
 })
 
-router.put("", async (req, res) => {
+router.put("", userExtractor , async (req, res) => {
     
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
@@ -69,14 +72,14 @@ router.put("", async (req, res) => {
     }
 })
 
-router.delete("/:id", async (req, res) => {
+router.delete("/:id",userExtractor , async (req, res) => {
     const {id} = req.params
     try {
         const whatProduct = await Producto.findByPk(id)
         await Producto.destroy({where: id})
         res.json(`Producto ${whatProduct} eliminado`)
     } catch (error) {
-        res.send(error)
+        res.status(404).send(error)
     }
 })
 
