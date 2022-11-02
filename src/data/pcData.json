@@ -2351,12 +2351,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "4GB",
-        "latency": {
-          "Latencia Cl (CAS)": 19,
-          "Latencia Trcd": 19,
-          "Latencia Trp": 19,
-          "Latencia Tras": "no info"
-        },
+        "latency":19,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2375,12 +2370,7 @@
         "format": "DIMM",
         "frequency": "2400 MHz",
         "capacity": "4GB",
-        "latency": {
-          "Latencia Cl (CAS)": 15,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":15,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2399,12 +2389,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 19,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":19,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2423,12 +2408,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 22,
-          "Latencia Trcd": 22,
-          "Latencia Trp": 22,
-          "Latencia Tras": "no info"
-        },
+        "latency":22,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2447,12 +2427,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "4GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": true
@@ -2471,12 +2446,7 @@
         "format": "DIMM",
         "frequency": "3000 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": false,
         "disipador": true
@@ -2495,12 +2465,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": true
@@ -2519,12 +2484,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": false,
         "disipador": true
@@ -2543,12 +2503,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
@@ -2567,12 +2522,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.20 V",
         "RGB": true,
         "disipador": true
@@ -2591,12 +2541,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 18,
-          "Latencia Trcd": 22,
-          "Latencia Trp": 22,
-          "Latencia Tras": 42
-        },
+        "latency":18,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
@@ -2615,12 +2560,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
@@ -2639,12 +2579,7 @@
         "format": "DIMM",
         "frequency": "4800 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 39,
-          "Latencia Trp": 39,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.10 V",
         "RGB": false,
         "disipador": false
@@ -2663,12 +2598,7 @@
         "format": "DIMM",
         "frequency": "5200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": false,
         "disipador": true
@@ -2687,12 +2617,7 @@
         "format": "DIMM",
         "frequency": "6000 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.35 V",
         "RGB": false,
         "disipador": true
@@ -2711,12 +2636,7 @@
         "format": "DIMM",
         "frequency": "5600 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": true,
         "disipador": true
@@ -2735,12 +2655,7 @@
         "format": "DIMM",
         "frequency": "5600 MHz",
         "capacity": "16GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": false,
         "disipador": true
@@ -2759,12 +2674,7 @@
         "format": "DIMM",
         "frequency": "5600 MHz",
         "capacity": "16GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": true,
         "disipador": true
@@ -2783,12 +2693,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "32GB",
-        "latency": {
-          "Latencia Cl (CAS)": 18,
-          "Latencia Trcd": 22,
-          "Latencia Trp": 22,
-          "Latencia Tras": 42
-        },
+        "latency":18,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
