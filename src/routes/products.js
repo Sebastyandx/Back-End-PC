@@ -47,7 +47,7 @@ router.get('/:id', async (req,res) => {
 router.post("/create",userExtractor , async(req, res) => {
 
     const {name, brand, cost, type,} = req.body;
-    
+    console.log(req.body)
     try {
         if(!name || !brand || !cost || !type ) {
             return res.status(404).send("no se enviaron los requerimientos necesesarios")

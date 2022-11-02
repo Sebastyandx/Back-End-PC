@@ -8,11 +8,11 @@ const { User } = require('../db');
 router.post('/', async (req,res) => {
     
     try {
-        const { username, password } = req.body
+        const { username, pass } = req.body
         const user = await User.findOne({where: { userName: username }})
         const passwordCorrect = user === null 
         ? false 
-        : await bcrypt.compare(password, user.passwordHash)
+        : await bcrypt.compare(pass, user.passwordHash)
         
         if (!(user && passwordCorrect) ){
             res.status(401).json({error: 'invalid user or password'})
