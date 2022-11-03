@@ -26,6 +26,11 @@ router.post('/signup', async (req,res) => {
              address,
              city } = req.body;
 
+
+router.post('/signup', async (req,res) => {
+    try {
+        const { first_name, last_name, username, password, email, 
+            date_of_birth, phone_number, zip_code, address, city } = req.body;
             const saltRounds = 10
             const passwordHash = await bcrypt.hash(password, saltRounds)
         const userCreated = await User.create({ 
