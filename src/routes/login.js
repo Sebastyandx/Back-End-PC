@@ -1,8 +1,8 @@
-const jwt = require('jsonwebtoken')
-const bcrypt = require('bcrypt');
-const router = require('express').Router();
+const jwt = require("jsonwebtoken");
+const bcrypt = require("bcrypt");
+const router = require("express").Router();
 
-const { User } = require('../db');
+const { User } = require("../db");
 
 router.post('/find', async (req,res) => {
     const { token } = req.body
@@ -34,10 +34,10 @@ router.post('/', async (req,res) => {
             return res.status(401).json({error: 'invalid user or password'})
         }
 
-        const userToken = {
-            id: user.id,
-            username: user.username
-        }
+    const userToken = {
+      id: user.id,
+      username: user.username,
+    };
 
         const token = jwt.sign(userToken, process.env.SECRET, 
             { 
@@ -55,4 +55,5 @@ router.post('/', async (req,res) => {
     }
 })
 
-module.exports = router
+
+module.exports = router;
