@@ -2,7 +2,7 @@ const router = require('express').Router();
 const bcrypt = require('bcrypt');
 const { User } = require('../db.js');
 
-router.post('/', async (req,res) => {
+router.post('/signup', async (req,res) => {
     try {
         const { first_name, last_name, username, password, email, 
             date_of_birth, phone_number, zip_code, address, city } = req.body;
