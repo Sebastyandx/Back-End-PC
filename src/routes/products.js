@@ -2,8 +2,9 @@ const {Router} = require('express')
 const {Producto} = require('../db')
 const userExtractor = require('../middlewares/userExtractor');
 const router = Router();
+const {authAdmin} = require('../middlewares/authAdmin')
 
-router.get("", async (req, res) => {
+router.get("",authAdmin(["admin"]), async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
