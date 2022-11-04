@@ -29,8 +29,6 @@ router.get("/", async (req, res) => {
     } catch (error) {
         res.json(error)
     }
-
-    
 }); 
 
 router.get('/:id', async (req,res) => {

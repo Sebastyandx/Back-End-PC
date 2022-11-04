@@ -54,6 +54,5 @@ module.exports = (sequelize) => {
     picture:{
       type: DataTypes.TEXT,
     }
-
   });
 };

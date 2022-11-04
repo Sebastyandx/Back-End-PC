@@ -40,10 +40,10 @@ router.post("/signup", async (req, res) => {
     await userCreated.save();
     
     await infoTransporter(
-      "gonzalogaete110@gmail.com",
+      "gonzalogaete602@gmail.com",
       email,
-      "Registrado, con exito",
-      `<h2>Usuario Registrado</h2>`
+      "Bienvenido a GamerTech",
+      `<h2>Te haz registrado en GamerTech, Felicidades!</h2>`
     );
 
     res.status(200).json(userCreated);
