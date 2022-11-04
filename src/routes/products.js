@@ -3,7 +3,7 @@ const {Producto} = require('../db')
 const router = Router();
 const {authAdmin} = require('../middlewares/authAdmin')
 
-router.get("", async (req, res) => {
+router.get("/", async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
@@ -59,23 +59,20 @@ router.post("/create",authAdmin(["admin"]), async(req, res) => {
     }
 })
 
-
-// middleware userExtractor
-router.put("", async (req, res) => {
-    
+router.put("",authAdmin(["admin"]), async (req, res) => {
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
     try {
         const productSelected = await Producto.findByPk(id)
         await productSelected.update({name, brand, img, details, cost, type})
-        res.status(200).json(`${productSelected} actualiizado`)
+        res.status(200).send(`Producto Actualizado`)
     } catch (error) {
         res.status(400).json(error)
     }
 })
 
 // middleware userExtractor
-router.delete("/:id", async (req, res) => {
+router.delete("/:id",authAdmin(["admin"]), async (req, res) => {
     const {id} = req.params
     try {
         const whatProduct = await Producto.findByPk(id)
