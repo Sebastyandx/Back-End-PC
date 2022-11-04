@@ -429,7 +429,7 @@
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917619/pc/mothers/compragamer_Imganen_general_14395_Mother_ASUS_TUF_X570-PLUS_GAMING_WiFi_AM4_PCIe_4.0_Dual_M.2_9c053d34-grn_epxznq.jpg",
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666917647/pc/mothers/compragamer_Imganen_general_14396_Mother_ASUS_TUF_X570-PLUS_GAMING_WiFi_AM4_PCIe_4.0_Dual_M.2_9e353fa2-grn_wedio9.jpg"
       ],
-      "detials": {
+      "details": {
         "generation": "X570-PLUS",
         "connectivity": {
           "Cantidad De Slot Pci-e 16X": 2,
@@ -662,7 +662,7 @@
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918101/pc/mothers/compragamer_Imganen_general_20377_Mother_Asrock_B550_Phantom_Gaming_ITX_AX_371249be-grn_w8gyov.jpg",
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918126/pc/mothers/compragamer_Imganen_general_20380_Mother_Asrock_B550_Phantom_Gaming_ITX_AX_fc8d414e-grn_yha9o0.jpg"
       ],
-      "detials": {
+      "details": {
         "generation": "B550",
         "connectivity": {
           "Cantidad De Slot Pci-e 16X": 1,
@@ -836,7 +836,7 @@
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918499/pc/mothers/compragamer_Imganen_general_20657_Mother_Asrock_B550M_Steel_Legend_AM4_a6f61f88-grn_ybzoel.jpg",
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666918519/pc/mothers/compragamer_Imganen_general_20660_Mother_Asrock_B550M_Steel_Legend_AM4_c1326b50-grn_beztwq.jpg"
       ],
-      "detials": {
+      "details": {
         "generation": "B550M",
         "connectivity": {
           "Cantidad De Slot Pci-e 16X": 2,
@@ -2351,12 +2351,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "4GB",
-        "latency": {
-          "Latencia Cl (CAS)": 19,
-          "Latencia Trcd": 19,
-          "Latencia Trp": 19,
-          "Latencia Tras": "no info"
-        },
+        "latency":19,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2375,12 +2370,7 @@
         "format": "DIMM",
         "frequency": "2400 MHz",
         "capacity": "4GB",
-        "latency": {
-          "Latencia Cl (CAS)": 15,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":15,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2399,12 +2389,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 19,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":19,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2423,12 +2408,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 22,
-          "Latencia Trcd": 22,
-          "Latencia Trp": 22,
-          "Latencia Tras": "no info"
-        },
+        "latency":22,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": false
@@ -2447,12 +2427,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "4GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": true
@@ -2471,12 +2446,7 @@
         "format": "DIMM",
         "frequency": "3000 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": false,
         "disipador": true
@@ -2495,12 +2465,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.20 V",
         "RGB": false,
         "disipador": true
@@ -2519,12 +2484,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": false,
         "disipador": true
@@ -2543,12 +2503,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
@@ -2567,12 +2522,7 @@
         "format": "DIMM",
         "frequency": "2666 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": 18,
-          "Latencia Trp": 18,
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.20 V",
         "RGB": true,
         "disipador": true
@@ -2591,12 +2541,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 18,
-          "Latencia Trcd": 22,
-          "Latencia Trp": 22,
-          "Latencia Tras": 42
-        },
+        "latency":18,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
@@ -2615,12 +2560,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 16,
-          "Latencia Trcd": "no info",
-          "Latencia Trp": "no info",
-          "Latencia Tras": "no info"
-        },
+        "latency":16,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
@@ -2639,12 +2579,7 @@
         "format": "DIMM",
         "frequency": "4800 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 39,
-          "Latencia Trp": 39,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.10 V",
         "RGB": false,
         "disipador": false
@@ -2663,12 +2598,7 @@
         "format": "DIMM",
         "frequency": "5200 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": false,
         "disipador": true
@@ -2687,12 +2617,7 @@
         "format": "DIMM",
         "frequency": "6000 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.35 V",
         "RGB": false,
         "disipador": true
@@ -2711,12 +2636,7 @@
         "format": "DIMM",
         "frequency": "5600 MHz",
         "capacity": "8GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": true,
         "disipador": true
@@ -2735,12 +2655,7 @@
         "format": "DIMM",
         "frequency": "5600 MHz",
         "capacity": "16GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": false,
         "disipador": true
@@ -2759,12 +2674,7 @@
         "format": "DIMM",
         "frequency": "5600 MHz",
         "capacity": "16GB",
-        "latency": {
-          "Latencia Cl (CAS)": 40,
-          "Latencia Trcd": 40,
-          "Latencia Trp": 40,
-          "Latencia Tras": "no info"
-        },
+        "latency":40,
         "voltage": "1.25 V",
         "RGB": true,
         "disipador": true
@@ -2783,12 +2693,7 @@
         "format": "DIMM",
         "frequency": "3200 MHz",
         "capacity": "32GB",
-        "latency": {
-          "Latencia Cl (CAS)": 18,
-          "Latencia Trcd": 22,
-          "Latencia Trp": 22,
-          "Latencia Tras": 42
-        },
+        "latency":18,
         "voltage": "1.35 V",
         "RGB": true,
         "disipador": true
@@ -4172,11 +4077,13 @@
       "model": "TR2-500NL2NC",
       "details": {
         "Watts": "500",
-        "format": "ATX 12V V2.3",
-        "color": "Black",
-        "operating temperature": "5°C to 40°C",
-        "input voltage": "230 Vac",
-        "cooling systems": "120mm Fan: 1800 R.P.M. ± 10%"
+        "Format": "ATX 12V V2.3",
+        "Color": "Black",
+        "Operating Temperature": "5°C to 40°C",
+        "Dimensions": "150 x 150 x 86 mm",
+        "Input Voltage": "230 Vac",
+        "Cooling system": "120mm Fan: 1800 R.P.M. ± 10%",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/db/imgs/pdt/angle/PS-TRS-0500NPCW-2_fae7762aa3ea48dfbae5f512b29ddc9e.jpg",
@@ -4196,8 +4103,10 @@
         "Format": "ATX 12V V2.3",
         "Color": "Black",
         "Operating Temperature": "5℃ to +40℃",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "230 Vac",
-        "Cooling system": "120mm Fan: 1800 R.P.M. ± 10%"
+        "Cooling system": "120mm Fan: 1800 R.P.M. ± 10%",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/db/imgs/pdt/angle/PS-TRS-0600NPCW-2_670c81aa2f554321838d65712db5fce3.jpg",
@@ -4217,6 +4126,7 @@
         "Format": "ATX 12V V2.31",
         "Color": "Black",
         "Operating Temperature": "5℃ to +40℃",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "230 Vac",
         "Cooling system": "120mm Fan: 1800 R.P.M. ± 10%",
         "RGB Fan": "Yes"
@@ -4239,6 +4149,7 @@
         "Format": "ATX 12V V2.31",
         "Color": "Black",
         "Operating Temperature": "5℃ to +40℃",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "100Vac - 240Vac",
         "Cooling system": "120mm Fan: 1800 R.P.M. ± 10%",
         "RGB Fan": "Yes"
@@ -4262,6 +4173,7 @@
         "Format": "ATX 12V v2.3 and EPS v2.92",
         "Color": "Black",
         "Operating Temperature": "5℃ to +40℃",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "100V to 240V~",
         "Cooling system": "12cm Hydraulic bearing fan",
         "RGB Fan": "No"
@@ -4286,6 +4198,7 @@
         "Format": "ATX 12V v2.4 and EPS v2.92",
         "Color": "Black",
         "Operating Temperature": "5℃ to +40℃",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "100V – 240V~",
         "Cooling system": "12cm Fan Hub",
         "RGB Fan": "Yes"
@@ -4306,12 +4219,14 @@
       "name": "Fuente 850W Thermaltake Thoughpower GF1 80 PLUS Gold Modular",
       "model": "TTP-850AH3FCG",
       "details": {
-        "watts": "850",
+        "Watts": "850",
         "Format": "ATX",
         "Color": "Black",
         "Operating Temperature": "0°C to + 50°C",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "100V – 240V~",
-        "Cooling system": "14cm hydraulic bearing fan"
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/g/f/gf850.jpg",
@@ -4332,8 +4247,10 @@
         "Format": "ATX",
         "Color": "Black",
         "Operating Temperature": "0°C to + 50°C",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "100V – 240V~",
-        "Cooling system": "14cm hydraulic bearing fan"
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/g/f/gf750.jpg",
@@ -4354,8 +4271,10 @@
         "Format": "ATX",
         "Color": "Black",
         "Operating Temperature": "0°C to + 50°C",
+        "Dimensions": "150 x 150 x 86 mm",
         "Input Voltage": "100V – 240V~",
-        "Cooling system": "14cm hydraulic bearing fan"
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://dlcdnwebimgs.asus.com/gain/46618305-E919-4A31-AEB0-32D691D26F16/w1000/h732",
@@ -4374,8 +4293,13 @@
       "model": "RSSS04-750G1",
       "details": {
         "Watts": "750",
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
         "Dimensions": "150 x 150 x 86 mm",
-        "Input Voltage": "100-240Vac"
+        "Input Voltage": "100-240Vac",
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://dlcdnwebimgs.asus.com/gain/14422411-D938-4125-A9EC-EA950F4BEB2E/w1000/h732",
@@ -4394,9 +4318,13 @@
       "model": "ROG-STRIX-650G",
       "details": {
         "Watts": "650",
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
-        "Thermal Features": "ROG Thermal Solution"
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://dlcdnwebimgs.asus.com/gain/336AB0B1-D0F6-4438-B245-F523F80D99E5/w1000/h732",
@@ -4415,9 +4343,13 @@
       "model": "ROG-STRIX-550G",
       "details": {
         "Watts": "550",
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
-        "Thermal Features": "ROG Thermal Solution"
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://dlcdnwebimgs.asus.com/gain/46618305-E919-4A31-AEB0-32D691D26F16/w1000/h732",
@@ -4436,9 +4368,13 @@
       "model": "ROG-STRIX-1000G",
       "details": {
         "Watts": "1000",
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
-        "Thermal Features": "ROG Thermal Solution"
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://dlcdnwebimgs.asus.com/gain/0CB64E96-7BAF-446C-893E-E96BBF09A133/w1000/h732",
@@ -4457,9 +4393,13 @@
       "model": "ROG-STRIX-850G-WHITE",
       "details": {
         "Watts": "850",
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
         "Dimensions": "16 x 15 x 8.6 Centimeter",
         "Input Voltage": "100-240Vac",
-        "Thermal Features": "ROG Thermal Solution"
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://dlcdnwebimgs.asus.com/gain/ECB79DEC-A4F3-4F96-9411-6D2690B8E573/w1000/h732",
@@ -4478,10 +4418,13 @@
       "model": "GP-P650B",
       "details": {
         "Watts": "650",
-        "Format": "Intel Form Factor ATX 12V v2.31",
-        "Input Voltage": "100-240 Vac (full range)",
-        "Dimensions": "D150 x W140 x H86 mm",
-        "Cooling system": "120mm Hydraulic Bearing Fan"
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
+        "Dimensions": "16 x 15 x 8.6 Centimeter",
+        "Input Voltage": "100-240Vac",
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://static.gigabyte.com/StaticFile/Image/Global/660dc290352695ddc9c789911044d7e9/Product/18272/png/1000",
@@ -4498,11 +4441,14 @@
       "name": "Fuente Gigabyte 750W 80 Plus Gold Modular GP-P750GM",
       "model": "GP-P750GM",
       "details": {
-        "watts": "750",
-        "Format": "Intel Form Factor ATX 12V v2.31",
-        "Input Voltage": "100-240 Vac (full range)",
-        "Dimensions": "150 x 140 x 86 mm",
-        "Cooling system": "120mm Hydraulic Bearing ( HYB ) fan"
+        "Watts": "750",
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
+        "Dimensions": "16 x 15 x 8.6 Centimeter",
+        "Input Voltage": "100-240Vac",
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://www.gigabyte.com/FileUpload/Global/WebPage/689/img/1.png",
@@ -4521,10 +4467,13 @@
       "model": "GP-P850GM",
       "details": {
         "Watts": "850",
-        "Format": "Intel Form Factor ATX 12V v2.31",
-        "Input Voltage": "100-240 Vac (full range)",
-        "Dimensions": "150 x 140 x 86 mm",
-        "Cooling system": "120mm Hydraulic Bearing ( HYB ) fan"
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
+        "Dimensions": "16 x 15 x 8.6 Centimeter",
+        "Input Voltage": "100-240Vac",
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://www.gigabyte.com/FileUpload/Global/WebPage/631/img/1.png",
@@ -4542,11 +4491,14 @@
       "name": "Fuente Gigabyte 1000W 80 Plus P1000GM Gold Modular",
       "model": "GP-P1000GM",
       "details": {
-        "watts": "1000",
-        "Format": "Intel Form Factor ATX 12V v2.31",
-        "Input Voltage": "100-240 Vac (full range)",
-        "Dimensions": "150 x 140 x 86 mm",
-        "Cooling system": "120mm Hydraulic Bearing ( HYB ) fan"
+        "Watts": "1000",
+        "Format": "ATX",
+        "Color": "Black",
+        "Operating Temperature": "0°C to + 50°C",
+        "Dimensions": "16 x 15 x 8.6 Centimeter",
+        "Input Voltage": "100-240Vac",
+        "Cooling system": "14cm hydraulic bearing fan",
+        "RGB Fan": "Yes"
       },
       "img": [
         "https://www.gigabyte.com/FileUpload/Global/WebPage/727/img/1.png",
@@ -8848,11 +8800,11 @@
         "sensitivity": 30000,
         "buttons": 11,
         "clicks": "90-million",
-        "sizes": [
-          "Length: 130 mm / 5.11 in",
-          "Width: 75.4 mm / 2.96 in",
-          "Height: 42.5 mm / 1.67 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "112 g / 3.95 oz (Excluding cable)"
       },
       "cost": 17520
@@ -8878,11 +8830,11 @@
         "sensitivity": 30000,
         "buttons": 11,
         "clicks": "90-million",
-        "sizes": [
-          "Length: 130 mm / 5.11 in",
-          "Width: 75.4 mm / 2.96 in",
-          "Height: 42.5 mm / 1.67 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "112 g / 3.95 oz (Excluding cable)"
       },
       "cost": 17520
@@ -8904,11 +8856,11 @@
         "sensitivity": 18000,
         "buttons": 6,
         "clicks": "60-million",
-        "sizes": [
-          "Length: 108.0 mm / 4.25 in",
-          "Width: 62.6 mm / 2.46 in",
-          "Height: 38.5 mm / 1.50 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "< 60 g / < 2.2 oz (Mass centralized)"
       },
       "cost": 4200
@@ -8929,11 +8881,11 @@
         "sensitivity": 18000,
         "buttons": 6,
         "clicks": "60-million",
-        "sizes": [
-          "Length: 108.0 mm / 4.25 in",
-          "Width: 62.6 mm / 2.46 in",
-          "Height: 38.5 mm / 1.50 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "< 60 g / < 2.2 oz (Mass centralized)"
       },
       "cost": 4200
@@ -8952,11 +8904,11 @@
         "sensitivity": 18000,
         "buttons": 6,
         "clicks": "60-million",
-        "sizes": [
-          "Length: 108.0 mm / 4.25 in",
-          "Width: 62.6 mm / 2.46 in",
-          "Height: 38.5 mm / 1.50 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "< 60 g / < 2.2 oz (Mass centralized)"
       },
       "cost": 4200
@@ -8981,11 +8933,11 @@
         "sensitivity": 30000,
         "buttons": 5,
         "clicks": "90-million",
-        "sizes": [
-          "Length: 128.0 mm / 5.00 in",
-          "Width: 68.0 mm / 2.67 in",
-          "Height: 44.0 mm / 1.73 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "63 g"
       },
       "cost": 43800
@@ -9009,11 +8961,11 @@
         "sensitivity": 30000,
         "buttons": 5,
         "clicks": "90-million",
-        "sizes": [
-          "Length: 128.0 mm / 5.00 in",
-          "Width: 68.0 mm / 2.67 in",
-          "Height: 44.0 mm / 1.73 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "63 g"
       },
       "cost": 43800
@@ -9035,11 +8987,11 @@
         "sensitivity": 30000,
         "buttons": 5,
         "clicks": "90-million",
-        "sizes": [
-          "Length: 126.5 mm / 4.98 in",
-          "Width: 66.2 mm / 2.61 in",
-          "Height: 37.8 mm / 1.49 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "58 g"
       },
       "cost": 43800
@@ -9061,11 +9013,11 @@
         "sensitivity": 30000,
         "buttons": 5,
         "clicks": "90-million",
-        "sizes": [
-          "Length: 126.5 mm / 4.98 in",
-          "Width: 66.2 mm / 2.61 in",
-          "Height: 37.8 mm / 1.49 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "58 g"
       },
       "cost": 43800
@@ -9085,11 +9037,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 126.7 mm / 4.66 in",
-          "Width: 66.5 mm / 2.62 in",
-          "Height: 37.8 mm / 1.49 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "71 g / 2.5 oz (Excluding cable)"
       },
       "cost": 29200
@@ -9110,11 +9062,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 126.7 mm / 4.66 in",
-          "Width: 66.5 mm / 2.62 in",
-          "Height: 37.8 mm / 1.49 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "71 g / 2.5 oz (Excluding cable)"
       },
       "cost": 23360
@@ -9139,11 +9091,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 72.6 mm / 2.86 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "88 g / 0.194 lbs (Excluding dongle)"
       },
       "cost": 40880
@@ -9169,11 +9121,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 72.6 mm / 2.86 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "88 g / 0.194 lbs (Excluding dongle)"
       },
       "cost": 37960
@@ -9195,7 +9147,11 @@
         "sensitivity": 12000,
         "buttons": 7,
         "clicks": "15-million",
-        "sizes": ["Length: 100.2 mm", "Width:  62.7 mm", "Height: 34.2 mm"],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "111g with 2x Alkaline AA batteries"
       },
       "cost": 23360
@@ -9217,11 +9173,11 @@
         "sensitivity": 14000,
         "buttons": 7,
         "clicks": "60-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 70.1 mm / 2.76 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "86 - 103 g / 3.03 – 3.63 oz"
       },
       "cost": 17520
@@ -9243,11 +9199,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 72.7 mm / 2.86 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "82 g / 0.18 lbs"
       },
       "cost": 20440
@@ -9269,11 +9225,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 72.7 mm / 2.86 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "82 g / 0.18 lbs"
       },
       "cost": 20440
@@ -9295,11 +9251,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 72.7 mm / 2.86 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "82 g / 0.18 lbs"
       },
       "cost": 20440
@@ -9320,11 +9276,11 @@
         "sensitivity": 6400,
         "buttons": 5,
         "clicks": "10-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 61.7 mm / 2.43 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "96 g / 0.211 lbs"
       },
       "cost": 8760
@@ -9345,11 +9301,11 @@
         "sensitivity": 6400,
         "buttons": 5,
         "clicks": "10-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 61.7 mm / 2.43 in",
-          "Height: 42.7 mm / 1.68 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "96 g / 0.211 lbs"
       },
       "cost": 8760
@@ -9371,11 +9327,11 @@
         "sensitivity": 26000,
         "buttons": 11,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 130 mm / 5.11 in",
-          "Width: 75.4 mm / 2.96 in",
-          "Height: 42.5 mm / 1.67 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "101 g / 3.56 oz (Excluding cable)"
       },
       "cost": 8760
@@ -9397,11 +9353,11 @@
         "sensitivity": 18000,
         "buttons": 16,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 119.0 mm / 4.69 in",
-          "Width: 74.6 mm / 2.94 in",
-          "Height: 43.0 mm / 1.69 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "85 g / 3 oz (Excluding cable)"
       },
       "cost": 23360
@@ -9423,11 +9379,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 66.0 mm / 2.60 in",
-          "Height: 38.0 mm / 1.50 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "74 g / 0.16 lbs"
       },
       "cost": 46720
@@ -9449,11 +9405,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 66.0 mm / 2.60 in",
-          "Height: 38.0 mm / 1.50 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "74 g / 0.16 lbs"
       },
       "cost": 43800
@@ -9474,11 +9430,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 66.0 mm / 2.60 in",
-          "Height: 38.0 mm / 1.50 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "74 g / 0.16 lbs"
       },
       "cost": 43800
@@ -9500,11 +9456,11 @@
         "sensitivity": 20000,
         "buttons": 8,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 127.0 mm / 5.00 in",
-          "Width: 66.0 mm / 2.60 in",
-          "Height: 38.0 mm / 1.50 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "74 g / 0.16 lbs"
       },
       "cost": 43800
@@ -9530,11 +9486,11 @@
         "sensitivity": 20000,
         "buttons": "10 / 14 / 20",
         "clicks": "70-million",
-        "sizes": [
-          "Length: 119.0 mm / 4.69 in",
-          "Width: 75.4 mm / 2.96 in",
-          "Height: 42.5 mm / 1.67 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "117 g / 0.257 lbs (Excluding dongle)"
       },
       "cost": 43800
@@ -9556,11 +9512,11 @@
         "sensitivity": 16000,
         "buttons": 8,
         "clicks": "50-million",
-        "sizes": [
-          "Length: 130 mm / 5.11 in",
-          "Width: 75.4 mm / 2.96 in",
-          "Height: 42.5 mm / 1.67 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "106 g / 0.23 lbs"
       },
       "cost": 29200
@@ -9582,7 +9538,11 @@
         "sensitivity": 8000,
         "buttons": 6,
         "clicks": "60-million",
-        "sizes": ["Length: 11.66 cm", "Width: 6.21 cm", "Height: 3.82 cm"],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "85 g"
       },
       "cost": 9344
@@ -9604,7 +9564,11 @@
         "sensitivity": 16000,
         "buttons": 6,
         "clicks": "70-million",
-        "sizes": ["Length: 11.6 cm", "Width: 6.21 cm", "Height: 3.82 cm"],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "90 g / 3.95 oz (Excluding cable)"
       },
       "cost": 14600
@@ -9625,7 +9589,11 @@
         "sensitivity": 12000,
         "buttons": 6,
         "clicks": "50-million",
-        "sizes": ["Length: 16 cm", "Width: 11 cm", "Height: 5 cm"],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "100g"
       },
       "cost": 14600
@@ -9647,11 +9615,11 @@
         "sensitivity": 4900,
         "buttons": 6,
         "clicks": "70-million",
-        "sizes": [
-          "Length: 130 mm / 5.11 in",
-          "Width: 75.4 mm / 2.96 in",
-          "Height: 42.5 mm / 1.67 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "112 g"
       },
       "cost": 4380
@@ -9673,11 +9641,11 @@
         "sensitivity": 4900,
         "buttons": 6,
         "clicks": "50-million",
-        "sizes": [
-          "Length: 130 mm / 5.11 in",
-          "Width: 75.4 mm / 2.96 in",
-          "Height: 42.5 mm / 1.67 in"
-        ],
+        "sizes": {
+          "longitud": "130 mm / 5.11 in",
+          "ancho": "75.4 mm / 2.96 in",
+          "altura": "42.5 mm / 1.67 in"
+        },
         "weight": "112 g"
       },
       "cost": 2920

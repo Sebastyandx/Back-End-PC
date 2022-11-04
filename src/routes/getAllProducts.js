@@ -2,7 +2,8 @@ const { Router } = require("express");
 const { getAllProducts } = require("./Controllers/GetAllProductsController");
 const router = Router();
 
-router.get("/", async (req, res) => {
+
+router.get("/", authAdmin(["admin"]), async (req, res) => {
   const { name } = req.body;
   try {
     if (name) {
@@ -14,5 +15,7 @@ router.get("/", async (req, res) => {
     res.send(error);
   }
 });
+
+
 
 module.exports = router;

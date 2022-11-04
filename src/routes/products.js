@@ -1,8 +1,9 @@
 const {Router} = require('express')
 const {Producto} = require('../db')
 const router = Router();
+const {authAdmin} = require('../middlewares/authAdmin')
 
-router.get("", async (req, res) => {
+router.get("/", async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
@@ -43,33 +44,36 @@ router.get('/:id', async (req,res) => {
     }
 })
 
-router.post("", async(req, res) => {
+router.post("/create",authAdmin(["admin"]), async(req, res) => {
 
-    const {name, brand, img, details, cost, type} = req.body;
+    const {name, brand, cost, type, img, details} = req.body;
+    console.log(req.body)
     try {
-        const productCreate = await Producto.create({
-            brand, name, cost, img, details, type
-          });
+        if(!name || !brand || !cost || !type ) {
+            return res.status(404).send("no se enviaron los requerimientos necesesarios")
+        }
+        const productCreate = await Producto.create({name, brand, cost, type, img, details});
         res.json(productCreate);
     } catch (error) {
         res.send(error)
     }
 })
 
-router.put("", async (req, res) => {
-    
+
+router.put("",authAdmin(["admin"]), async (req, res) => {
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
     try {
         const productSelected = await Producto.findByPk(id)
         await productSelected.update({name, brand, img, details, cost, type})
-        res.status(200).json(`${productSelected} actualiizado`)
+        res.status(200).send(`Producto Actualizado`)
     } catch (error) {
         res.status(400).json(error)
     }
 })
 
-router.delete("/:id", async (req, res) => {
+
+router.delete("/:id",authAdmin(["admin"]), async (req, res) => {
     const {id} = req.params
     try {
         const whatProduct = await Producto.findByPk(id)
