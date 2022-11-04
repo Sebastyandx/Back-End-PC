@@ -1,10 +1,9 @@
 const {Router} = require('express')
 const {Producto} = require('../db')
-const userExtractor = require('../middlewares/userExtractor');
 const router = Router();
 const {authAdmin} = require('../middlewares/authAdmin')
 
-router.get("",authAdmin(["admin"]), async (req, res) => {
+router.get("", async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
@@ -45,7 +44,7 @@ router.get('/:id', async (req,res) => {
     }
 })
 
-router.post("/create", async(req, res) => {
+router.post("/create",authAdmin(["admin"]), async(req, res) => {
 
     const {name, brand, cost, type, img, details} = req.body;
     console.log(req.body)

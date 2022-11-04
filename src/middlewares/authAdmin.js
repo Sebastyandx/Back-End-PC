@@ -1,10 +1,10 @@
 const jwt = require('jsonwebtoken');
-
+const { User } = require('../db')
 const authAdmin = (permissions) => {
     try {
-    return (req,res,next) => {
+    return async (req,res,next) => {
             const authorization = req.get('authorization')
-    // console.log(authorization)
+    if(!authorization) {return res.status(400).send("Not looged")}
     if(authorization && authorization.toLowerCase().startsWith('bearer')){
         token = authorization.substring(7)
     }
@@ -14,10 +14,12 @@ const authAdmin = (permissions) => {
     if(!token || !decodedToken.id){
         return res.status(401).json({ error: 'token missing or invalid'})
     }
-    const {id: userId, role} = decodedToken
+    const {id: userId} = decodedToken
     req.userId = userId
-    
-    if(permissions.includes(role)){
+
+    const userFound = await User.findByPk(userId)
+    console.log(userFound)
+    if(permissions.includes(userFound.role)){
             next()
         } else {
             return res.status(404).json('Page not found')
