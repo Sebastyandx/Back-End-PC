@@ -33,7 +33,6 @@ router.get("/", async (req, res) => {
     
 }); 
 
-
 router.get('/:id', async (req,res) => {
     const {id} = req.params;
     try {
@@ -59,7 +58,6 @@ router.post("/create",authAdmin(["admin"]), async(req, res) => {
     }
 })
 
-
 router.put("",authAdmin(["admin"]), async (req, res) => {
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
@@ -71,7 +69,6 @@ router.put("",authAdmin(["admin"]), async (req, res) => {
         res.status(400).json(error)
     }
 })
-
 
 router.delete("/:id",authAdmin(["admin"]), async (req, res) => {
     const {id} = req.params
