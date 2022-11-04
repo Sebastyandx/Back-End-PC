@@ -1,7 +1,7 @@
 const {Router} = require('express')
 const {Producto} = require('../db')
-const userExtractor = require('../middlewares/userExtractor');
 const router = Router();
+const {authAdmin} = require('../middlewares/authAdmin')
 
 router.get("/", async (req, res) => {
     try {
@@ -44,7 +44,7 @@ router.get('/:id', async (req,res) => {
     }
 })
 
-router.post("/create", async(req, res) => {
+router.post("/create",authAdmin(["admin"]), async(req, res) => {
 
     const {name, brand, cost, type, img, details} = req.body;
     console.log(req.body)
@@ -60,9 +60,7 @@ router.post("/create", async(req, res) => {
 })
 
 
-// Quité el middleware para usar el put, funciona al 100
-router.put("/", async (req, res) => {
-    
+router.put("",authAdmin(["admin"]), async (req, res) => {
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
     try {
@@ -74,7 +72,8 @@ router.put("/", async (req, res) => {
     }
 })
 
-router.delete("/:id",userExtractor, async (req, res) => {
+
+router.delete("/:id",authAdmin(["admin"]), async (req, res) => {
     const {id} = req.params
     try {
         const whatProduct = await Producto.findByPk(id)

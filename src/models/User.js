@@ -22,6 +22,7 @@ module.exports = (sequelize) => {
     email: {
       type: DataTypes.STRING,
       allowNull: false,
+      unique: true
     },
     passwordHash: {
       type: DataTypes.STRING,
@@ -42,6 +43,14 @@ module.exports = (sequelize) => {
     },
     address: {
       type: DataTypes.STRING,
-    }
+    },
+    role: {
+      type: DataTypes.ENUM(["user", "admin", "superAdmin"]),
+      defaultValue: "user"
+    },
+    show: {
+      type: DataTypes.BOOLEAN,
+      defaultValue: true,
+    },
   });
 };

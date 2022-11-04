@@ -9,11 +9,27 @@ router.post("/get", async (req, res) => {
     const getUserDb = await User.findOne({ where: { id: id }, include: Cart });
     res.status(200).json(getUserDb);
   } catch (error) {
-    res.json({ error: "Ocurrio un error en traer los productos del carrito" });
+    res.send(error.message);
   }
 });
 
-router.post("", async (req, res) => {
+router.post("/delete", async (req, res) => {
+  const { id } = req.body;
+  console.log(id)
+  try {
+    const cartItem = await Cart.findByPk(id);
+    if (!cartItem) {
+      return res.status(400).send("Error Item del Carrito Inexistente");
+    } else {
+      cartItem.destroy();
+      res.status(200).send(`Item ${cartItem} borrado con exito`);
+    }
+  } catch (error) {
+    res.status(400).send(error.message);
+  }
+});
+
+router.post("/create", async (req, res) => {
   const { id, productosCarrito } = req.body;
   try {
     // const { userId } = req;
