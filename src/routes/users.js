@@ -3,15 +3,6 @@ const bcrypt = require("bcrypt");
 const { User } = require("../db.js");
 const { transporter, infoTransporter } = require("../config/mailer");
 
-// router.post('/', async (req,res) =>{
-//     const {email} =req.body
-//     console.log('entre')
-
-//     await infoTransporter('gonzalogaete110@gmail.com',email,'Registrado, con exito',`<h1>Listo</h1>`)
-//     res.status(200).send('its okay')
-
-// })
-
 router.post("/signup", async (req, res) => {
   try {
     const {
@@ -25,6 +16,7 @@ router.post("/signup", async (req, res) => {
       zip_code,
       address,
       city,
+      show,
     } = req.body;
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
@@ -39,17 +31,15 @@ router.post("/signup", async (req, res) => {
       zipcode: zip_code,
       address: address,
       city: city,
+      show,
     });
-
     await userCreated.save();
-
     await infoTransporter(
       "gonzalogaete110@gmail.com",
       email,
       "Registrado, con exito",
-      `<h1>Haz sido registrado con exito!</h1>`
+      `<h1>Tobi dejate de mandar weas</h1>`
     );
-
     res.status(200).json("Usuario Creado");
   } catch (error) {
     res.status(400).send(error);
@@ -64,5 +54,44 @@ router.get("/", async (req, res) => {
     res.send(error);
   }
 });
+
+router.put("/", async (req,res)=>{
+  try{
+    const {
+      first_name,
+      last_name,
+      username,
+      password,
+      email,
+      date_of_birth,
+      phone_number,
+      zip_code,
+      address,
+      city,
+      show,
+    } = req.body;
+    const {id} = req.params;
+    User.update(
+      {
+        first_name,
+        last_name,
+        username,
+        password,
+        email,
+        date_of_birth,
+        phone_number,
+        zip_code,
+        address,
+        city,
+        show,
+      }, 
+        {where: {id}}
+    ).then(e => {
+      res.status(200).send("usuario modificado")
+    })
+  }catch(error){
+    res.send('error')
+  }
+})
 
 module.exports = router;

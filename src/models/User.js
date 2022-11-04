@@ -42,6 +42,10 @@ module.exports = (sequelize) => {
     },
     address: {
       type: DataTypes.STRING,
+    },
+    show:{
+      type: DataTypes.BOOLEAN,
+      defaultValue: true,
     }
   });
 };
