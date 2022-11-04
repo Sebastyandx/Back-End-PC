@@ -7,12 +7,14 @@ router.get("/", async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
-            const findByName = await Producto.findOne({where: name})
+            const findByName = await Producto.findOne({where: {name, enabled:true}})
             res.status(200).json(findByName)
         } 
         const filters = req.query
         if(filters) {
-            const allProducts = await Producto.findAll()
+            const allProducts = await Producto.findAll({
+                where: {enabled: true}
+            })
             const filteredProducts = allProducts.filter(elem => {
                 let isValid = true;
                 for(key in filters) {
@@ -23,7 +25,9 @@ router.get("/", async (req, res) => {
             })
             res.json(filteredProducts)
         } else {
-            const allProducts = await Producto.findAll();
+            const allProducts = await Producto.findAll({
+                where: {enabled: true}
+            });
             res.json(allProducts)
         }
     } catch (error) {
@@ -37,7 +41,12 @@ router.get("/", async (req, res) => {
 router.get('/:id', async (req,res) => {
     const {id} = req.params;
     try {
-        const detailProduct = await Producto.findByPk(id)
+        const detailProduct = await Producto.findOne({
+            where: {
+                id,
+                enabled: true,
+            }
+        })
         res.json(detailProduct)
     } catch (error) {
         res.json(error)
@@ -64,7 +73,12 @@ router.put("",authAdmin(["admin"]), async (req, res) => {
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
     try {
-        const productSelected = await Producto.findByPk(id)
+        const productSelected = await Producto.findOne({
+            where: {
+                id,
+                enabled: true,
+            }
+        })
         await productSelected.update({name, brand, img, details, cost, type})
         res.status(200).send(`Producto Actualizado`)
     } catch (error) {
@@ -72,12 +86,17 @@ router.put("",authAdmin(["admin"]), async (req, res) => {
     }
 })
 
-
-router.delete("/:id",authAdmin(["admin"]), async (req, res) => {
+// Ruta para "eliminar", cambio enabled a false, no se elimina de la db
+router.put("/:id",authAdmin(["admin"]), async (req, res) => {
     const {id} = req.params
     try {
-        const whatProduct = await Producto.findByPk(id)
-        await Producto.destroy({where: id})
+        const product = await Producto.findOne({
+            where: {
+                id,
+                enabled: true,
+            }
+        })
+        await product.update({enabled: false})
         res.json(`Producto ${whatProduct} eliminado`)
     } catch (error) {
         res.send(error)
