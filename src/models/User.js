@@ -30,7 +30,6 @@ module.exports = (sequelize) => {
     },
     birthday: {
       type: DataTypes.STRING,
-      allowNull: false,
     }, 
     phone: {
       type: DataTypes.STRING,
@@ -47,9 +46,13 @@ module.exports = (sequelize) => {
     role: {
       type: DataTypes.ENUM(["user", "admin", "superAdmin"]),
       defaultValue: "user"
+    },
     show:{
       type: DataTypes.BOOLEAN,
       defaultValue: true,
+    },
+    picture:{
+      type: DataTypes.TEXT,
     }
   });
 };
