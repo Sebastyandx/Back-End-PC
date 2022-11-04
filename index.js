@@ -1,6 +1,6 @@
 const server = require("./src/app.js");
 const { conn } = require("./src/db.js");
-const createAllProducts = require('./src/dbControllers/index')
+const createAllProducts = require("./src/dbControllers/index");
 
 // Syncing all the models at once.
 
@@ -18,4 +18,3 @@ async function main() {
 }
 
 main();
-
