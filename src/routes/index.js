@@ -13,6 +13,7 @@ const router = Router();
 // Ejemplo: router.use('/auth', authRouter);
 
 router.use("/productos", allProducts);
+
 router.use("/user/create", users);
 router.use("/user/login", usersLogin);
 router.use("/cart", cart);

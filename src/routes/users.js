@@ -25,6 +25,7 @@ router.post("/signup", async (req, res) => {
       zip_code,
       address,
       city,
+      role
     } = req.body;
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
@@ -39,6 +40,7 @@ router.post("/signup", async (req, res) => {
       zipcode: zip_code,
       address: address,
       city: city,
+      role: role
     });
 
     await userCreated.save();
@@ -50,9 +52,9 @@ router.post("/signup", async (req, res) => {
       `<h1>Haz sido registrado con exito!</h1>`
     );
 
-    res.status(200).json("Usuario Creado");
+    res.status(200).json(userCreated);
   } catch (error) {
-    res.status(400).send(error);
+    res.status(400).send({error: 'User created already'});
   }
 });
 

@@ -2,8 +2,9 @@ const {Router} = require('express')
 const {Producto} = require('../db')
 const userExtractor = require('../middlewares/userExtractor');
 const router = Router();
+const {authAdmin} = require('../middlewares/authAdmin')
 
-router.get("", async (req, res) => {
+router.get("",authAdmin(["admin"]), async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
@@ -44,15 +45,15 @@ router.get('/:id', async (req,res) => {
     }
 })
 
-router.post("/create",userExtractor , async(req, res) => {
+router.post("/create", async(req, res) => {
 
-    const {name, brand, cost, type} = req.body;
+    const {name, brand, cost, type, img, details} = req.body;
     console.log(req.body)
     try {
         if(!name || !brand || !cost || !type ) {
             return res.status(404).send("no se enviaron los requerimientos necesesarios")
         }
-        const productCreate = await Producto.create({name, brand, cost, type});
+        const productCreate = await Producto.create({name, brand, cost, type, img, details});
         res.json(productCreate);
     } catch (error) {
         res.send(error)
