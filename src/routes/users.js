@@ -17,6 +17,7 @@ router.post("/signup", async (req, res) => {
       address,
       city,
       show,
+      role
     } = req.body;
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
@@ -32,17 +33,18 @@ router.post("/signup", async (req, res) => {
       address: address,
       city: city,
       show,
+      role: role
     });
     await userCreated.save();
     await infoTransporter(
       "gonzalogaete110@gmail.com",
       email,
       "Registrado, con exito",
-      `<h1>Tobi dejate de mandar weas</h1>`
+      `<h2>Usuario Registrado</h2>`
     );
-    res.status(200).json("Usuario Creado");
+    res.status(200).json(userCreated);
   } catch (error) {
-    res.status(400).send(error);
+    res.status(400).send({error: 'User created already'});
   }
 });
 
