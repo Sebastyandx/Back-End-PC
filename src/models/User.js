@@ -30,7 +30,6 @@ module.exports = (sequelize) => {
     },
     birthday: {
       type: DataTypes.STRING,
-      allowNull: false,
     }, 
     phone: {
       type: DataTypes.STRING,

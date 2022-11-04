@@ -44,7 +44,7 @@ router.post("/signup", async (req, res) => {
     );
     res.status(200).json(userCreated);
   } catch (error) {
-    res.status(400).send({error: 'User created already'});
+    res.status(400).send(error.message);
   }
 });
 
