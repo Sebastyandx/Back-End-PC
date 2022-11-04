@@ -3,7 +3,7 @@ const {Producto} = require('../db')
 const router = Router();
 const {authAdmin} = require('../middlewares/authAdmin')
 
-router.get("", async (req, res) => {
+router.get("/", async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
@@ -66,7 +66,7 @@ router.put("",authAdmin(["admin"]), async (req, res) => {
     try {
         const productSelected = await Producto.findByPk(id)
         await productSelected.update({name, brand, img, details, cost, type})
-        res.status(200).json(`${productSelected} actualiizado`)
+        res.status(200).send(`Producto Actualizado`)
     } catch (error) {
         res.status(400).json(error)
     }
