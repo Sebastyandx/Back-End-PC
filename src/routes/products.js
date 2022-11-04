@@ -59,7 +59,7 @@ router.post("/create",authAdmin(["admin"]), async(req, res) => {
     }
 })
 
-router.put("",userExtractor, async (req, res) => {
+router.put("",authAdmin(["admin"]), async (req, res) => {
     
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
@@ -72,7 +72,7 @@ router.put("",userExtractor, async (req, res) => {
     }
 })
 
-router.delete("/:id",userExtractor, async (req, res) => {
+router.delete("/:id",authAdmin(["admin"]), async (req, res) => {
     const {id} = req.params
     try {
         const whatProduct = await Producto.findByPk(id)
