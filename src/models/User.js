@@ -48,9 +48,9 @@ module.exports = (sequelize) => {
       type: DataTypes.ENUM(["user", "admin", "superAdmin"]),
       defaultValue: "user"
     },
-    show:{
+    show: {
       type: DataTypes.BOOLEAN,
       defaultValue: true,
-    }
+    },
   });
 };

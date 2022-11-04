@@ -57,7 +57,7 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.put("/", async (req,res)=>{
+router.put("/:id", async (req,res)=>{
   try{
     const {
       first_name,
@@ -71,6 +71,7 @@ router.put("/", async (req,res)=>{
       address,
       city,
       show,
+      role,
     } = req.body;
     const {id} = req.params;
     User.update(
@@ -86,6 +87,7 @@ router.put("/", async (req,res)=>{
         address,
         city,
         show,
+        role,
       }, 
         {where: {id}}
     ).then(e => {
