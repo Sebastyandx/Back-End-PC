@@ -87,7 +87,7 @@ router.put("/:id", async (req,res)=>{
         address,
         city,
         show,
-        role,
+        role, 
       }, 
         {where: {id}}
     ).then(e => {
