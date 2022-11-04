@@ -14,7 +14,7 @@ router.post("/", async (req, res) => {
         currency: "ARS",
         product_data: { name: item.name, images: [item.img] },
       },
-      quantity: 1,
+      quantity: item.quantity,
     };
   });
   const session = await stripe.checkout.sessions.create({
