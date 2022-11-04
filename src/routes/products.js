@@ -1,7 +1,7 @@
 const {Router} = require('express')
 const {Producto} = require('../db')
 const router = Router();
-const {authAdmin, } = require('../middlewares/authAdmin')
+const {authAdmin} = require('../middlewares/authAdmin')
 
 router.get("", async (req, res) => {
     try {
