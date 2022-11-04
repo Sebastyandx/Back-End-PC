@@ -59,6 +59,8 @@ router.post("/create", async(req, res) => {
     }
 })
 
+
+// Quité el middleware para usar el put, funciona al 100
 router.put("/", async (req, res) => {
     
     const {name, brand, img, details, cost, type} = req.body;
