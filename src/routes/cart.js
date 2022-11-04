@@ -9,11 +9,11 @@ router.post("/get", async (req, res) => {
     const getUserDb = await User.findOne({ where: { id: id }, include: Cart });
     res.status(200).json(getUserDb);
   } catch (error) {
-    res.json({ error: "Ocurrio un error en traer los productos del carrito" });
+    res.send(error.message);
   }
 });
 
-router.post("", async (req, res) => {
+router.post("/create", async (req, res) => {
   const { id, productosCarrito } = req.body;
   try {
     // const { userId } = req;
