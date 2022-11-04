@@ -3,7 +3,7 @@ const {Producto} = require('../db')
 const userExtractor = require('../middlewares/userExtractor');
 const router = Router();
 
-router.get("", async (req, res) => {
+router.get("/", async (req, res) => {
     try {
         const {name} = req.query
         if(name) {
@@ -59,14 +59,14 @@ router.post("/create", async(req, res) => {
     }
 })
 
-router.put("",userExtractor, async (req, res) => {
+router.put("/", async (req, res) => {
     
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
     try {
         const productSelected = await Producto.findByPk(id)
         await productSelected.update({name, brand, img, details, cost, type})
-        res.status(200).json(`${productSelected} actualiizado`)
+        res.status(200).send(`Producto Actualizado`)
     } catch (error) {
         res.status(400).json(error)
     }
