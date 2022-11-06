@@ -61,9 +61,10 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.put("/:id", async (req,res)=>{
+router.put("/edit", async (req,res)=>{
   try{
     const {
+      id,
       first_name,
       last_name,
       username,
@@ -77,7 +78,6 @@ router.put("/:id", async (req,res)=>{
       show,
       role,
     } = req.body;
-    const {id} = req.params;
     User.update(
       {
         first_name,
@@ -98,7 +98,7 @@ router.put("/:id", async (req,res)=>{
       res.status(200).send("usuario modificado")
     })
   }catch(error){
-    res.send('error')
+    res.send(error.message)
   }
 })
 
