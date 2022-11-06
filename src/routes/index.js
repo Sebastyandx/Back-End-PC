@@ -6,6 +6,7 @@ const allProducts = require('./products.js');
 const users = require('./users')
 const usersLogin = require('./login')
 const cart = require('./cart')
+const pasarela = require('./pasarela.js')
 const router = Router();
 
 // Configurar los routers
@@ -15,4 +16,5 @@ router.use("/productos", allProducts);
 router.use("/user/create", users)
 router.use("/user/login", usersLogin)
 router.use('/cart', cart)
+router.use('/create-checkout-session', pasarela)
 module.exports = router;
