@@ -17,7 +17,8 @@ router.post("/signup", async (req, res) => {
       address,
       city,
       show,
-      role
+      role,
+      picture,
     } = req.body;
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
@@ -35,16 +36,19 @@ router.post("/signup", async (req, res) => {
       show,
       role: role
     });
+    
     await userCreated.save();
+    
     await infoTransporter(
-      "gonzalogaete110@gmail.com",
+      "gonzalogaete602@gmail.com",
       email,
-      "Registrado, con exito",
-      `<h2>Usuario Registrado</h2>`
+      "Bienvenido a GamerTech",
+      `<h2>Te haz registrado en GamerTech, Felicidades!</h2>`
     );
+
     res.status(200).json(userCreated);
   } catch (error) {
-    res.status(400).send({error: error.message});
+    res.status(400).send(error.message);
   }
 });
 
