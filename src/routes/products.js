@@ -33,10 +33,7 @@ router.get("/", async (req, res) => {
     } catch (error) {
         res.json(error)
     }
-
-    
 }); 
-
 
 router.get('/:id', async (req,res) => {
     const {id} = req.params;
@@ -68,7 +65,6 @@ router.post("/create",authAdmin(["admin"]), async(req, res) => {
     }
 })
 
-
 router.put("",authAdmin(["admin"]), async (req, res) => {
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
@@ -88,6 +84,7 @@ router.put("",authAdmin(["admin"]), async (req, res) => {
 
 // Ruta para "eliminar", cambio enabled a false, no se elimina de la db
 router.put("/:id",authAdmin(["admin"]), async (req, res) => {
+
     const {id} = req.params
     try {
         const product = await Producto.findOne({
