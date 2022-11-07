@@ -5079,6 +5079,10 @@
           "back_fans_num": 1,
           "back_fans_dimension_mm": [120]
         },
+        "color": "blanco",
+        "material": "Metal Plástico y vidrio",
+        "RGB": true,
+        "structure type": "Mid Tower",
         "connectivity": {
           "disk": {
             "hdd": 2,
@@ -5088,11 +5092,8 @@
           "power_supply_type": "ATX",
           "mother_types": "",
           "max_length_psu": "",
-          "max_length_gpu": "",
-          "color": "blanco",
-          "material": "Metal Plástico y vidrio",
-          "RGB": true,
-          "structure type": "Mid Tower"
+          "max_length_gpu": ""
+       
         }
       },
       "cost": 12800,
@@ -9661,7 +9662,7 @@
       ],
       "details": {
         "audio": "2.0",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "inalambrico",
         "microfono": "si",
         "TipoDeAudio": "Real"
@@ -9679,7 +9680,7 @@
       ],
       "details": {
         "audio": "7.1",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "Cableado",
         "microfono": "si",
         "TipoDeAudio": "Virtual"
@@ -9697,7 +9698,7 @@
       ],
       "details": {
         "audio": "7.1",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "Cableado",
         "microfono": "si",
         "TipoDeAudio": "Virtual"
@@ -9715,7 +9716,7 @@
       ],
       "details": {
         "audio": "2.0",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "Cableado",
         "microfono": "si",
         "TipoDeAudio": "Real"
@@ -9733,7 +9734,7 @@
       ],
       "details": {
         "audio": "2.0",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "Cableado",
         "microfono": "si",
         "TipoDeAudio": "Real"
@@ -9750,7 +9751,7 @@
       ],
       "details": {
         "audio": "2.0",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "Cableado",
         "microfono": "si",
         "TipoDeAudio": "Real"
@@ -9768,7 +9769,7 @@
       ],
       "details": {
         "audio": "2.0",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "Cableado",
         "microfono": "si",
         "TipoDeAudio": "Real"
@@ -9786,7 +9787,7 @@
       ],
       "details": {
         "audio": "7.1",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "inalambrico",
         "microfono": "si",
         "TipoDeAudio": "Virtual"
@@ -9804,7 +9805,7 @@
       ],
       "details": {
         "audio": "7.1",
-        "color": ["Negro"],
+        "color": "Negro",
         "conexion": "Cableado",
         "microfono": "Si",
         "TipoDeAudio": "Virtual"
