@@ -38,9 +38,9 @@ router.post("/signup", async (req, res) => {
     });
     
     await userCreated.save();
-    
+
     await infoTransporter(
-      "gonzalogaete602@gmail.com",
+      "gonzalogaete110@gmail.com",
       email,
       "Bienvenido a GamerTech",
       `<h2>Te haz registrado en GamerTech, Felicidades!</h2>`

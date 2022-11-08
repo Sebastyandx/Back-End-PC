@@ -5,7 +5,7 @@ const transporter = nodemailer.createTransport({
     port: 465,
     secure: true,
     auth: {
-      user: 'gonzalogaete602@gmail.com', 
+      user: 'gonzalogaete110@gmail.com', 
       pass: 'wdvfuqdpfzsseekf', 
     },
   });
@@ -17,21 +17,17 @@ const transporter = nodemailer.createTransport({
   })
 
   const infoTransporter = async (fromTitle, toList, subject, html) => {
-    transporter
-      .sendMail({
-        from: `"${fromTitle}" <gonzalogaete602@gmail.com>`,
+    transporter.sendMail({
+        from: `"${fromTitle}" <gonzalogaete110@gmail.com>`,
         to: `${toList}`,
         subject: `${subject}`,
         html: `${html}`,
-      })
-      .then(() => {
+      }).then(() => {
         console.log("transport OK");
-      })
-      .catch((e) => {
+      }).catch((e) => {
         console.log("transporter catch" + e);
       });
   };
-
 
 module.exports={
   transporter,
