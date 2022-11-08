@@ -36,6 +36,10 @@ router.post("/create", async (req, res) => {
     if (!productosCarrito) {
       return res.status(200).send("No hay Productos en el carrito");
     }
+
+    if (!id) {
+      return res.status(200).send("Id no recibido");
+    }
     await Cart.bulkCreate(productosCarrito);
     const getUserDb = await User.findByPk(id);
 
