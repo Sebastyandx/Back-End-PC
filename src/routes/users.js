@@ -34,13 +34,13 @@ router.post("/signup", async (req, res) => {
       address: address,
       city: city,
       show,
-      role: role
+      role: role,
     });
-    
+
     await userCreated.save();
-    
+
     await infoTransporter(
-      "gonzalogaete602@gmail.com",
+      "gonzalogaete110@gmail.com",
       email,
       "Bienvenido a GamerTech",
       `<h2>Te haz registrado en GamerTech, Felicidades!</h2>`
@@ -61,8 +61,8 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.put("/edit", async (req,res)=>{
-  try{
+router.put("/edit", async (req, res) => {
+  try {
     const {
       id,
       first_name,
@@ -92,14 +92,14 @@ router.put("/edit", async (req,res)=>{
         city,
         show,
         role,
-      }, 
-        {where: {id}}
-    ).then(e => {
-      res.status(200).send("usuario modificado")
-    })
-  }catch(error){
-    res.send(error.message)
+      },
+      { where: { id } }
+    ).then((e) => {
+      res.status(200).send("usuario modificado");
+    });
+  } catch (error) {
+    res.send(error.message);
   }
-})
+});
 
 module.exports = router;
