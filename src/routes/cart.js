@@ -15,7 +15,6 @@ router.post("/get", async (req, res) => {
 
 router.post("/delete", async (req, res) => {
   const { id } = req.body;
-  console.log(id);
   try {
     const cartItem = await Cart.findByPk(id);
     if (!cartItem) {
