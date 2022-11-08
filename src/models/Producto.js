@@ -28,6 +28,10 @@ module.exports = (sequelize) => {
     type:{
       type: DataTypes.ENUM(["mother","procesador","disco","ram","solido","tarjeta","mouse","pantalla","fuente","teclado","auricular","gabinete","cooler"]),
       allowNull: false,
+    },
+    enabled: {
+      type: DataTypes.BOOLEAN,
+      defaultValue: true,
     }
   },{
     timestamps: false
