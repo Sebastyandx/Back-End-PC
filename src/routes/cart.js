@@ -15,7 +15,7 @@ router.post("/get", async (req, res) => {
 
 router.post("/delete", async (req, res) => {
   const { id } = req.body;
-  console.log(id)
+  console.log(id);
   try {
     const cartItem = await Cart.findByPk(id);
     if (!cartItem) {
@@ -33,6 +33,13 @@ router.post("/create", async (req, res) => {
   const { id, productosCarrito } = req.body;
   try {
     // const { userId } = req;
+    if (!productosCarrito) {
+      return res.status(200).send("No hay Productos en el carrito");
+    }
+
+    if (!id) {
+      return res.status(200).send("Id no recibido");
+    }
     await Cart.bulkCreate(productosCarrito);
     const getUserDb = await User.findByPk(id);
 
