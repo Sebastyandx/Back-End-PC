@@ -1,4 +1,160 @@
-[
+[   
+  {
+    "type": "mother",
+    "brand": "Intel",
+    "name": "Mother ASUS PRIME B660M-A D4",
+    "cost": 33.250,
+    "img": [
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919910/pc/mothers/compragamer_Imganen_general_26145_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_5c6956fe-grn_gmsngt.jpg",
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919933/pc/mothers/compragamer_Imganen_general_26146_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0f0fab50-grn_oc1inr.jpg",
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919954/pc/mothers/compragamer_Imganen_general_26149_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0987f670-grn_ycq2s4.jpg"
+    ],
+    "details": {
+      "generation": "B660M-A D4",
+      "connectivity": {
+        "Cantidad De Slot Pci-e 16X": 3,
+        "Cantidad De Slot Pci-e 1X": 0,
+        "Tecnologia Multi Gpu": "null",
+        "Puertos Sata": 4,
+        "Salida Vga": 0,
+        "Salida HDMI": 2,
+        "Salida Dvi": 0,
+        "Salidas Display Ports": 1,
+        "Cantidad de Slot M.2 Totales": 2,
+        "Placa Wifi Integrada": "No",
+        "Placa de Red": "1 Gb/s",
+        "Puerto Ps/2": "Si",
+        "Puertos Usb 2.0 Traseros": 4,
+        "Puertos Usb 3.0 Traseros": 0,
+        "Puertos Usb 3.1 Traseros": 0,
+        "Puertos Usb 3.2 Traseros": 2,
+        "Puertos Usb Type-c": 0,
+        "Cantidad De Slot Pci-e 4X": 0,
+        "Cantidad De Slot M.2 Sata": 0,
+        "Cantidad De Slot M.2 Nvme": 2
+      },
+      "Socket": ["1700 Alder Lake-S,1700 Raptor Lake"],
+      "energy": {
+        "Watts Máximos Para Cpu": 235,
+        "Conectos Cpu 4Pines": 1,
+        "Conector Cpu 4Pines Plus": 1,
+        "Conector 24Pines": 1,
+        "Consumo": "10w",
+        "Procesador Integrado": "No"
+      },
+      "Sound": {
+        "Placa De Sonido": "7.1 Realtek CODEC"
+      },
+      "Memory": {
+        "Ddr4": 4
+      },
+      "Dimensions": "M-ATX"
+    }
+  },
+  {
+    "type": "mother",
+    "brand": "Intel",
+    "name": "Mother ASUS ROG STRIX Z690-F GAMING WIFI S1700 ",
+    "cost": 91.500,
+    "img": [
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919910/pc/mothers/compragamer_Imganen_general_26145_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_5c6956fe-grn_gmsngt.jpg",
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919933/pc/mothers/compragamer_Imganen_general_26146_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0f0fab50-grn_oc1inr.jpg",
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919954/pc/mothers/compragamer_Imganen_general_26149_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0987f670-grn_ycq2s4.jpg"
+    ],
+    "details": {
+      "generation": "Z690-F GAMING",
+      "connectivity": {
+        "Cantidad De Slot Pci-e 16X": 2,
+        "Cantidad De Slot Pci-e 1X": 1,
+        "Tecnologia Multi Gpu": "null",
+        "Puertos Sata": 6,
+        "Salida Vga": 0,
+        "Salida HDMI": 1,
+        "Salida Dvi": 0,
+        "Salidas Display Ports": 1,
+        "Cantidad de Slot M.2 Totales": 4,
+        "Placa Wifi Integrada": "Si",
+        "Placa de Red": "2.5 Gb/s",
+        "Puerto Ps/2": "No",
+        "Puertos Usb 2.0 Traseros": 2,
+        "Puertos Usb 3.0 Traseros": 0,
+        "Puertos Usb 3.1 Traseros": 0,
+        "Puertos Usb 3.2 Traseros": 6,
+        "Puertos Usb Type-c": 2,
+        "Cantidad De Slot Pci-e 4X": 0,
+        "Cantidad De Slot M.2 Sata": 1,
+        "Cantidad De Slot M.2 Nvme": 4
+      },
+      "Socket": ["1700 Alder Lake-S,1700 Raptor Lake"],
+      "energy": {
+        "Watts Máximos Para Cpu": 395,
+        "Conectos Cpu 4Pines": 1,
+        "Conector Cpu 4Pines Plus": 1,
+        "Conector 24Pines": 1,
+        "Consumo": "20w",
+        "Procesador Integrado": "No"
+      },
+      "Sound": {
+        "Placa De Sonido": "7.1 Realtek ALC 4080 + Savitech SV3H712 "
+      },
+      "Memory": {
+        "Ddr5": 4
+      },
+      "Dimensions": "M-ATX"
+    }
+  },
+  {
+    "type": "mother",
+    "brand": "Intel",
+    "name": "Mother ASUS ROG MAXIMUS Z690 EXTREME GLACIAL",
+    "cost": 397.600,
+    "img": [
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919910/pc/mothers/compragamer_Imganen_general_26145_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_5c6956fe-grn_gmsngt.jpg",
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919933/pc/mothers/compragamer_Imganen_general_26146_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0f0fab50-grn_oc1inr.jpg",
+      "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919954/pc/mothers/compragamer_Imganen_general_26149_Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen_0987f670-grn_ycq2s4.jpg"
+    ],
+    "details": {
+      "generation": "Z690 EXTREME GLACIAL ",
+      "connectivity": {
+        "Cantidad De Slot Pci-e 16X": 2,
+        "Cantidad De Slot Pci-e 1X": 1,
+        "Tecnologia Multi Gpu": "SLI,Crossfire",
+        "Puertos Sata": 6,
+        "Salida Vga": 0,
+        "Salida HDMI": 1,
+        "Salida Dvi": 0,
+        "Salidas Display Ports": 0,
+        "Cantidad de Slot M.2 Totales": 5,
+        "Placa Wifi Integrada": "Si",
+        "Placa de Red": "10 Gb/s",
+        "Puerto Ps/2": "No",
+        "Puertos Usb 2.0 Traseros": 0,
+        "Puertos Usb 3.0 Traseros": 0,
+        "Puertos Usb 3.1 Traseros": 0,
+        "Puertos Usb 3.2 Traseros": 7,
+        "Puertos Usb Type-c": 3,
+        "Cantidad De Slot Pci-e 4X": 0,
+        "Cantidad De Slot M.2 Sata": 1,
+        "Cantidad De Slot M.2 Nvme": 5
+      },
+      "Socket": ["1700 Alder Lake-S,1700 Raptor Lake"],
+      "energy": {
+        "Watts Máximos Para Cpu": 125,
+        "Conectos Cpu 4Pines": 1,
+        "Conector Cpu 4Pines Plus": 1,
+        "Conector 24Pines": 1,
+        "Consumo": "50w",
+        "Procesador Integrado": "No"
+      },
+      "Sound": {
+        "Placa De Sonido": "7.1 DAC Sabre Hi-Fi + ALC 4082"
+      },
+      "Memory": {
+        "Ddr5": 4
+      },
+      "Dimensions": "E-ATX"
+    }
+  },
     {
       "type": "mother",
       "brand": "AMD",
@@ -54,6 +210,168 @@
           "Ddr4": 2
         },
         "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "type": "mother",
+      "brand": "AMD",
+      "name": "Mother Asrock X670E Taichi Carrara AM5",
+      "cost": 193.980,
+      "img": [
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
+      ],
+      "details": {
+        "generation": "AM5 Ryzen 7000",
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": 0,
+          "Puertos Sata": 8,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 4,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 8,
+          "Puertos Usb Type-c": 2,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": [
+          "AM5 Ryzen 7000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 170,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "50w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 4080"
+        },
+        "Memory": {
+          "Ddr5": 4
+        },
+        "Dimensions": "E-ATX"
+      }
+    },
+    {
+      "type": "mother",
+      "brand": "AMD",
+      "name": "Mother Asrock X670E Steel Legend AM5",
+      "cost": 122.960,
+      "img": [
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
+      ],
+      "details": {
+        "generation": "AM5 Ryzen 7000",
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": 0,
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 4,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 7,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": [
+          "AM5 Ryzen 7000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 170,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "50w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr5": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "type": "mother",
+      "brand": "AMD",
+      "name": "Mother Asrock X670E PG LIGHTNING AM5",
+      "cost": 120.650,
+      "img": [
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919153/pc/mothers/images_cxsrrm.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919213/pc/mothers/A320M-K-2_vz0ug6.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1666919240/pc/mothers/download_sfzthb.jpg"
+      ],
+      "details": {
+        "generation": "AM5 Ryzen 7000",
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": 0,
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 4,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 7,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": [
+          "AM5 Ryzen 7000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 170,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "50w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr5": 4
+        },
+        "Dimensions": "ATX"
       }
     },
     {
