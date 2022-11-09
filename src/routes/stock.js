@@ -5,7 +5,7 @@ const { Producto } = require("../db.js");
 router.post("/", async (req, res) => {
   const { stock, productId } = req.body;
   try {
-    if (!stock) {
+    if (stock !== 0 && !stock) {
       return res.status(400).send("Stock no Enviado");
     }
     if (!productId) {
