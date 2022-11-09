@@ -2053,9 +2053,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake",
+      "name": "Procesador Intel Core i5 10400F",
       "details": {
-        "Modelo": "Core i5 10400F",
+        "Modelo": "10400F",
+        "Gama" : "media",
         "Socket": "1200 Comet Lake",
         "Núcleos": 6,
         "Frecuencia": "2900.00 mhz",
@@ -2072,9 +2073,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5",
+      "name": "Procesador Intel Core i5 11400F",
       "details": {
         "Modelo": "11400F",
+        "Gama" : "media",
         "Socket": "1200 Rocket Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2600.00 mhz",
@@ -2091,9 +2093,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i3",
+      "name": "Procesador Intel Core i3 12100",
       "details": {
         "Modelo": "12100",
+        "Gama" : "baja",
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 4,
         "Frecuencia": "3300.00 mhz",
@@ -2110,9 +2113,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5",
+      "name": "Procesador Intel Core i5 12400f",
       "details": {
         "Modelo": "12400f",
+        "Gama" : "media",
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2500.00 mhz",
@@ -2129,9 +2133,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5",
+      "name": "Procesador Intel Core i5 11400",
       "details": {
         "Modelo": "11400",
+        "Gama" : "media",
         "Socket": "1200 Rocket Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2600.00 mhz",
@@ -2148,9 +2153,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5",
+      "name": "Procesador Intel Core i5 11600KF",
       "details": {
         "Modelo": "11600KF",
+        "Gama" : "media",
         "Socket": "1200 Rocket Lake-S",
         "Núcleos": 6,
         "Frecuencia": "3900.00 mhz",
@@ -2167,9 +2173,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5",
+      "name": "Procesador Intel Core i5 10600K",
       "details": {
-        "Modelo": "Intel Core i5 10600K",
+        "Modelo": "10600K",
+        "Gama" : "media",
         "Socket": "1200 Comet Lake",
         "Núcleos": 6,
         "Frecuencia": "4100.00 mhz",
@@ -2186,9 +2193,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5",
+      "name": "Procesador Intel Core i5 12400",
       "details": {
         "Modelo": "12400",
+        "Gama" : "media",
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 6,
         "Frecuencia": "2500.00 mhz",
@@ -2205,9 +2213,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i7 10700F 4.8GHz Turbo Socket 1200 Comet Lake",
+      "name": "Procesador Intel Core i7 10700F",
       "details": {
         "Modelo": "10700F",
+        "Gama" : "alta",
         "Socket": "1200 Comet Lake",
         "Núcleos": 8,
         "Frecuencia": "2900.00 mhz",
@@ -2224,9 +2233,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i5 12600KF 4.90GHz Turbo Socket 1700",
+      "name": "Procesador Intel Core i5 12600KF",
       "details": {
         "Modelo": "12600KF",
+        "Gama" : "media",
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 10,
         "Frecuencia": "2800.00 mhz",
@@ -2243,16 +2253,17 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i7 10700KF 5.1GHz Turbo 1200 Comet Lake",
+      "name": "Procesador Intel Core i7 10700KF",
       "details": {
-        "Modelo": "12600KF",
-        "Socket": "1700 Alder Lake-S",
+        "Modelo": "10700KF",
+        "Gama" : "alta",
+        "Socket": "1200",
         "Núcleos": 10,
-        "Frecuencia": "2800.00 mhz",
+        "Frecuencia": "3800.00 mhz",
         "Proceso_De_Fabricación": "10 nm",
         "Gpu": "NO Posee Gráficos Integrados",
         "Hilos": 16,
-        "Frecuencia_Turbo": "4900 mhz"
+        "Frecuencia_Turbo": "5100 mhz"
       },
       "cost": 67100,
       "img": [
@@ -2262,9 +2273,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i7 10700 4.8GHz Turbo Socket 1200 Comet Lake",
+      "name": "Procesador Intel Core i7 10700",
       "details": {
-        "Modelo": "Core i7 10700",
+        "Modelo": "10700",
+        "Gama" : "alta",
         "Socket": "1200 Comet Lake",
         "Núcleos": 8,
         "Frecuencia": "2900.00 mhz",
@@ -2281,9 +2293,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i7 10700K 5.1GHz Turbo 1200 Comet Lake",
+      "name": "Procesador Intel Core i7 10700K",
       "details": {
-        "Modelo": "Core i7 10700K",
+        "Modelo": "10700K",
+        "Gama" : "alta",
         "Socket": "1200 Comet Lake",
         "Núcleos": 8,
         "Frecuencia": "3800.00 mhz",
@@ -2300,9 +2313,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i7 12700 S1700 12th Gen",
+      "name": "Procesador Intel Core i7 12700",
       "details": {
-        "Modelo": "Core i7 12700",
+        "Modelo": "12700",
+        "Gama" : "alta",
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 12,
         "Frecuencia": "2100.00 mhz",
@@ -2319,9 +2333,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i7 12700KF 5.0GHz Turbo Socket 1700",
+      "name": "Procesador Intel Core i7 12700KF",
       "details": {
         "Modelo": "12700KF",
+        "Gama" : "alta",
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 12,
         "Frecuencia": "2700.00 mhz",
@@ -2338,9 +2353,10 @@
     {
       "type": "procesador",
       "brand": "Intel",
-      "name": "Procesador Intel Core i7 12700K 5.0GHz Turbo Socket 1700",
+      "name": "Procesador Intel Core i7 12700K",
       "details": {
         "Modelo": "12700K",
+        "Gama" : "alta",
         "Socket": "1700 Alder Lake-S",
         "Núcleos": 12,
         "Frecuencia": "2700.00 mhz",
@@ -2357,9 +2373,10 @@
     {
       "type": "procesador",
       "brand": "AMD",
-      "name": "Procesador AMD Ryzen 5 4600G 3.7GHz + Wraith Stealth Cooler AM4",
+      "name": "Procesador AMD Ryzen 5 4600G",
       "details": {
         "Modelo": "4600G",
+        "Gama" : "media",
         "Socket": "AM4 APU 3th Gen",
         "Núcleos": 6,
         "Frecuencia": "3700.00 mhz",
@@ -2376,9 +2393,10 @@
     {
       "type": "procesador",
       "brand": "AMD",
-      "name": "Procesador AMD Ryzen 5 4500 + Wraith Stealth Cooler AM4",
+      "name": "Procesador AMD Ryzen 5 4500",
       "details": {
         "Modelo": "4500",
+        "Gama" : "media",
         "Socket": "AM4 APU 3th Gen",
         "Núcleos": 6,
         "Frecuencia": "3600.00 mhz",
@@ -2395,9 +2413,10 @@
     {
       "type": "procesador",
       "brand": "AMD",
-      "name": "Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler",
+      "name": "Procesador AMD Ryzen 5 5500",
       "details": {
         "Modelo": "5500",
+        "Gama" : "media",
         "Socket": "AM4 Ryzen 4th Gen",
         "Núcleos": 6,
         "Frecuencia": "3600.00 mhz",
@@ -2414,9 +2433,10 @@
     {
       "type": "procesador",
       "brand": "AMD",
-      "name": "Procesador AMD Ryzen 5 1600 AF Zen+ 12nm AM4 Wraith Stealth Cooler",
+      "name": "Procesador AMD Ryzen 5 1600",
       "details": {
-        "Modelo": "Ryzen 5 1600 AF",
+        "Modelo": "1600 AF",
+        "Gama" : "media",
         "Socket": "AM4 Ryzen 2th Gen",
         "Núcleos": 6,
         "Frecuencia": "3200.00 mhz",
@@ -2433,9 +2453,10 @@
     {
       "type": "procesador",
       "brand": "AMD",
-      "name": "Procesador AMD Ryzen 7 5700X 4.6GHz Turbo AM4 - No incluye Cooler",
+      "name": "Procesador AMD Ryzen 7 5700X",
       "details": {
         "Modelo": "5700X",
+        "Gama" : "alta",
         "Socket": "AM4 Ryzen 4th Gen",
         "Núcleos": 8,
         "Frecuencia": "3400.00 mhz",
@@ -2452,9 +2473,10 @@
     {
       "type": "procesador",
       "brand": "AMD",
-      "name": "Procesador AMD Ryzen 7 PRO 4750G + Wraith Stealth Cooler OEM",
+      "name": "Procesador AMD Ryzen 7 PRO 4750G",
       "details": {
         "Modelo": "PRO 4750G",
+        "Gama" : "alta",
         "Socket": "AM4 APU 3th Gen",
         "Núcleos": 8,
         "Frecuencia": "3600.00 mhz",
@@ -2471,9 +2493,10 @@
     {
       "type": "procesador",
       "brand": "AMD",
-      "name": "Procesador AMD Ryzen 7 5700G 4.6GHz Turbo + Wraith Stealth Cooler",
+      "name": "Procesador AMD Ryzen 7 5700G",
       "details": {
         "Modelo": "5700G",
+        "Gama" : "alta",
         "Socket": "AM4 APU 5000",
         "Núcleos": 8,
         "Frecuencia": "3800.00 mhz",
@@ -2485,6 +2508,326 @@
       "cost": 65450,
       "img": [
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666920722/pc/PROCESADORES/CP-AMD-100-100000926WOF-a0931f_pne9q8.webp"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Pentium Gold G7400",
+      "details": {
+        "Modelo": "G7400",
+        "Gama" : "baja",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 2,
+        "Frecuencia": "3700.00 mhz",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 710",
+        "Hilos": 4,
+        "Frecuencia_Turbo": "3700.00 mhz"
+      },
+      "cost": 20350,
+      "img": [
+        "https://i.ebayimg.com/images/g/TCwAAOSwf8xiVPcL/s-l500.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Pentium G4560",
+      "details": {
+        "Modelo": "G4560",
+        "Gama" : "baja",
+        "Socket": "1151 Kaby Lake",
+        "Núcleos": 2,
+        "Frecuencia": "3500.00 mhz",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "Intel HD Graphics 610",
+        "Hilos": 4,
+        "Frecuencia_Turbo": "4000.00 mhz"
+      },
+      "cost": 15130,
+      "img": [
+        "https://http2.mlstatic.com/D_NQ_NP_856184-MLC51740462030_092022-O.webp"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Celeron G6900",
+      "details": {
+        "Modelo": "G6900",
+        "Gama" : "baja",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 2,
+        "Frecuencia": "3400.00 mhz",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 710",
+        "Hilos": 2,
+        "Frecuencia_Turbo": "3400.00 mhz"
+      },
+      "cost": 14250,
+      "img": [
+        "https://www.cyberpuerta.mx/img/product/XL/CP-INTEL-BX80715G6900-2df84d.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Celeron G5905",
+      "details": {
+        "Modelo": "G5905",
+        "Gama" : "baja",
+        "Socket": "1200 Comet Lake",
+        "Núcleos": 2,
+        "Frecuencia": "3500.00 mhz",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "Intel UHD Graphics 610",
+        "Hilos": 2,
+        "Frecuencia_Turbo": "3500.00 mhz"
+      },
+      "cost": 8100,
+      "img": [
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21913_Procesador_Intel_Celeron_G5905_3.5GHz_Socket_1200_aa932e7b-grn.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Core i3 12100F",
+      "details": {
+        "Modelo": "12100F",
+        "Gama" : "baja",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 4,
+        "Frecuencia": "3300.00 mhz",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 8,
+        "Frecuencia_Turbo": "4300.00 mhz"
+      },
+      "cost": 28050,
+      "img": [
+        "https://m.media-amazon.com/images/I/41MO1qkT+FL._AC_SX466_.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 9 5900X",
+      "details": {
+        "Modelo": "5900X",
+        "Gama" : "muy alta",
+        "Socket": "AM4 Ryzen 4th Gen",
+        "Núcleos": 12,
+        "Frecuencia": "3700.00 mhz",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 24,
+        "Frecuencia_Turbo": "4800.00 mhz"
+      },
+      "cost": 116770,
+      "img": [
+        "https://m.media-amazon.com/images/I/616VM20+AzL._AC_SL1384_.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 3 3200G",
+      "details": {
+        "Modelo": "3200G",
+        "Gama" : "baja",
+        "Socket": "AM4 APU 2th Gen",
+        "Núcleos": 4,
+        "Frecuencia": "3600.00 mhz",
+        "Proceso_De_Fabricación": "7 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 4,
+        "Frecuencia_Turbo": "4000.00 mhz"
+      },
+      "cost": 34250,
+      "img": [
+        "https://m.media-amazon.com/images/I/71Wxed3-zrL._AC_SL1384_.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Core i9 12900K",
+      "details": {
+        "Modelo": "12900K",
+        "Gama" : "muy alta",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 16,
+        "Frecuencia": "2400.00 mhz",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 770",
+        "Hilos": 24,
+        "Frecuencia_Turbo": "5200.00 mhz"
+      },
+      "cost": 169700,
+      "img": [
+        "https://m.media-amazon.com/images/I/510jsZcyEDL._AC_SL1000_.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Core i9 12900KF",
+      "details": {
+        "Modelo": "12900KF",
+        "Gama" : "muy alta",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 16,
+        "Frecuencia": "2400.00 mhz",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 24,
+        "Frecuencia_Turbo": "5200.00 mhz"
+      },
+      "cost": 145120,
+      "img": [
+        "https://m.media-amazon.com/images/I/510jsZcyEDL._AC_SL1000_.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "Intel",
+      "name": "Procesador Intel Core i9 12900",
+      "details": {
+        "Modelo": "12900",
+        "Gama" : "muy alta",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 16,
+        "Frecuencia": "2400.00 mhz",
+        "Proceso_De_Fabricación": "10 nm",
+        "Gpu": "UHD Graphics 770",
+        "Hilos": 24,
+        "Frecuencia_Turbo": "5100.00 mhz"
+      },
+      "cost": 131440,
+      "img": [
+        "https://m.media-amazon.com/images/I/510jsZcyEDL._AC_SL1000_.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "Procesador AMD A6-9500 3.5",
+      "details": {
+        "Modelo": "A6-9500",
+        "Gama" : "baja",
+        "Socket": "AM4",
+        "Núcleos": 2,
+        "Frecuencia": "3500.00 mhz",
+        "Proceso_De_Fabricación": "28 nm",
+        "Gpu": "Radeon R5 Series",
+        "Hilos": 2,
+        "Frecuencia_Turbo": "3800.00 mhz"
+      },
+      "cost": 35000,
+      "img": [
+        "https://media.solotodo.com/media/cache/66/65/66654d172a049701d210d4a04c41522f.png"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "Procesador AMD Athlon 3000G",
+      "details": {
+        "Modelo": "Athlon 3000G",
+        "Gama" : "baja",
+        "Socket": "AM4",
+        "Núcleos": 2,
+        "Frecuencia": "3500.00 mhz",
+        "Proceso_De_Fabricación": "14 nm",
+        "Gpu": "Radeon Vega 3",
+        "Hilos": 4,
+        "Frecuencia_Turbo": "3500.00 mhz"
+      },
+      "cost": 28900,
+      "img": [
+        "https://m.media-amazon.com/images/I/61THc9DLMCL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "AMD Ryzen 5 7600X",
+      "details": {
+        "Modelo": "7600X",
+        "Gama" : "alta",
+        "Socket": "AM5",
+        "Núcleos": 6,
+        "Frecuencia": "4700.00 mhz",
+        "Proceso_De_Fabricación": "5 nm",
+        "Gpu": "RDNA 2",
+        "Hilos": 12,
+        "Frecuencia_Turbo": "5300.00 mhz"
+      },
+      "cost": 104499,
+      "img": [
+        "https://media.solotodo.com/media/cache/a9/aa/a9aa19b95af1a14ac54a42db648abcd4.png"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "AMD Ryzen 7 7700X",
+      "details": {
+        "Modelo": "7700X",
+        "Gama" : "alta",
+        "Socket": "AM5",
+        "Núcleos": 8,
+        "Frecuencia": "4500.00 mhz",
+        "Proceso_De_Fabricación": "5 nm",
+        "Gpu": "RDNA 2",
+        "Hilos": 16,
+        "Frecuencia_Turbo": "5400.00 mhz"
+      },
+      "cost": 135299,
+      "img": [
+        "https://media.solotodo.com/media/cache/ed/7e/ed7e3e83959bf5eab512dc7294b77592.png"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "AMD Ryzen 9 7900X",
+      "details": {
+        "Modelo": "7900X",
+        "Gama" : "muy alta",
+        "Socket": "AM5",
+        "Núcleos": 12,
+        "Frecuencia": "4700.00 mhz",
+        "Proceso_De_Fabricación": "5 nm",
+        "Gpu": "RDNA 2",
+        "Hilos": 24,
+        "Frecuencia_Turbo": "5600.00 mhz"
+      },
+      "cost": 198399,
+      "img": [
+        "https://media.solotodo.com/media/cache/e4/68/e468fa8f97f65012a0161e03e719507d.png"
+      ]
+    },
+    {
+      "type": "procesador",
+      "brand": "AMD",
+      "name": "AMD Ryzen 9 7950X",
+      "details": {
+        "Modelo": "7950X",
+        "Gama" : "muy alta",
+        "Socket": "AM5",
+        "Núcleos": 16,
+        "Frecuencia": "4500.00 mhz",
+        "Proceso_De_Fabricación": "5 nm",
+        "Gpu": "RDNA 2",
+        "Hilos": 32,
+        "Frecuencia_Turbo": "5700.00 mhz"
+      },
+      "cost": 225987,
+      "img": [
+        "https://http2.mlstatic.com/D_NQ_NP_802813-MLA52068898511_102022-O.webp"
       ]
     },
     {
