@@ -3,6 +3,7 @@ const bcrypt = require("bcrypt");
 const { User } = require("../db.js");
 const { transporter, infoTransporter } = require("../config/mailer");
 
+
 router.post("/signup", async (req, res) => {
   try {
     const {
@@ -20,6 +21,11 @@ router.post("/signup", async (req, res) => {
       role,
       picture,
     } = req.body;
+
+    const creado = await User.findOne({where: {userName: username}})
+    if(creado){
+      return res.send(400).json('Usuario ya creado')
+    }
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
     const userCreated = await User.create({
@@ -51,6 +57,8 @@ router.post("/signup", async (req, res) => {
     res.status(400).send(error.message);
   }
 });
+
+
 
 router.get("/", async (req, res) => {
   try {

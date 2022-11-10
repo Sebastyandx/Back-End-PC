@@ -33,6 +33,7 @@ router.post("/create", async (req, res) => {
   const { id, productosCarrito } = req.body;
   try {
     // const { userId } = req;
+    console.log(productosCarrito)
     await Cart.bulkCreate(productosCarrito);
     const getUserDb = await User.findByPk(id);
 

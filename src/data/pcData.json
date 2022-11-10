@@ -1733,6 +1733,59 @@
       }
     },
     {
+      "type": "mother",
+      "brand": "MSI",
+      "name": "MSI Tarjeta Madre PRO Z690-A DDR4- ATX Socket 1700 2.5Gbps LAN/Puertos de Audio -HDMI 4 DIMM, Memoria Máxima DDR4 (128GB) - Para Intel",
+      "cost": 45722,
+      "img": [
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1668021030/pc/MSI/91ZpekDlH3L._AC_SX355__qzhega.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1668021053/pc/MSI/91aA1MS55PL._AC_SY450__bxlol3.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1668021083/pc/MSI/91DrIeV6a2L._AC_SY450__b2yu2t.jpg",
+        "https://res.cloudinary.com/dhadvdeca/image/upload/v1668021102/pc/MSI/61IZtUCyOzL._AC_SX355__yqxpho.jpg"
+      ],
+      "details": {
+        "generation": "Z690-A DDR4",
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 0,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "1 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1700 LGA"],
+        "energy": {
+          "Watts Máximos Para Cpu": 315,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "40w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 897"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
       "type": "procesador",
       "brand": "Intel",
       "name": "Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake",
@@ -6694,7 +6747,7 @@
               "https://www.viewsonic.com/vsAssetFile/global/img/slides/_lcd_display_%28new%29/XG2431/XG2431_L02_pc.jpg",
               "https://www.viewsonic.com/vsAssetFile/global/img/slides/_lcd_display_%28new%29/XG2431/XG2431_C01_pc.jpg"
           ]
-              
+          
        },
        {  
           "type":"pantalla",

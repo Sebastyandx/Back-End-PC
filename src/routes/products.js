@@ -1,7 +1,95 @@
-const {Router} = require('express')
+const {Router} = require('express');
+const { Op } = require('sequelize');
 const {Producto} = require('../db')
 const router = Router();
 const {authAdmin} = require('../middlewares/authAdmin')
+
+
+
+router.get("/intel", async(req,res) => {
+    try {
+            const { pcType } = req.query
+                   console.log(pcType)
+            if(pcType === 'baja'){
+                const filterProducts = await Producto.findAll({ where:{
+                    details:{
+                        brand: {
+                            [Op.notLike]: 'AMD'
+                        }
+                    }
+                }})
+                console.log(filterProducts)
+                return
+            }
+            if(pcType === 'media'){
+                const filterProducts = await Producto.findAll({ where:{
+                    details:{
+                        Gama: {
+                            [Op.notLike]: ['baja','alta', 'muy alta' ]
+                        }
+                    }
+                }})
+                console.log(filterProducts)
+                return
+            }
+            if(pcType === 'alta'){
+                const filterProducts = await Producto.findAll({ where:{
+                    details:{
+                        Gama: {
+                            [Op.notLike]: ['media','baja', 'muy alta' ]
+                        }
+                    }
+                }})
+                console.log(filterProducts)
+                return
+            }
+            if(pcType === 'superAlta'){
+                const filterProducts = await Producto.findAll({ where:{
+                    details:{
+                        Gama: {
+                            [Op.notLike]: ['media','alta', 'baja' ]
+                        }
+                    }
+                }})
+                console.log(filterProducts)
+                return
+            }
+
+    } catch (error) {
+        res.status(400).json(error.message)
+    }
+})
+
+router.get("/amd", async(req,res) => {
+    try {
+
+        const { gama } = req.body
+        
+        if(gama === 'workOffice'){
+                const procesadorAmd = await Producto.findAll({where: { brand: AMD }})
+                procesadorIntel.map(e => e.details.gama === 'baja')
+                res.status(200).json()
+                return
+            }
+            if(gama === 'gaming'){
+                procesadorIntel.map(e => e.details.gama === 'baja')
+                return
+            }
+            if(gama === 'professionalGaming'){
+                procesadorIntel.map(e => e.details.gama === 'baja')
+                return
+            }
+            if(gama === 'gamingAndStreaming'){
+                procesadorIntel.map(e => e.details.gama === 'baja')
+                return
+            }
+
+
+    } catch (error) {
+        res.status(400).json(error.message)
+    }
+})
+
 
 router.get("/", async (req, res) => {
     try {
