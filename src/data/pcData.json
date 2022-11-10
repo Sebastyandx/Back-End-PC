@@ -5224,6 +5224,8 @@
         "alto": "33 mm"
       }
     },
+    "cost": 4000
+    },
     {
       "type": "mother",
       "brand": "Intel",
@@ -11350,8 +11352,7 @@
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670309/pc/BALAM%20RUSH/BALAM3_mzony9.jpg",
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670312/pc/BALAM%20RUSH/BALAM4_v5bace.jpg",
         "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670364/pc/BALAM%20RUSH/BALAM5_kkmtmk.jpg"
-      ]
-    "cost": 4500
+      ]   
   },
   {
     "type": "teclado",
