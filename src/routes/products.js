@@ -38,7 +38,7 @@ router.get("/", async (req, res) => {
 router.get('/:id', async (req,res) => {
     const {id} = req.params;
     try {
-        const detailProduct = await Producto.findByPk(productoId);
+        const detailProduct = await Producto.findByPk(id);
         res.json(detailProduct)
     } catch (error) {
         res.json(error)
