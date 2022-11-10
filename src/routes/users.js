@@ -44,7 +44,7 @@ router.post("/signup", async (req, res) => {
     });
     
     await userCreated.save();
-    
+
     await infoTransporter(
       "gonzalogaete602@gmail.com",
       email,
