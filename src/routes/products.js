@@ -38,12 +38,7 @@ router.get("/", async (req, res) => {
 router.get('/:id', async (req,res) => {
     const {id} = req.params;
     try {
-        const detailProduct = await Producto.findOne({
-            where: {
-                id,
-                enabled: true,
-            }
-        })
+        const detailProduct = await Producto.findByPk(productoId);
         res.json(detailProduct)
     } catch (error) {
         res.json(error)
@@ -69,12 +64,7 @@ router.put("",authAdmin(["admin"]), async (req, res) => {
     const {name, brand, img, details, cost, type} = req.body;
     const {id} = req.query
     try {
-        const productSelected = await Producto.findOne({
-            where: {
-                id,
-                enabled: true,
-            }
-        })
+        const productSelected = await Producto.findByPk(productoId);
         await productSelected.update({name, brand, img, details, cost, type})
         res.status(200).send(`Producto Actualizado`)
     } catch (error) {
@@ -87,12 +77,7 @@ router.put("/:id",authAdmin(["admin"]), async (req, res) => {
 
     const {id} = req.params
     try {
-        const product = await Producto.findOne({
-            where: {
-                id,
-                enabled: true,
-            }
-        })
+        const product = await Producto.findByPk(id);
         await product.update({enabled: false})
         res.json(`Producto ${whatProduct} eliminado`)
     } catch (error) {
