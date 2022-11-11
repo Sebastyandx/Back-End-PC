@@ -116,6 +116,19 @@ router.get("/amd", async (req, res) => {
   }
 });
 
+router.get("/enabled", async (req, res) => {
+  try {
+    const removedProducts = await Producto.findAll({
+      where: {
+        enabled: false,
+      },
+    });
+    res.json(removedProducts);
+  } catch (error) {
+    res.status(404).send(error);
+  }
+});
+
 router.get("/", async (req, res) => {
   try {
     const { name } = req.query;
@@ -160,6 +173,7 @@ router.get("/:id", async (req, res) => {
   }
 });
 
+// , authAdmin(["admin"])
 router.post("/create", authAdmin(["admin"]), async (req, res) => {
   const { name, brand, cost, type, img, details } = req.body;
   console.log(req.body);
@@ -183,7 +197,8 @@ router.post("/create", authAdmin(["admin"]), async (req, res) => {
   }
 });
 
-router.put("", authAdmin(["admin"]), async (req, res) => {
+// , authAdmin(["admin"])
+router.put("/", authAdmin(["admin"]), async (req, res) => {
   const { name, brand, img, details, cost, type } = req.body;
   const { id } = req.query;
   try {
@@ -195,7 +210,19 @@ router.put("", authAdmin(["admin"]), async (req, res) => {
   }
 });
 
+router.put("/restore/:id", authAdmin(["admin"]), async (req, res) => {
+  const { id } = req.params;
+  try {
+    const product = await Producto.findByPk(id);
+    await product.update({ enabled: true });
+    res.send("Proucto Restaurado");
+  } catch (error) {
+    res.send(error);
+  }
+});
+
 // Ruta para "eliminar", cambio enabled a false, no se elimina de la db
+// , authAdmin(["admin"])
 router.put("/:id", authAdmin(["admin"]), async (req, res) => {
   const { id } = req.params;
   try {
@@ -206,5 +233,7 @@ router.put("/:id", authAdmin(["admin"]), async (req, res) => {
     res.send(error);
   }
 });
+
+
 
 module.exports = router;
