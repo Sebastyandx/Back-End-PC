@@ -39,7 +39,7 @@ const createOrder = async (usuario, data) => {
 };
 
 router.post("/", async (req, res) => {
-  const line_items = req.body.cartItem.map((item) => {
+  const line_items = req.body.map((item) => {
     return {
       price_data: {
         unit_amount: item.cost * 100,
