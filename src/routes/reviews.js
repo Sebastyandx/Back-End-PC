@@ -57,6 +57,16 @@ router.get("/", async (req, res) => {
   }
 });
 
+router.get("/:id", async (req, res) => {
+  const {id } = req.params;
+  try {
+    const review = await Review.findByPk(id);
+    res.json(review)
+  } catch (error) {
+    res.status(404).send(error);
+  }
+});
+
 router.post("/", async (req, res) => {
   const { title, description, rating, userId, productoId } = req.body;
 
