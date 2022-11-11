@@ -2,6 +2,24 @@ const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
 const router = require("express").Router();
 const { User } = require("../db");
+const {authAdmin} = require('../middlewares/authAdmin.js');
+
+router.get("/name", authAdmin(["user"]), async(req,res) => {
+  try {
+    const { userId } = req
+
+    console.log(userId)
+    
+    const userFound = await User.findByPk(userId)
+
+    console.log(userFound)
+
+    res.status(200).json(userFound)
+
+  } catch (error) {
+    res.status(400).json(error.message)
+  }
+})
 
 router.post("/", async (req, res) => {
   try {
