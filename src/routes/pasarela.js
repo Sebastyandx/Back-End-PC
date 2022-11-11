@@ -6,7 +6,7 @@ const router = Router();
 const express = require("express");
 const Order = require("../models/Orden");
 
-const YOUR_DOMAIN = "http://localhost:3000";
+const YOUR_DOMAIN = "https://e-commerce-sage-two.vercel.app";
 
 const createOrder = async (usuario, data) => {
   const Items = JSON.parse(usuario.metadata.cart);

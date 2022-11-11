@@ -20,7 +20,11 @@ module.exports = (sequelize) => {
     quantity: {
       type: DataTypes.INTEGER,
       defaultValue: 1
-    }
+    },
+    discount: {
+      type: DataTypes.INTEGER,
+      defaultValue: 0,
+    },
   },{
     timestamps: false
   });

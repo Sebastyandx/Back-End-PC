@@ -3,6 +3,7 @@ const bcrypt = require("bcrypt");
 const { User } = require("../db.js");
 const { transporter, infoTransporter } = require("../config/mailer");
 
+
 router.post("/signup", async (req, res) => {
   try {
     const {
@@ -20,6 +21,11 @@ router.post("/signup", async (req, res) => {
       role,
       picture,
     } = req.body;
+
+    const creado = await User.findOne({where: {userName: username}})
+    if(creado){
+      return res.send(400).json('Usuario ya creado')
+    }
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
     const userCreated = await User.create({
@@ -34,13 +40,13 @@ router.post("/signup", async (req, res) => {
       address: address,
       city: city,
       show,
-      role: role
+      role: role,
     });
-    
+
     await userCreated.save();
 
     await infoTransporter(
-      "gonzalogaete602@gmail.com",
+      "gonzalogaete110@gmail.com",
       email,
       "Bienvenido a GamerTech",
       `<h2>Te haz registrado en GamerTech, Felicidades!</h2>`
@@ -52,6 +58,8 @@ router.post("/signup", async (req, res) => {
   }
 });
 
+
+
 router.get("/", async (req, res) => {
   try {
     const allUsers = await User.findAll();
@@ -61,8 +69,8 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.put("/edit", async (req,res)=>{
-  try{
+router.put("/edit", async (req, res) => {
+  try {
     const {
       id,
       first_name,
@@ -92,14 +100,14 @@ router.put("/edit", async (req,res)=>{
         city,
         show,
         role,
-      }, 
-        {where: {id}}
-    ).then(e => {
-      res.status(200).send("usuario modificado")
-    })
-  }catch(error){
-    res.send(error.message)
+      },
+      { where: { id } }
+    ).then((e) => {
+      res.status(200).send("usuario modificado");
+    });
+  } catch (error) {
+    res.send(error.message);
   }
-})
+});
 
 module.exports = router;
