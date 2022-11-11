@@ -17,20 +17,20 @@ module.exports = (sequelize) => {
     userName: {
       type: DataTypes.STRING,
       allowNull: false,
-      unique: true
+      unique: true,
     },
     email: {
       type: DataTypes.STRING,
       allowNull: false,
-      unique: true
+      unique: true,
     },
     passwordHash: {
       type: DataTypes.STRING,
-      allowNull: false
+      allowNull: false,
     },
     birthday: {
       type: DataTypes.STRING,
-    }, 
+    },
     phone: {
       type: DataTypes.STRING,
     },
@@ -38,21 +38,25 @@ module.exports = (sequelize) => {
       type: DataTypes.STRING,
     },
     city: {
-      type: DataTypes.STRING
+      type: DataTypes.STRING,
     },
     address: {
       type: DataTypes.STRING,
     },
     role: {
       type: DataTypes.ENUM(["user", "admin", "superAdmin"]),
-      defaultValue: "user"
+      defaultValue: "user",
     },
-    show:{
+    show: {
       type: DataTypes.BOOLEAN,
       defaultValue: true,
     },
-    picture:{
+    picture: {
       type: DataTypes.TEXT,
-    }
+    },
+    favoritos: {
+      type: DataTypes.ARRAY(DataTypes.JSON),
+      defaultValue: [],
+    },
   });
 };

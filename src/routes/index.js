@@ -10,6 +10,7 @@ const pasarela = require("./pasarela.js");
 const router = Router();
 const discount = require("./discount.js");
 const stock = require("./stock.js");
+const favoritos = require("./favoritos.js");
 // Configurar los routers
 // Ejemplo: router.use('/auth', authRouter);
 
@@ -19,5 +20,6 @@ router.use("/user/login", usersLogin);
 router.use("/cart", cart);
 router.use("/discount", discount);
 router.use("/stock", stock);
+router.use("/favoritos", favoritos);
 router.use("/create-checkout-session", pasarela);
 module.exports = router;
