@@ -1,5 +1,4 @@
 const pcData = require("../data/pcData.json");
-const obj = require("../../fn");
 const { Producto } = require("../db.js");
 const funcion = require("../../fn");
 
