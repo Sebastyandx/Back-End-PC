@@ -156,7 +156,7 @@ router.get("/:id", async (req, res) => {
     const detailProduct = await Producto.findByPk(id);
     res.json(detailProduct);
   } catch (error) {
-    res.json(error);
+    res.json(error.message);
   }
 });
 
