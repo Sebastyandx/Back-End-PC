@@ -33,7 +33,7 @@
         "Cantidad De Slot M.2 Sata": 0,
         "Cantidad De Slot M.2 Nvme": 2
       },
-      "Socket": ["1700 Alder Lake-S,1700 Raptor Lake"],
+      "Socket": ["1700 Alder Lake-S","1700 Raptor Lake"],
       "energy": {
         "Watts Máximos Para Cpu": 235,
         "Conectos Cpu 4Pines": 1,
@@ -85,7 +85,7 @@
         "Cantidad De Slot M.2 Sata": 1,
         "Cantidad De Slot M.2 Nvme": 4
       },
-      "Socket": ["1700 Alder Lake-S,1700 Raptor Lake"],
+      "Socket": ["1700 Alder Lake-S","1700 Raptor Lake"],
       "energy": {
         "Watts Máximos Para Cpu": 395,
         "Conectos Cpu 4Pines": 1,
@@ -137,7 +137,7 @@
         "Cantidad De Slot M.2 Sata": 1,
         "Cantidad De Slot M.2 Nvme": 5
       },
-      "Socket": ["1700 Alder Lake-S,1700 Raptor Lake"],
+      "Socket": ["1700 Alder Lake-S","1700 Raptor Lake"],
       "energy": {
         "Watts Máximos Para Cpu": 125,
         "Conectos Cpu 4Pines": 1,
