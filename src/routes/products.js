@@ -198,9 +198,9 @@ router.post("/create", authAdmin(["admin"]), async (req, res) => {
 });
 
 // , authAdmin(["admin"])
-router.put("/", authAdmin(["admin"]), async (req, res) => {
+router.put("/update/:id", authAdmin(["admin"]), async (req, res) => {
   const { name, brand, img, details, cost, type } = req.body;
-  const { id } = req.query;
+  const { id } = req.params;
   try {
     const productSelected = await Producto.findByPk(id);
     await productSelected.update({ name, brand, img, details, cost, type });
@@ -223,10 +223,12 @@ router.put("/restore/:id", authAdmin(["admin"]), async (req, res) => {
 
 // Ruta para "eliminar", cambio enabled a false, no se elimina de la db
 // , authAdmin(["admin"])
-router.put("/:id", authAdmin(["admin"]), async (req, res) => {
+router.put("/delete/:id", authAdmin(["admin"]), async (req, res) => {
   const { id } = req.params;
+  console.log(id)
   try {
     const product = await Producto.findByPk(id);
+    console.log(product)
     await product.update({ enabled: false });
     res.json(`Producto ${whatProduct} eliminado`);
   } catch (error) {
