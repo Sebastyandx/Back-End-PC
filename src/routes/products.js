@@ -173,8 +173,7 @@ router.get("/:id", async (req, res) => {
   }
 });
 
-// , authAdmin(["admin"])
-router.post("/create", authAdmin(["admin"]), async (req, res) => {
+router.post("/create", authAdmin(["admin", "superAdmin"]), async (req, res) => {
   const { name, brand, cost, type, img, details } = req.body;
   console.log(req.body);
   try {
@@ -191,26 +190,28 @@ router.post("/create", authAdmin(["admin"]), async (req, res) => {
       img,
       details,
     });
-    res.json(productCreate);
+    res.status(200).json({ message: "El producto fue creado." });
   } catch (error) {
-    res.send(error);
+    res.status(400).json({ message: "Hubo un error al crear el producto." });
   }
 });
 
-// , authAdmin(["admin"])
-router.put("/update/:id", authAdmin(["admin"]), async (req, res) => {
-  const { name, brand, img, details, cost, type } = req.body;
-  const { id } = req.params;
-  try {
-    const productSelected = await Producto.findByPk(id);
-    await productSelected.update({ name, brand, img, details, cost, type });
-    res.status(200).send(`Producto Actualizado`);
-  } catch (error) {
-    res.status(400).json(error);
-  }
-});
 
-router.put("/restore/:id", authAdmin(["admin"]), async (req, res) => {
+router.put("/update/:id", authAdmin(["admin", "superAdmin"]), async (req, res) => {
+    const { name, brand, img, details, cost, type } = req.body;
+    console.log(req.body)
+    const { id } = req.params;
+    try {
+      const productSelected = await Producto.findByPk(id);
+      await productSelected.update({ name, brand, img, details, cost, type });
+      res.status(200).json({ message: "El producto fue actualizado." });
+    } catch (error) {
+      res.status(400).json({ message: "Hubo un error al editar el producto." });
+    }
+  }
+);
+
+router.put("/restore/:id", authAdmin(["superAdmin"]), async (req, res) => {
   const { id } = req.params;
   try {
     const product = await Producto.findByPk(id);
@@ -223,19 +224,17 @@ router.put("/restore/:id", authAdmin(["admin"]), async (req, res) => {
 
 // Ruta para "eliminar", cambio enabled a false, no se elimina de la db
 // , authAdmin(["admin"])
-router.put("/delete/:id", authAdmin(["admin"]), async (req, res) => {
+router.put("/delete/:id", authAdmin(["superAdmin"]), async (req, res) => {
   const { id } = req.params;
-  console.log(id)
+  console.log(id);
   try {
     const product = await Producto.findByPk(id);
-    console.log(product)
+    console.log(product);
     await product.update({ enabled: false });
     res.json(`Producto ${whatProduct} eliminado`);
   } catch (error) {
     res.send(error);
   }
 });
-
-
 
 module.exports = router;

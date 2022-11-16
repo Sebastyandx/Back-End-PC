@@ -70,9 +70,9 @@ router.get("/", async (req, res) => {
 
 
 
-router.put("/edit",authAdmin(["user", "admin"]), async (req, res) => {
+router.put("/edit",authAdmin(["user", "admin", "superAdmin"]), async (req, res) => {
   try {
-
+console.log('entre al edit')
     const { userId } = req;
     const {
       first_name,
