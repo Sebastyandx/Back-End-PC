@@ -15,20 +15,14 @@ const getAllUser = async () => {
     res.send(error);
   }
 };
-const postOrden = async (ordenId, emailUser, lineItems) => {
+const postOrden = async (emailUser, lineItems) => {
   try {
-    const id = ordenId;
     const data = lineItems;
-    console.log("ORDEN ID", ordenId);
+    const email = emailUser;
     const ordenCreate = await Orden.create({
-      id: id,
       data: data,
+      email: email,
     });
-    const UserEmail = await User.findOne({
-      where: { email: emailUser },
-    });
-
-    await UserEmail.addOrden(ordenCreate);
     return ordenCreate;
   } catch (error) {
     console.log(error);
