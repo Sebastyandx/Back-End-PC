@@ -1,5 +1,5 @@
 const pcData = require("../data/pcData.json");
-const { Producto } = require("../db.js");
+const { Producto, User } = require("../db.js");
 const funcion = require("../../fn");
 
 function createAllProducts() {
