@@ -1,7 +1,9 @@
 const router = require("express").Router();
 const bcrypt = require("bcrypt");
-const { User } = require("../db.js");
+const { User, Orden } = require("../db.js");
 const { transporter, infoTransporter } = require("../config/mailer");
+
+const { authAdmin } = require("../middlewares/authAdmin");
 
 router.post("/signup", async (req, res) => {
   try {
@@ -20,6 +22,11 @@ router.post("/signup", async (req, res) => {
       role,
       picture,
     } = req.body;
+
+    const creado = await User.findOne({ where: { userName: username } });
+    if (creado) {
+      return res.send(400).json("Usuario ya creado");
+    }
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
     const userCreated = await User.create({
@@ -61,10 +68,12 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.put("/edit", async (req, res) => {
+
+router.put("/edit",authAdmin(["user", "admin"]), async (req, res) => {
+
   try {
+    const { userId } = req;
     const {
-      id,
       first_name,
       last_name,
       username,
@@ -77,6 +86,7 @@ router.put("/edit", async (req, res) => {
       city,
       show,
       role,
+      picture,
     } = req.body;
     User.update(
       {
@@ -92,8 +102,10 @@ router.put("/edit", async (req, res) => {
         city,
         show,
         role,
+        picture,
       },
-      { where: { id } }
+
+      { where: { id: userId } }
     ).then((e) => {
       res.status(200).send("usuario modificado");
     });
