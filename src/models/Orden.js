@@ -6,5 +6,9 @@ module.exports = (sequelize) => {
       allowNull: false,
       primaryKey: true,
     },
+    data: {
+      type: DataTypes.ARRAY(DataTypes.JSON),
+      allowNull: false,
+    },
   });
 };

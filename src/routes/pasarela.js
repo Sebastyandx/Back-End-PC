@@ -8,7 +8,7 @@ const express = require("express");
 const Order = require("../models/Orden");
 const { getAllUser, postOrden } = require("./Controllers/usuario");
 
-const YOUR_DOMAIN = "https://e-commerce-sage-two.vercel.app";
+const YOUR_DOMAIN = "http://localhost:3000";
 
 /*const createOrder = async (data) => {
   /*const Items = JSON.parse(usuario.metadata.cart);
@@ -110,9 +110,7 @@ router.post("/", async (req, res) => {
       enabled: true,
     },
     line_items,
-    metadata: {
-      name: item.name,
-    },
+    metadata: {},
     mode: "payment",
     success_url: `${YOUR_DOMAIN}?success=true`,
     cancel_url: `${YOUR_DOMAIN}?canceled=true`,
@@ -172,19 +170,20 @@ router.post(
           where: { email: emailUser },
         });
         console.log(emailExistente.email);
+
         if (emailExistente !== null) {
           console.log("Existe el email");
           let id = data.payment_intent;
           console.log(id);
-          await postOrden(id, emailExistente.email);
+          stripe.checkout.sessions.listLineItems(
+            data.id,
+            {},
+            function (err, lineItems) {
+              console.log("lineitem!", lineItems);
+              postOrden(id, emailExistente.email, lineItems.data);
+            }
+          );
         }
-        stripe.checkout.sessions.listLineItems(
-          data.id,
-          {},
-          function (err, lineItems) {
-            console.log("lineitem!", lineItems);
-          }
-        );
       } catch {
         res.send(400).json("Errr");
       }

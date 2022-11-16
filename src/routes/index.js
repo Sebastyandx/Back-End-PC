@@ -25,5 +25,6 @@ router.use("/discount", discount);
 router.use("/stock", stock);
 router.use("/favoritos", favoritos);
 router.use("/reviews", reviews);
+
 router.use("/ordenes", ordenes);
 module.exports = router;

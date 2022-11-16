@@ -12,6 +12,7 @@ const getOrdenDB = async () => {
     },
   });
   let mapDb = dbOrden.map((e) => e.dataValues);
+
   return mapDb;
 };
 

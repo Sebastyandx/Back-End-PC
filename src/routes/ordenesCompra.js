@@ -9,4 +9,12 @@ router.get("/", async (req, res) => {
   res.status(200).send(Ordenes);
 });
 
-module.exports = router;
+router.get("/", async (req, res) => {
+  const id = autetificado;
+  const Ordenes = await Orden.findAll();
+  console.log("asdasdasd");
+  console.log(Ordenes);
+  res.status(200).send(Ordenes);
+});
+
+router.module.exports = router;
