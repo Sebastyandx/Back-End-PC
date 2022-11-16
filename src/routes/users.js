@@ -68,10 +68,12 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.put("/edit", authAdmin(["user"]), async (req, res) => {
+
+// ,authAdmin(["user"])
+router.put("/edit", async (req, res) => {
   try {
-    const { userId } = req;
     const {
+      id,
       first_name,
       last_name,
       username,
@@ -102,7 +104,8 @@ router.put("/edit", authAdmin(["user"]), async (req, res) => {
         role,
         picture,
       },
-      { where: { id: userId } }
+
+     { where: { id } }
     ).then((e) => {
       res.status(200).send("usuario modificado");
     });
