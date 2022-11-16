@@ -2,7 +2,8 @@ const router = require("express").Router();
 const bcrypt = require("bcrypt");
 const { User } = require("../db.js");
 const { transporter, infoTransporter } = require("../config/mailer");
-const {authAdmin} = require('../middlewares/authAdmin');
+
+const { authAdmin } = require("../middlewares/authAdmin");
 
 router.post("/signup", async (req, res) => {
   try {
@@ -22,9 +23,9 @@ router.post("/signup", async (req, res) => {
       picture,
     } = req.body;
 
-    const creado = await User.findOne({where: {userName: username}})
-    if(creado){
-      return res.send(400).json('Usuario ya creado')
+    const creado = await User.findOne({ where: { userName: username } });
+    if (creado) {
+      return res.send(400).json("Usuario ya creado");
     }
     const saltRounds = 10;
     const passwordHash = await bcrypt.hash(password, saltRounds);
@@ -58,8 +59,6 @@ router.post("/signup", async (req, res) => {
   }
 });
 
-
-
 router.get("/", async (req, res) => {
   try {
     const allUsers = await User.findAll();
@@ -69,11 +68,10 @@ router.get("/", async (req, res) => {
   }
 });
 
+
 // ,authAdmin(["user"])
 router.put("/edit", async (req, res) => {
   try {
-
-    // const { userId } = req;
     const {
       id,
       first_name,
@@ -88,7 +86,7 @@ router.put("/edit", async (req, res) => {
       city,
       show,
       role,
-      picture
+      picture,
     } = req.body;
     User.update(
       {
@@ -104,9 +102,10 @@ router.put("/edit", async (req, res) => {
         city,
         show,
         role,
-        picture
+        picture,
       },
-      { where: { id } }
+
+     { where: { id } }
     ).then((e) => {
       res.status(200).send("usuario modificado");
     });

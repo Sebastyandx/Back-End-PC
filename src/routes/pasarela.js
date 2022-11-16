@@ -3,25 +3,27 @@ const stripe = require("stripe")(
   "sk_test_51LzjIhLcIyy0hyPQUCtHdZLSo5AD686uI7ruRmsyARwb76mnyQH6wDSYBlRXp0claAHjYyTpkxCVixqO0MFlA42G00IPF04Xba"
 );
 const router = Router();
+const { User } = require("../db.js");
 const express = require("express");
 const Order = require("../models/Orden");
+const { getAllUser, postOrden } = require("./Controllers/usuario");
 
-const YOUR_DOMAIN = "https://e-commerce-sage-two.vercel.app";
+const YOUR_DOMAIN = "http://localhost:3000";
 
-const createOrder = async (usuario, data) => {
-  const Items = JSON.parse(usuario.metadata.cart);
-
+/*const createOrder = async (data) => {
+  /*const Items = JSON.parse(usuario.metadata.cart);
+ 
   console.log(
     "----------------------------ITEMS--------------------------------------------"
-  );
-  console.log(Items);
+  );*/
 
-  const products = Items.map((item) => {
+/*  const products = Items.map((item) => {
     return {
       productId: item.id,
       quantity: item.cartQuantity,
     };
   });
+  console.log(products);
 
   const newOrder = new Order({
     id: data.id,
@@ -36,9 +38,9 @@ const createOrder = async (usuario, data) => {
   } catch (err) {
     console.log(err);
   }
-};
-
+}; */
 router.post("/", async (req, res) => {
+  console.log(req.body.cartItem);
   const line_items = req.body.cartItem.map((item) => {
     return {
       price_data: {
@@ -108,6 +110,7 @@ router.post("/", async (req, res) => {
       enabled: true,
     },
     line_items,
+    metadata: {},
     mode: "payment",
     success_url: `${YOUR_DOMAIN}?success=true`,
     cancel_url: `${YOUR_DOMAIN}?canceled=true`,
@@ -121,7 +124,6 @@ router.post(
   async (req, res) => {
     let data;
     let eventType;
-    let { userId } = req.body;
     // Check if webhook signing is configured.
     let webhookSecret;
     // webhookSecret ="whsec_4a42d188483fc8a2e1432029a2c9e81bfd14e94b6e427ce2a49b793dde076ec5";
@@ -158,16 +160,56 @@ router.post(
       "-------------------------------eventType-------------------------------------------"
     );
     console.log(eventType);
-    console.log(
-      "-------------------------------USUARIO-------------------------------------------"
-    );
-    console.log(userId);
     // Handle the checkout.session.completed event
 
     if (eventType === "checkout.session.completed") {
-      stripe.customers
+      console.log(data.customer_details.email);
+      let emailUser = data.customer_details.email;
+      try {
+        let emailExistente = await User.findOne({
+          where: { email: emailUser },
+        });
+        console.log(emailExistente.email);
+
+        if (emailExistente !== null) {
+          console.log("Existe el email");
+          let id = data.payment_intent;
+          console.log(id);
+          stripe.checkout.sessions.listLineItems(
+            data.id,
+            {},
+            function (err, lineItems) {
+              console.log("lineitem!", lineItems);
+              postOrden(id, emailExistente.email, lineItems.data);
+            }
+          );
+        }
+      } catch {
+        res.send(400).json("Errr");
+      }
+      /*  router.get("/", async (req, res) => {
+        try {
+          const allUsers = await User.findAll();
+          res.json(allUsers);
+        } catch (error) {
+          res.send(error);
+        }
+      });
+      let emailUser = data.customer_details.email;
+      try {
+        const verficarEmail = await User.findOne({
+          where: { email: emailUser },
+        });
+        if (verficarEmail) {
+          return res.send(200).json("Usuario encontrado");
+        }
+      } catch {
+        res.send(401).json("No existe ese usuario");
+      } */
+
+      /* stripe.customers
         .retrieve(userId)
-        .then(async (userId) => {
+        .then(async (usuario) => {
           try {
             // CREATE ORDER
             createOrder(usuario, data);
@@ -176,13 +218,10 @@ router.post(
             console.log(err);
           }
         })
-        .catch((err) => console.log(err.message));
+        .catch((err) => console.log(err.message));*/
     }
 
-    res.status(200).end();
-    if (eventType === "checkout.session.completed") {
-      createOrder(data);
-    }
+    res.status(200).end("Felicitaciones por la compra");
   }
 );
 module.exports = router;
