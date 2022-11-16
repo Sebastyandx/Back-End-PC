@@ -16,5 +16,4 @@ router.get("/", async (req, res) => {
   console.log(Ordenes);
   res.status(200).send(Ordenes);
 });
-
-router.module.exports = router;
+module.exports = router;
