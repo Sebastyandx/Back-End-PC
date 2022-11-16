@@ -16,7 +16,7 @@ const authAdmin = (permissions) => {
     }
     const {id: userId} = decodedToken
     req.userId = userId
-
+    console.log(permissions)
     const userFound = await User.findByPk(userId)
     console.log(userFound)
     if(permissions.includes(userFound.role)){
