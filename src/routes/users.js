@@ -70,7 +70,7 @@ router.get("/", async (req, res) => {
 
 
 
-router.put("/edit",authAdmin(["user"]), async (req, res) => {
+router.put("/edit",authAdmin(["user", "admin"]), async (req, res) => {
   try {
 
     const { userId } = req;
