@@ -3,6 +3,8 @@ const bcrypt = require("bcrypt");
 const { User } = require("../db.js");
 const { transporter, infoTransporter } = require("../config/mailer");
 
+const { authAdmin } = require("../middlewares/authAdmin");
+
 router.post("/signup", async (req, res) => {
   try {
     const {
@@ -66,10 +68,10 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.put("/edit", async (req, res) => {
+router.put("/edit", authAdmin(["user"]), async (req, res) => {
   try {
+    const { userId } = req;
     const {
-      id,
       first_name,
       last_name,
       username,
@@ -82,6 +84,7 @@ router.put("/edit", async (req, res) => {
       city,
       show,
       role,
+      picture,
     } = req.body;
     User.update(
       {
@@ -97,8 +100,9 @@ router.put("/edit", async (req, res) => {
         city,
         show,
         role,
+        picture,
       },
-      { where: { id } }
+      { where: { id: userId } }
     ).then((e) => {
       res.status(200).send("usuario modificado");
     });

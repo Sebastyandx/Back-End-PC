@@ -8,11 +8,11 @@ router.get("/name", authAdmin(["user"]), async(req,res) => {
   try {
     const { userId } = req
 
-    console.log(userId)
+    // console.log(userId)
     
     const userFound = await User.findByPk(userId)
 
-    console.log(userFound)
+    // console.log(userFound)
 
     res.status(200).json(userFound)
 
