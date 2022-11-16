@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const bcrypt = require("bcrypt");
-const { User } = require("../db.js");
+const { User, Orden } = require("../db.js");
 const { transporter, infoTransporter } = require("../config/mailer");
 
 const { authAdmin } = require("../middlewares/authAdmin");
@@ -68,11 +68,8 @@ router.get("/", async (req, res) => {
   }
 });
 
-
-
-router.put("/edit",authAdmin(["user"]), async (req, res) => {
+router.put("/edit", authAdmin(["user"]), async (req, res) => {
   try {
-
     const { userId } = req;
     const {
       first_name,
@@ -106,7 +103,7 @@ router.put("/edit",authAdmin(["user"]), async (req, res) => {
         picture,
       },
 
-     { where: { id: userId } }
+      { where: { id: userId } }
     ).then((e) => {
       res.status(200).send("usuario modificado");
     });

@@ -180,7 +180,7 @@ router.post(
             {},
             function (err, lineItems) {
               console.log("lineitem!", lineItems);
-              postOrden(id, emailExistente.email, lineItems.data);
+              postOrden(emailExistente.email, lineItems.data);
             }
           );
         }
