@@ -10,15 +10,16 @@ const authAdmin = (permissions) => {
     }
     let decodedToken = {}
     decodedToken = jwt.verify(token, process.env.SECRET)
-    console.log(decodedToken)
+    // console.log(decodedToken)
     if(!token || !decodedToken.id){
         return res.status(401).json({ error: 'token missing or invalid'})
     }
     const {id: userId} = decodedToken
     req.userId = userId
-    console.log(permissions)
     const userFound = await User.findByPk(userId)
-    console.log(userFound)
+    
+    console.log('permisos',permissions)
+    console.log('rol de user',userFound.role)
     if(permissions.includes(userFound.role)){
             next()
         } else {
@@ -26,7 +27,8 @@ const authAdmin = (permissions) => {
         }
     }
         } catch (error) {
-            res.status(400).send(error.message)
+            // res.status(400).send(error.message)
+            console.error(error)
         }
         
 }
