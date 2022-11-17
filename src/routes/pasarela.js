@@ -10,37 +10,8 @@ const { getAllUser, postOrden } = require("./Controllers/usuario");
 
 //const YOUR_DOMAIN = "http://localhost:3000";
 const YOUR_DOMAIN = "https://e-commerce-sage-two.vercel.app";
-/*const createOrder = async (data) => {
-  /*const Items = JSON.parse(usuario.metadata.cart);
  
-  console.log(
-    "----------------------------ITEMS--------------------------------------------"
-  );*/
-
-/*  const products = Items.map((item) => {
-    return {
-      productId: item.id,
-      quantity: item.cartQuantity,
-    };
-  });
-  console.log(products);
-
-  const newOrder = new Order({
-    id: data.id,
-    pm: data.payment_method,
-    status: data.status,
-    products,
-  });
-
-  try {
-    const savedOrder = await newOrder.save();
-    console.log("Processed Order:", savedOrder);
-  } catch (err) {
-    console.log(err);
-  }
-}; */
 router.post("/", async (req, res) => {
-  console.log(req.body.cartItem);
   const line_items = req.body.cartItem.map((item) => {
     return {
       price_data: {
@@ -51,11 +22,6 @@ router.post("/", async (req, res) => {
       quantity: item.quantity,
     };
   });
-
-  console.log(
-    "-----------------------------Line_Items---------------------------------------------------"
-  );
-  console.log(line_items[0].price_data);
 
   const session = await stripe.checkout.sessions.create({
     payment_method_types: ["card"],
@@ -140,7 +106,6 @@ router.post(
           webhookSecret
         );
       } catch (err) {
-        console.log(`⚠️  Webhook signature verification failed:  ${err}`);
         return res.sendStatus(400);
       }
       // Extract the object from the event.
@@ -152,34 +117,22 @@ router.post(
       data = req.body.data.object;
       eventType = req.body.type;
     }
-    console.log(
-      "-------------------------------DATA-------------------------------------------"
-    );
-    console.log(data);
-    console.log(
-      "-------------------------------eventType-------------------------------------------"
-    );
-    console.log(eventType);
+
     // Handle the checkout.session.completed event
 
     if (eventType === "checkout.session.completed") {
-      console.log(data.customer_details.email);
       let emailUser = data.customer_details.email;
       try {
         let emailExistente = await User.findOne({
           where: { email: emailUser },
         });
-        console.log(emailExistente.email);
 
         if (emailExistente !== null) {
-          console.log("Existe el email");
           let id = data.payment_intent;
-          console.log(id);
           stripe.checkout.sessions.listLineItems(
             data.id,
             {},
             function (err, lineItems) {
-              console.log("lineitem!", lineItems);
               postOrden(emailExistente.email, lineItems.data);
             }
           );
@@ -187,38 +140,6 @@ router.post(
       } catch {
         res.send(400).json("Errr");
       }
-      /*  router.get("/", async (req, res) => {
-        try {
-          const allUsers = await User.findAll();
-          res.json(allUsers);
-        } catch (error) {
-          res.send(error);
-        }
-      });
-      let emailUser = data.customer_details.email;
-      try {
-        const verficarEmail = await User.findOne({
-          where: { email: emailUser },
-        });
-        if (verficarEmail) {
-          return res.send(200).json("Usuario encontrado");
-        }
-      } catch {
-        res.send(401).json("No existe ese usuario");
-      } */
-
-      /* stripe.customers
-        .retrieve(userId)
-        .then(async (usuario) => {
-          try {
-            // CREATE ORDER
-            createOrder(usuario, data);
-          } catch (err) {
-            console.log(typeof createOrder);
-            console.log(err);
-          }
-        })
-        .catch((err) => console.log(err.message));*/
     }
 
     res.status(200).end("Felicitaciones por la compra");

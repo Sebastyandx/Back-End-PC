@@ -3,7 +3,6 @@ const { User, Producto } = require("../db");
 
 router.post("/", async (req, res) => {
   const { productId, userId } = req.body;
-  console.log(productId, userId);
 
   if (!productId || !userId) {
     return res.status(400).send("Parametros insuficientes");
@@ -54,12 +53,9 @@ router.post("/delete", async (req, res) => {
     }
     const user = await User.findByPk(userId);
 
-    console.log(user.favoritos);
     const filterArr = user.favoritos?.filter((p) => p.id !== productId);
 
     await User.update({ favoritos: filterArr }, { where: { id: userId } });
-
-    console.log(filterArr);
 
     res
       .status(200)

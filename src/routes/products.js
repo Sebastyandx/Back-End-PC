@@ -7,7 +7,6 @@ const { authAdmin } = require("../middlewares/authAdmin");
 router.get("/intel", async (req, res) => {
   try {
     const { pcType } = req.query;
-    console.log(pcType);
     const Products = await Producto.findAll();
     const intelProducts = Products.filter(
       (e) => e.brand !== "AMD" && e.brand !== "Radeon AMD"
@@ -23,7 +22,6 @@ router.get("/intel", async (req, res) => {
           e.details.Gama !== "alta" &&
           e.details.Gama !== "muy alta"
       );
-      console.log(gamaBaja);
       return res.status(200).json(gamaBaja);
     }
     if (pcType === "media") {
@@ -33,7 +31,6 @@ router.get("/intel", async (req, res) => {
           e.details.Gama !== "alta" &&
           e.details.Gama !== "muy alta"
       );
-      console.log(gamaMedia);
       return res.status(200).json(gamaMedia);
     }
     if (pcType === "alta") {
@@ -43,7 +40,6 @@ router.get("/intel", async (req, res) => {
           e.details.Gama !== "baja" &&
           e.details.Gama !== "muy alta"
       );
-      console.log(gamaAlta);
       return res.status(200).json(gamaAlta);
     }
     if (pcType === "muy alta") {
@@ -53,7 +49,6 @@ router.get("/intel", async (req, res) => {
           e.details.Gama !== "baja" &&
           e.details.Gama !== "alta"
       );
-      console.log(gamaMuyAlta);
       return res.status(200).json(gamaMuyAlta);
     }
   } catch (error) {
@@ -64,7 +59,6 @@ router.get("/intel", async (req, res) => {
 router.get("/amd", async (req, res) => {
   try {
     const { pcType } = req.query;
-    console.log(pcType);
     const Products = await Producto.findAll();
     const amdProducts = Products.filter((e) => e.brand !== "Intel");
     if (!pcType) {
@@ -78,7 +72,6 @@ router.get("/amd", async (req, res) => {
           e.details.Gama !== "alta" &&
           e.details.Gama !== "muy alta"
       );
-      console.log(gamaBaja);
       return res.status(200).json(gamaBaja);
     }
     if (pcType === "media") {
@@ -88,7 +81,6 @@ router.get("/amd", async (req, res) => {
           e.details.Gama !== "alta" &&
           e.details.Gama !== "muy alta"
       );
-      console.log(gamaMedia);
       return res.status(200).json(gamaMedia);
     }
     if (pcType === "alta") {
@@ -98,7 +90,6 @@ router.get("/amd", async (req, res) => {
           e.details.Gama !== "baja" &&
           e.details.Gama !== "muy alta"
       );
-      console.log(gamaAlta);
       return res.status(200).json(gamaAlta);
     }
     if (pcType === "muy alta") {
@@ -108,7 +99,6 @@ router.get("/amd", async (req, res) => {
           e.details.Gama !== "baja" &&
           e.details.Gama !== "alta"
       );
-      console.log(gamaMuyAlta);
       return res.status(200).json(gamaMuyAlta);
     }
   } catch (error) {
@@ -146,7 +136,6 @@ router.get("/", async (req, res) => {
       const filteredProducts = allProducts.filter((elem) => {
         let isValid = true;
         for (key in filters) {
-          // console.log(key, elem[key], filters[key]);
           isValid = isValid && elem[key].toString() === filters[key];
         }
         return isValid;
@@ -175,7 +164,6 @@ router.get("/:id", async (req, res) => {
 
 router.post("/create", authAdmin(["admin", "superAdmin"]), async (req, res) => {
   const { name, brand, cost, type, img, details } = req.body;
-  console.log(req.body);
   try {
     if (!name || !brand || !cost || !type) {
       return res
@@ -196,10 +184,11 @@ router.post("/create", authAdmin(["admin", "superAdmin"]), async (req, res) => {
   }
 });
 
-
-router.put("/update/:id", authAdmin(["admin", "superAdmin"]), async (req, res) => {
+router.put(
+  "/update/:id",
+  authAdmin(["admin", "superAdmin"]),
+  async (req, res) => {
     const { name, brand, img, details, cost, type } = req.body;
-    console.log(req.body)
     const { id } = req.params;
     try {
       const productSelected = await Producto.findByPk(id);
@@ -226,10 +215,8 @@ router.put("/restore/:id", authAdmin(["superAdmin"]), async (req, res) => {
 // , authAdmin(["admin"])
 router.put("/delete/:id", authAdmin(["superAdmin"]), async (req, res) => {
   const { id } = req.params;
-  console.log(id);
   try {
     const product = await Producto.findByPk(id);
-    console.log(product);
     await product.update({ enabled: false });
     res.json(`Producto ${whatProduct} eliminado`);
   } catch (error) {
