@@ -68,28 +68,13 @@ router.get("/", async (req, res) => {
   }
 });
 
-
-router.put("/edit",authAdmin(["user", "admin", "superAdmin"]), async (req, res) => {
-  try {
-console.log('entre al edit')
-    const { userId } = req;
-    const {
-      first_name,
-      last_name,
-      username,
-      password,
-      email,
-      date_of_birth,
-      phone_number,
-      zip_code,
-      address,
-      city,
-      show,
-      role,
-      picture,
-    } = req.body;
-    User.update(
-      {
+router.put(
+  "/edit",
+  authAdmin(["user", "admin", "superAdmin"]),
+  async (req, res) => {
+    try {
+      const { userId } = req;
+      const {
         first_name,
         last_name,
         username,
@@ -103,15 +88,32 @@ console.log('entre al edit')
         show,
         role,
         picture,
-      },
+      } = req.body;
+      User.update(
+        {
+          first_name,
+          last_name,
+          username,
+          password,
+          email,
+          date_of_birth,
+          phone_number,
+          zip_code,
+          address,
+          city,
+          show,
+          role,
+          picture,
+        },
 
-      { where: { id: userId } }
-    ).then((e) => {
-      res.status(200).send("usuario modificado");
-    });
-  } catch (error) {
-    res.send(error.message);
+        { where: { id: userId } }
+      ).then((e) => {
+        res.status(200).send("usuario modificado");
+      });
+    } catch (error) {
+      res.send(error.message);
+    }
   }
-});
+);
 
 module.exports = router;
