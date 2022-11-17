@@ -1,8 +1,9 @@
 const { Router } = require("express");
 const router = Router();
 const { Producto } = require("../db.js");
+const { authAdmin } = require("../middlewares/authAdmin");
 
-router.post("/", async (req, res) => {
+router.post("/", authAdmin(["superAdmin"]), async (req, res) => {
   const { stock, productId } = req.body;
   try {
     if (stock !== 0 && !stock) {
