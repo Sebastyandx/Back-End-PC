@@ -184,14 +184,6 @@ router.post(
             }
           );
         }
-        await infoTransporter(
-          "GamerTech",
-          emailUser,
-          "Compra Realizada Con Exito",
-          `<p>Felicidades por realizar tu compra en GamerTech!</p>`
-        );
-
-
       } catch {
         res.send(400).json("Errr");
       }
