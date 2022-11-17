@@ -1,8 +1,9 @@
 const { Router } = require("express");
 const router = Router();
 const { Producto } = require("../db.js");
+const { authAdmin } = require("../middlewares/authAdmin");
 
-router.post("/", async (req, res) => {
+router.post("/", authAdmin(["admin", "superAdmin"]), async (req, res) => {
   const { discount, productId } = req.body;
   try {
     if (!discount) {

@@ -9,8 +9,8 @@ const Order = require("../models/Orden");
 const { getAllUser, postOrden } = require("./Controllers/usuario");
 
 //const YOUR_DOMAIN = "http://localhost:3000";
-const YOUR_DOMAIN = "https://e-commerce-sage-two.vercel.app/";
-
+const YOUR_DOMAIN = "https://e-commerce-sage-two.vercel.app";
+ 
 router.post("/", async (req, res) => {
   const line_items = req.body.cartItem.map((item) => {
     return {
